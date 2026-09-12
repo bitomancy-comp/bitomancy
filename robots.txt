@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bitomancy.in/sitemap.xml
