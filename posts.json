@@ -1,25 +1,5 @@
 [
   {
-    "title": "Build a Smarter AI-Powered Workflow",
-    "description": "A practical framework for combining AI tools into a repeatable digital workflow.",
-    "url": "/posts/ai-workflow.html",
-    "image": "/assets/og.svg",
-    "imageAlt": "Build a Smarter AI-Powered Workflow",
-    "category": "HOW-TO",
-    "date": "2026-09-22",
-    "readTime": "3 min read"
-  },
-  {
-    "title": "A Practical SEO System for New Websites",
-    "description": "A simple content and internal-linking system for building search visibility.",
-    "url": "/posts/seo-system.html",
-    "image": "/assets/og.svg",
-    "imageAlt": "A Practical SEO System for New Websites",
-    "category": "SEO & BLOGGING",
-    "date": "2026-09-22",
-    "readTime": "3 min read"
-  },
-  {
     "title": "The Technology Trends Worth Watching",
     "description": "A practical look at technology trends that matter for modern users and businesses.",
     "url": "/posts/technology-trends.html",
