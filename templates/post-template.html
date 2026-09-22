@@ -1,0 +1,150 @@
+<!--
+  HOW TO USE THIS TEMPLATE
+  ------------------------
+  1. Copy this file into /posts/ and rename it to your-post-slug.html
+     (lowercase, hyphens, no spaces — this becomes the URL).
+  2. Fill in every <<PLACEHOLDER>> below with your own content.
+  3. Commit and push to GitHub (branch: main).
+  4. That's it. The GitHub Action rebuilds posts.json, sitemap.xml and
+     rss.xml automatically, and your existing Cloudflare Pages connection
+     deploys the site. No dashboard clicks needed.
+
+  The five <meta name="bitomancy:..."> tags below are what the index
+  builder reads for the homepage card and sitemap/RSS entry. You can
+  delete any one of them and it'll be figured out automatically instead
+  (title/description from the normal SEO tags, date from file time,
+  category defaults to TECH, image defaults to the site's og image,
+  read time estimated from word count) — but filling them in yourself
+  is more accurate and takes 30 seconds.
+
+  Want to work on a post without publishing it yet? Add:
+    <meta name="bitomancy:draft" content="true">
+  and it will be skipped from posts.json/sitemap/rss until you remove it.
+-->
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+<title><<Your Post Title, Under 65 Characters>> | BITOMANCY</title>
+<meta name="description" content="<<One or two sentences, under 160 characters, includes your target keyword.>>">
+<meta name="keywords" content="<<keyword one, keyword two, keyword three>>">
+<link rel="canonical" href="https://bitomancy.in/posts/<<your-post-slug>>.html">
+
+<meta property="og:type" content="article">
+<meta property="og:title" content="<<Your Post Title>>">
+<meta property="og:description" content="<<Same as meta description>>">
+<meta property="og:url" content="https://bitomancy.in/posts/<<your-post-slug>>.html">
+<meta property="og:image" content="https://bitomancy.in/images/<<your-image>>.jpg">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="<<Your Post Title>>">
+<meta name="twitter:description" content="<<Same as meta description>>">
+
+<!-- Used by the index builder — see notes above -->
+<meta name="bitomancy:date" content="<<YYYY-MM-DD>>">
+<meta name="bitomancy:category" content="<<AI | TECH | HOW-TO | SEO | REVIEWS>>">
+<meta name="bitomancy:image" content="/images/<<your-image>>.jpg">
+<meta name="bitomancy:imagealt" content="<<Descriptive alt text for the image>>">
+<!-- <meta name="bitomancy:readtime" content="7 min read"> -->
+
+<link rel="stylesheet" href="/styles.css">
+
+<script type="application/ld+json">
+{ "@context":"https://schema.org", "@type":"Article",
+  "headline":"<<Your Post Title>>",
+  "description":"<<Same as meta description>>",
+  "author":{ "@type":"Organization", "name":"BITOMANCY", "url":"https://bitomancy.in/" },
+  "publisher":{ "@type":"Organization", "name":"BITOMANCY", "url":"https://bitomancy.in/" },
+  "mainEntityOfPage":{ "@type":"WebPage", "@id":"https://bitomancy.in/posts/<<your-post-slug>>.html" },
+  "datePublished":"<<YYYY-MM-DD>>",
+  "dateModified":"<<YYYY-MM-DD>>" }
+</script>
+
+</head>
+<body>
+
+<header class="header">
+<div class="container nav">
+<a class="brand" href="/">BITOMANCY</a>
+<nav class="desktop-nav"><a href="/">HOME</a> <a href="/tools.html">TOOLS</a> <a href="/shop.html">SHOP</a></nav>
+<div class="nav-actions"><button class="icon-btn" id="themeBtn">☼</button></div>
+</div>
+</header>
+
+<main class="container section" style="max-width:900px">
+
+<div class="eyebrow"><<AI | TECH | HOW-TO | SEO | REVIEWS>></div>
+
+<h1 style="font-size:clamp(40px,7vw,72px);line-height:1.02;letter-spacing:-.05em">
+<<Your Post Title>>
+</h1>
+
+<p style="font-size:20px;color:var(--muted)">
+<<One-sentence hook / summary shown under the headline.>>
+</p>
+
+<figure style="margin:35px 0">
+<img src="/images/<<your-image>>.jpg" alt="<<Descriptive alt text>>" loading="eager"
+     style="width:100%;height:auto;min-height:300px;object-fit:cover;border-radius:12px;display:block">
+</figure>
+
+<article style="font-size:18px;line-height:1.75">
+
+<p><<Intro paragraph 1.>></p>
+<p><<Intro paragraph 2.>></p>
+
+<h2><<First subheading>></h2>
+<p><<Body content.>></p>
+
+<h2><<Second subheading>></h2>
+<p><<Body content.>></p>
+
+<!-- Optional: keep or delete this affiliate/product block -->
+<div class="shop-section" style="margin:40px 0">
+<div class="shop-copy">
+<div class="eyebrow">BITOMANCY PICK</div>
+<h2>Smart Copy PRO</h2>
+<p>Turn copied text into summaries, professional emails and LinkedIn-ready content in seconds.</p>
+<a class="button" href="https://bitomancer6.gumroad.com/l/nfleiu" target="_blank" rel="noopener">Get Smart Copy PRO →</a>
+</div>
+</div>
+
+<!-- AD SLOT: once your AdSense account is approved, paste your
+     <ins class="adsbygoogle"> unit here -->
+
+<h2><<Third subheading>></h2>
+<p><<Body content.>></p>
+
+<h2>Key Takeaways</h2>
+<ul>
+<li><<Takeaway 1>></li>
+<li><<Takeaway 2>></li>
+<li><<Takeaway 3>></li>
+</ul>
+
+<h2>Frequently Asked Questions</h2>
+
+<h3><<Question 1?>></h3>
+<p><<Answer.>></p>
+
+<h3><<Question 2?>></h3>
+<p><<Answer.>></p>
+
+<h2>Conclusion</h2>
+<p><<Closing paragraph.>></p>
+
+<h2>Explore More on BITOMANCY</h2>
+<p>Want more practical AI and technology guides? Visit the <a href="/">BITOMANCY homepage</a> for more articles on artificial intelligence, automation, SEO and emerging technology.</p>
+
+</article>
+</main>
+
+<footer class="footer">
+<div class="container copyright">© 2026 BITOMANCY — ALL RIGHTS RESERVED</div>
+</footer>
+
+<script src="/script.js"></script>
+</body>
+</html>
