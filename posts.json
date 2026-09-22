@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Build a Smarter AI-Powered Workflow",
+    "description": "A practical framework for combining AI tools into a repeatable digital workflow.",
+    "url": "/posts/ai-workflow.html",
+    "image": "/assets/og.svg",
+    "imageAlt": "Build a Smarter AI-Powered Workflow",
+    "category": "HOW-TO",
+    "date": "2026-09-22",
+    "readTime": "3 min read"
+  },
+  {
+    "title": "A Practical SEO System for New Websites",
+    "description": "A simple content and internal-linking system for building search visibility.",
+    "url": "/posts/seo-system.html",
+    "image": "/assets/og.svg",
+    "imageAlt": "A Practical SEO System for New Websites",
+    "category": "SEO & BLOGGING",
+    "date": "2026-09-22",
+    "readTime": "3 min read"
+  },
+  {
+    "title": "The Technology Trends Worth Watching",
+    "description": "A practical look at technology trends that matter for modern users and businesses.",
+    "url": "/posts/technology-trends.html",
+    "image": "/assets/og.svg",
+    "imageAlt": "The Technology Trends Worth Watching",
+    "category": "TECH",
+    "date": "2026-09-22",
+    "readTime": "3 min read"
+  },
+  {
+    "title": "AI Agents Explained: How Autonomous AI Works, Uses, Benefits & Risks",
+    "description": "Learn what AI agents are, how autonomous AI agents work, their real-world uses, benefits, limitations, risks, and why agentic AI is changing the future of digital work.",
+    "url": "/posts/ai-agents.html",
+    "image": "/images/ai-agents-explained.png",
+    "imageAlt": "AI agents using artificial intelligence to plan tasks, use digital tools and complete automated workflows",
+    "category": "ARTIFICIAL INTELLIGENCE",
+    "date": "2026-09-21",
+    "readTime": "10 min read"
+  }
+]
