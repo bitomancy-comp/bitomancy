@@ -1,0 +1,590 @@
+========================
+FILE: script.js
+===============
+
+document.addEventListener("DOMContentLoaded", function () {
+
+```
+loadPosts();
+setupMenu();
+setupTheme();
+setupSearch();
+setupNewsletter();
+```
+
+});
+
+/* =========================================
+LOAD POSTS
+========================================= */
+
+async function loadPosts() {
+
+```
+const latestContainer = document.getElementById("latestPosts");
+const heroMain = document.getElementById("heroMain");
+const heroSide = document.getElementById("heroSide");
+
+try {
+
+    const response = await fetch("/posts.json?v=" + Date.now());
+
+    if (!response.ok) {
+        throw new Error("Could not load posts.json");
+    }
+
+    const posts = await response.json();
+
+    if (!Array.isArray(posts) || posts.length === 0) {
+
+        latestContainer.innerHTML =
+            '<div class="error-box">No posts available yet.</div>';
+
+        return;
+
+    }
+
+
+    /* Sort newest first */
+
+    posts.sort(function (a, b) {
+
+        return new Date(b.date) - new Date(a.date);
+
+    });
+
+
+    /* =========================================
+       HERO
+    ========================================= */
+
+    const featured = posts[0];
+
+    heroMain.innerHTML = `
+
+        <article class="hero-main">
+
+            <a href="${featured.url}">
+
+                <div class="hero-media">
+
+                    <img
+                        src="${featured.image}"
+                        alt="${escapeHTML(featured.imageAlt || featured.title)}"
+                        width="1200"
+                        height="700"
+                        loading="eager"
+                        fetchpriority="high"
+                        onerror="this.style.display='none';this.parentElement.classList.add('image-fallback')"
+                    >
+
+                    <div class="image-label">
+                        ${escapeHTML(featured.category || "FEATURED")}
+                    </div>
+
+                </div>
+
+            </a>
+
+
+            <div class="hero-copy">
+
+                <div class="eyebrow">
+                    FEATURED STORY
+                </div>
+
+                <h1>
+                    <a href="${featured.url}">
+                        ${escapeHTML(featured.title)}
+                    </a>
+                </h1>
+
+                <p>
+                    ${escapeHTML(featured.description)}
+                </p>
+
+                <a class="button" href="${featured.url}">
+                    Read the story →
+                </a>
+
+            </div>
+
+        </article>
+
+    `;
+
+
+    /* =========================================
+       HERO SIDE POSTS
+    ========================================= */
+
+    heroSide.innerHTML = "";
+
+    posts.slice(1, 4).forEach(function (post) {
+
+        heroSide.innerHTML += `
+
+            <article class="mini-card">
+
+                <a
+                    class="mini-img"
+                    href="${post.url}"
+                    aria-label="${escapeHTML(post.title)}"
+                >
+
+                    <img
+                        src="${post.image}"
+                        alt="${escapeHTML(post.imageAlt || post.title)}"
+                        loading="lazy"
+                        onerror="this.style.display='none';this.parentElement.classList.add('image-fallback')"
+                    >
+
+                </a>
+
+
+                <span>
+                    ${escapeHTML(post.category || "TECH")}
+                </span>
+
+
+                <h3>
+                    <a href="${post.url}">
+                        ${escapeHTML(post.title)}
+                    </a>
+                </h3>
+
+
+                <a href="${post.url}">
+                    Read →
+                </a>
+
+            </article>
+
+        `;
+
+    });
+
+
+    /* =========================================
+       LATEST POSTS
+    ========================================= */
+
+    latestContainer.innerHTML = "";
+
+    posts.slice(0, 9).forEach(function (post) {
+
+        latestContainer.innerHTML += `
+
+            <article class="article-card">
+
+                <a
+                    href="${post.url}"
+                    class="card-image-link"
+                >
+
+                    <div class="card-img">
+
+                        <img
+                            src="${post.image}"
+                            alt="${escapeHTML(post.imageAlt || post.title)}"
+                            loading="lazy"
+                            onerror="this.style.display='none';this.parentElement.classList.add('image-fallback')"
+                        >
+
+                    </div>
+
+                </a>
+
+
+                <div class="card-body">
+
+                    <span>
+                        ${escapeHTML(post.category || "TECH")}
+                    </span>
+
+
+                    <h3>
+
+                        <a href="${post.url}">
+                            ${escapeHTML(post.title)}
+                        </a>
+
+                    </h3>
+
+
+                    <p>
+                        ${escapeHTML(post.description)}
+                    </p>
+
+
+                    <small>
+                        ${formatDate(post.date)}
+                        ${post.readTime ? " · " + escapeHTML(post.readTime) : ""}
+                    </small>
+
+                </div>
+
+            </article>
+
+        `;
+
+    });
+
+
+    /* =========================================
+       UPDATE PAGE TITLE
+    ========================================= */
+
+    document.title =
+        "BITOMANCY — AI, Tech & Digital Growth";
+
+
+    /* =========================================
+       SEARCH DATA
+    ========================================= */
+
+    window.bitomancyPosts = posts;
+
+}
+
+catch (error) {
+
+    console.error(error);
+
+    latestContainer.innerHTML = `
+
+        <div class="error-box">
+
+            <strong>Posts could not be loaded.</strong>
+
+            <br><br>
+
+            Please make sure
+            <strong>posts.json</strong>
+            exists in the root of your GitHub repository.
+
+        </div>
+
+    `;
+
+}
+```
+
+}
+
+/* =========================================
+DATE
+========================================= */
+
+function formatDate(dateString) {
+
+```
+const date = new Date(dateString);
+
+if (isNaN(date)) {
+    return "";
+}
+
+return date.toLocaleDateString("en-IN", {
+    year: "numeric",
+    month: "short",
+    day: "numeric"
+});
+```
+
+}
+
+/* =========================================
+HTML ESCAPE
+========================================= */
+
+function escapeHTML(value) {
+
+```
+if (!value) {
+    return "";
+}
+
+return String(value)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#039;");
+```
+
+}
+
+/* =========================================
+MOBILE MENU
+========================================= */
+
+function setupMenu() {
+
+```
+const button = document.getElementById("menuBtn");
+const menu = document.getElementById("mobileNav");
+
+if (!button || !menu) {
+    return;
+}
+
+button.addEventListener("click", function () {
+
+    if (menu.style.display === "block") {
+
+        menu.style.display = "none";
+
+    } else {
+
+        menu.style.display = "block";
+
+    }
+
+});
+```
+
+}
+
+/* =========================================
+THEME
+========================================= */
+
+function setupTheme() {
+
+```
+const button = document.getElementById("themeBtn");
+
+if (!button) {
+    return;
+}
+
+const savedTheme = localStorage.getItem("bitomancy-theme");
+
+if (savedTheme) {
+
+    document.documentElement.setAttribute(
+        "data-theme",
+        savedTheme
+    );
+
+}
+
+
+button.addEventListener("click", function () {
+
+    const current =
+        document.documentElement.getAttribute("data-theme") ||
+        "dark";
+
+    const next =
+        current === "dark" ? "light" : "dark";
+
+    document.documentElement.setAttribute(
+        "data-theme",
+        next
+    );
+
+    localStorage.setItem(
+        "bitomancy-theme",
+        next
+    );
+
+});
+```
+
+}
+
+/* =========================================
+SEARCH
+========================================= */
+
+function setupSearch() {
+
+```
+const openButton =
+    document.getElementById("searchBtn");
+
+const closeButton =
+    document.getElementById("closeSearch");
+
+const overlay =
+    document.getElementById("searchOverlay");
+
+const input =
+    document.getElementById("searchInput");
+
+const results =
+    document.getElementById("searchResults");
+
+
+if (!openButton || !overlay || !input) {
+    return;
+}
+
+
+openButton.addEventListener("click", function () {
+
+    overlay.classList.add("open");
+
+    setTimeout(function () {
+
+        input.focus();
+
+    }, 100);
+
+});
+
+
+if (closeButton) {
+
+    closeButton.addEventListener("click", function () {
+
+        overlay.classList.remove("open");
+
+    });
+
+}
+
+
+overlay.addEventListener("click", function (event) {
+
+    if (event.target === overlay) {
+
+        overlay.classList.remove("open");
+
+    }
+
+});
+
+
+input.addEventListener("input", function () {
+
+    const query =
+        input.value.trim().toLowerCase();
+
+
+    if (!query) {
+
+        results.innerHTML = "";
+
+        return;
+
+    }
+
+
+    const posts =
+        window.bitomancyPosts || [];
+
+
+    const matches =
+        posts.filter(function (post) {
+
+            return (
+
+                post.title.toLowerCase().includes(query) ||
+
+                post.description.toLowerCase().includes(query) ||
+
+                (post.category || "")
+                    .toLowerCase()
+                    .includes(query)
+
+            );
+
+        });
+
+
+    if (matches.length === 0) {
+
+        results.innerHTML =
+            "<p>No articles found.</p>";
+
+        return;
+
+    }
+
+
+    results.innerHTML =
+        matches.map(function (post) {
+
+            return `
+
+                <div class="result">
+
+                    <a href="${post.url}">
+
+                        <strong>
+                            ${escapeHTML(post.title)}
+                        </strong>
+
+                    </a>
+
+                    <br>
+
+                    <small>
+                        ${escapeHTML(post.category || "TECH")}
+                    </small>
+
+                </div>
+
+            `;
+
+        }).join("");
+
+});
+```
+
+}
+
+/* =========================================
+NEWSLETTER
+========================================= */
+
+function setupNewsletter() {
+
+```
+const form =
+    document.getElementById("newsletterForm");
+
+const message =
+    document.getElementById("formMsg");
+
+
+if (!form) {
+    return;
+}
+
+
+form.addEventListener("submit", function (event) {
+
+    event.preventDefault();
+
+    if (message) {
+
+        message.textContent =
+            "Newsletter signup will be connected soon.";
+
+    }
+
+});
+```
+
+}
+
+========================
+FILE: posts.json
+================
+
+[
+{
+"title": "AI Agents Explained: How Autonomous AI Works, Uses, Benefits & Risks",
+"description": "Learn what AI agents are, how autonomous AI systems work, their real-world uses, benefits, limitations and security risks.",
+"url": "/posts/ai-agents.html",
+"image": "/images/ai-agents-explained.webp",
+"imageAlt": "AI agents using artificial intelligence to plan tasks, use digital tools and complete automated workflows",
+"category": "AI",
+"date": "2026-09-21",
+"readTime": "10 min read"
+}
+]
