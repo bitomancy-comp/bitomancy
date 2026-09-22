@@ -1,15 +1,5 @@
 [
   {
-    "title": "The Technology Trends Worth Watching",
-    "description": "A practical look at technology trends that matter for modern users and businesses.",
-    "url": "/posts/technology-trends.html",
-    "image": "/assets/og.svg",
-    "imageAlt": "The Technology Trends Worth Watching",
-    "category": "TECH",
-    "date": "2026-09-22",
-    "readTime": "3 min read"
-  },
-  {
     "title": "AI Agents Explained: How Autonomous AI Works, Uses, Benefits & Risks",
     "description": "Learn what AI agents are, how autonomous AI agents work, their real-world uses, benefits, limitations, risks, and why agentic AI is changing the future of digital work.",
     "url": "/posts/ai-agents.html",
