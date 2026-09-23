@@ -1,12 +1,12 @@
 [
   {
-    "title": "AI Agents Explained: How Autonomous AI Works, Uses, Benefits & Risks",
-    "description": "Learn what AI agents are, how autonomous AI agents work, their real-world uses, benefits, limitations, risks, and why agentic AI is changing the future of digital work.",
+    "title": "AI Agents: What They Are, How They Work & Use Cases",
+    "description": "Learn what AI agents are, how agentic AI works, key components, real-world use cases, benefits, risks and how to get started.",
     "url": "/posts/ai-agents.html",
-    "image": "/images/ai-agents-explained.png",
-    "imageAlt": "AI agents using artificial intelligence to plan tasks, use digital tools and complete automated workflows",
-    "category": "ARTIFICIAL INTELLIGENCE",
-    "date": "2026-09-21",
-    "readTime": "10 min read"
+    "image": "/images/ai-agents.jpg",
+    "imageAlt": "Futuristic AI agent system connecting a language model with tools, data and automated workflows",
+    "category": "AI",
+    "date": "2026-09-23",
+    "readTime": "9 min read"
   }
 ]
