@@ -1,9 +1,19 @@
 [
   {
+    "title": "How to Build a Smarter AI-Powered Workflow (Step-by-Step)",
+    "description": "Learn how AI workflows work, the core input-to-result loop, and a step-by-step framework for building your own AI-powered workflow.",
+    "url": "/posts/ai-workflow.html",
+    "image": "/images/ai-agent-workflow.png",
+    "imageAlt": "Diagram of an AI agent workflow: user input, plan and reason, use tools, take action, get results",
+    "category": "HOW-TO",
+    "date": "2026-09-24",
+    "readTime": "8 min read"
+  },
+  {
     "title": "AI Agents: What They Are, How They Work & Use Cases",
     "description": "Learn what AI agents are, how agentic AI works, key components, real-world use cases, benefits, risks and how to get started.",
     "url": "/posts/ai-agents.html",
-    "image": "/images/ai-agents-explained.png",
+    "image": "/images/ai-agents.jpg",
     "imageAlt": "Futuristic AI agent system connecting a language model with tools, data and automated workflows",
     "category": "AI",
     "date": "2026-09-23",
