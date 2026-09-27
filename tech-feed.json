@@ -1,5 +1,29 @@
 [
   {
+    "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+    "description": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and Jun",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236154957.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-09-27T17:21:07.000Z"
+  },
+  {
+    "title": "Anthropic&#8217;s Dario Amodei gets the SNL treatment",
+    "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+    "description": "\"AI is the devil and I its maker.\"",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-09-27T16:30:00.000Z"
+  },
+  {
+    "title": "TechCrunch Mobility: AV companies pick their lanes",
+    "link": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
+    "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-09-27T16:02:00.000Z"
+  },
+  {
     "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
     "link": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
     "description": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and",
@@ -192,14 +216,6 @@
     "date": "2026-09-26T13:00:00.000Z"
   },
   {
-    "title": "Pokémon card resellers have turned collecting into an online blood sport",
-    "link": "https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers",
-    "description": "Earlier this month, Pok&#233;mon card content creator Natalie Roush posted a video to her YouTube and Instagram pages that enraged the larger collection community. In the now-delet",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268781_Pokemon_PARKIN_v3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-09-26T12:00:00.000Z"
-  },
-  {
     "title": "Old-School Credit Card Scams Are Far From Dead",
     "link": "https://www.wired.com/story/kernel-panic-old-timey-credit-card-scams/",
     "description": "In an era of increasingly sophisticated AI-fueled scams, a retro threat may be lurking in your mailbox.",
@@ -222,21 +238,5 @@
     "image": "https://media.wired.com/photos/69d41d1bf10fbfdc2dc2e429/master/pass/The-Best-Mesh-Wi-Fi-Systems-for-WFH,-Gaming,-and-Streaming.jpg",
     "source": "WIRED",
     "date": "2026-09-26T11:00:00.000Z"
-  },
-  {
-    "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
-    "link": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
-    "description": "The 500-mile Semi arrives as charging gaps still limit electric trucking.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/teslasemi-1024x648.jpg",
-    "source": "Ars Technica",
-    "date": "2026-09-26T10:45:09.000Z"
-  },
-  {
-    "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
-    "link": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
-    "description": "Meta says Muse is just for adults, though its cuddly, Labubu-like mascot—and upcoming Tamagotchi-style AI device—may be disarming for users of all ages.",
-    "image": "https://media.wired.com/photos/6ab6a33ebc7793cf754905a1/master/pass/GettyImages-2296209094.jpg",
-    "source": "WIRED",
-    "date": "2026-09-26T10:30:00.000Z"
   }
 ]
