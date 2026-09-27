@@ -266,19 +266,22 @@ column-gap:14px;
 }
 
 .mini-img{
-grid-row:1/5;
-min-height:105px;
-border-radius:8px;
-overflow:hidden;
-background:linear-gradient(135deg,#151821,#080a0d);
+    grid-row:1/5;
+    width:105px;
+    height:105px;
+    min-height:0;
+    align-self:start;
+    border-radius:8px;
+    overflow:hidden;
+    background:linear-gradient(135deg,#151821,#080a0d);
 }
 
 .mini-img img{
-width:100%;
-height:100%;
-min-height:105px;
-display:block;
-object-fit:cover;
+    width:105px;
+    height:105px;
+    min-height:0;
+    display:block;
+    object-fit:cover;
 }
 
 .mini-card span,
@@ -857,11 +860,15 @@ grid-template-columns:80px 1fr;
 }
 
 .mini-img{
-min-height:80px;
+    width:80px;
+    height:80px;
+    min-height:0;
 }
 
 .mini-img img{
-min-height:80px;
+    width:80px;
+    height:80px;
+    min-height:0;
 }
 
 .shop-copy,
