@@ -76,7 +76,7 @@ function miniCardHtml(p){
 <div class="mini-img"><img src="${p.image||""}" alt="${p.imageAlt||p.title}" loading="lazy" onerror="this.remove()"></div>
 <span>${(p.category||"").toUpperCase()}</span>
 <h3>${p.title}</h3>
-<a>${formatDate(p.date)}${p.readTime?" · "+p.readTime:""}</a>
+<span class="mini-date">${formatDate(p.date)}${p.readTime?" · "+p.readTime:""}</span>
 </a>`;
 }
 
