@@ -1,5 +1,13 @@
 [
   {
+    "title": "Some Pancreatic Cells Are Just One Genetic Tweak Away From Treating Diabetes",
+    "link": "https://www.wired.com/story/pancreatic-cells-just-one-genetic-tweak-away-from-treating-diabetes/",
+    "description": "By deactivating a gene, researchers were able to cause cells in the pancreatic ducts to produce insulin to regulate blood sugar.",
+    "image": "https://media.wired.com/photos/6aa07f155e9283252bdff079/master/pass/1160987182",
+    "source": "WIRED",
+    "date": "2026-09-27T09:00:00.000Z"
+  },
+  {
     "title": "PNOE&#8217;s new face mask wants to make lab-grade breath testing a self-serve affair",
     "link": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
     "description": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that let",
@@ -230,13 +238,5 @@
     "image": "",
     "source": "TechCrunch",
     "date": "2026-09-25T22:20:47.000Z"
-  },
-  {
-    "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-    "link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
-    "description": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
-    "source": "Ars Technica",
-    "date": "2026-09-25T21:36:20.000Z"
   }
 ]
