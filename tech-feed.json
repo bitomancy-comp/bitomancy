@@ -1,5 +1,69 @@
 [
   {
+    "title": "SpaceX preps next-gen Starlink as Amazon’s competitor stalls",
+    "link": "https://www.theverge.com/science/1001259/spacex-starlink-satellites-starship-amazon-leo",
+    "description": "SpaceX is gearing up for a monumental flight today that's sure to be closely watched by Amazon. If successful, SpaceX will deploy its first Starlink V3 satellites, which tout meani",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-09-28T12:09:17.000Z"
+  },
+  {
+    "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+    "link": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+    "description": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the summer forces another tempora",
+    "image": "https://media.wired.com/photos/6aba376a2b66b9dd652c1c6c/master/pass/092826-OpenAi%20Whitehouse%20Hack.jpg",
+    "source": "WIRED",
+    "date": "2026-09-28T11:32:19.000Z"
+  },
+  {
+    "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
+    "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
+    "description": "“Microsoft claims to want to be a good neighbor, but the jury is still out.\"",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/microsoft-data-center-champion-1152x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-09-28T11:00:09.000Z"
+  },
+  {
+    "title": "Space Lasers Are About to Get Their First Real Test Generating Energy",
+    "link": "https://www.wired.com/story/space-lasers-are-about-to-get-their-first-real-test-generating-energy/",
+    "description": "Startup Star Catcher is launching a system that, if successful, would be the first time energy has been beamed between two separate spacecraft.",
+    "image": "https://media.wired.com/photos/6aba3a226b9dc374933c7c48/master/pass/Space%20Lazer.jpg",
+    "source": "WIRED",
+    "date": "2026-09-28T11:00:00.000Z"
+  },
+  {
+    "title": "Best Apple Watch: Series 12, Ultra 4, and SE 3 (2026)",
+    "link": "https://www.wired.com/story/best-apple-watch/",
+    "description": "From the latest Ultra to last year’s SE, these are the Apple Watches worth considering.",
+    "image": "https://media.wired.com/photos/6ab84ba8c1592ce41c5b6216/master/pass/GettyImages-2293861871.jpg",
+    "source": "WIRED",
+    "date": "2026-09-28T10:36:00.000Z"
+  },
+  {
+    "title": "I've Tested Over 100 Home Security Cameras. Here's Which to Buy",
+    "link": "https://www.wired.com/story/best-security-cameras/",
+    "description": "Keep an eye on home wherever you are with the best security cameras, including indoor and outdoor, subscription services, AI smarts, and local recording options.",
+    "image": "https://media.wired.com/photos/6ab701522bf117642be62ca7/master/pass/The-Best-Security-Cameras.jpg",
+    "source": "WIRED",
+    "date": "2026-09-28T10:30:00.000Z"
+  },
+  {
+    "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
+    "link": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
+    "description": "Your next coworker might well be an AI agent—and will require a whole new model of workplace interactions.",
+    "image": "https://media.wired.com/photos/6ab67a543b15d40264a17301/master/pass/092526-AI%20Coworker.jpg",
+    "source": "WIRED",
+    "date": "2026-09-28T10:00:00.000Z"
+  },
+  {
+    "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
+    "link": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
+    "description": "Mathematics has been one of humanity’s most creative endeavors, akin to painting and poetry. Now, mathematicians are trying to save it from the brute force of AI.",
+    "image": "https://media.wired.com/photos/6ab66fcabccfe76e77e84940/master/pass/092526-Math%20Art%20AI.jpg",
+    "source": "WIRED",
+    "date": "2026-09-28T09:30:00.000Z"
+  },
+  {
     "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
     "link": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
     "description": "A British startup is shaping video game inputs into training data for AI models that can navigate the physical world.",
@@ -174,69 +238,5 @@
     "image": "https://media.wired.com/photos/6ab645044583e2d9f6520e5d/master/pass/GettyImages-2265426534.jpg",
     "source": "WIRED",
     "date": "2026-09-27T09:30:00.000Z"
-  },
-  {
-    "title": "Some Pancreatic Cells Are Just One Genetic Tweak Away From Treating Diabetes",
-    "link": "https://www.wired.com/story/pancreatic-cells-just-one-genetic-tweak-away-from-treating-diabetes/",
-    "description": "By deactivating a gene, researchers were able to cause cells in the pancreatic ducts to produce insulin to regulate blood sugar.",
-    "image": "https://media.wired.com/photos/6aa07f155e9283252bdff079/master/pass/1160987182",
-    "source": "WIRED",
-    "date": "2026-09-27T09:00:00.000Z"
-  },
-  {
-    "title": "PNOE&#8217;s new face mask wants to make lab-grade breath testing a self-serve affair",
-    "link": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
-    "description": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that let",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-27T01:40:30.000Z"
-  },
-  {
-    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-    "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-    "description": "The limited test covers select products and users, with a broader rollout planned for later in October.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-27T01:30:00.000Z"
-  },
-  {
-    "title": "Apple hit with $5.7 billion in damages over haptic patents",
-    "link": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
-    "description": "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. Accordi",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0277.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-09-26T21:30:01.000Z"
-  },
-  {
-    "title": "Insurers claim AI is already increasing healthcare costs",
-    "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-    "description": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-26T21:02:06.000Z"
-  },
-  {
-    "title": "TikTok agrees to pay at least $100M in Alabama settlement",
-    "link": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
-    "description": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-26T20:24:45.000Z"
-  },
-  {
-    "title": "Decap is the man behind the drums behind your favorite song",
-    "link": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
-    "description": "I don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprint",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Elysian_palms_10.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-09-26T19:30:00.000Z"
-  },
-  {
-    "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
-    "link": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
-    "description": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platfo",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-26T17:44:00.000Z"
   }
 ]
