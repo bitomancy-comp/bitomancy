@@ -8,9 +8,8 @@
 .tgrid img{width:100%;height:auto;display:block;background:#fff}
 .tgrid figcaption{display:flex;justify-content:space-between;gap:6px;margin-top:6px}
 .tool button:disabled{opacity:.5;cursor:wait}
-</style><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5983644165648870"
-     crossorigin="anonymous"></script>
-</head><body><header class="header"><div class="container nav"><a class="brand" href="/">BITOMANCY</a><nav class="desktop-nav"><a href="/">HOME</a><a href="/tools.html">TOOLS</a><a href="/shop.html">SHOP</a></nav><div class="nav-actions"><button class="icon-btn" id="themeBtn">☼</button></div></div></header><main class="container section"><div class="eyebrow">BITOMANCY TOOLS</div><h1>Free tools for everyday digital work.</h1><p class="muted">Fast, simple utilities. No account required. Files you open here are processed in your browser and never uploaded.</p><div class="tool-grid" style="margin-top:35px">
+.tool [hidden]{display:none!important}
+</style></head><body><header class="header"><div class="container nav"><a class="brand" href="/">BITOMANCY</a><nav class="desktop-nav"><a href="/">HOME</a><a href="/tools.html">TOOLS</a><a href="/shop.html">SHOP</a></nav><div class="nav-actions"><button class="icon-btn" id="themeBtn">☼</button></div></div></header><main class="container section"><div class="eyebrow">BITOMANCY TOOLS</div><h1>Free tools for everyday digital work.</h1><p class="muted">Fast, simple utilities. No account required. Files you open here are processed in your browser and never uploaded.</p><div class="tool-grid" style="margin-top:35px">
 
 <section class="tool" id="pdf-to-jpg"><h2>PDF to JPG</h2><p class="muted">Convert every page of a PDF into a JPG image.</p><div class="trow"><input type="file" id="p2j-file" accept="application/pdf" aria-label="Choose a PDF"><select id="p2j-scale" aria-label="Quality"><option value="1.5">Standard quality</option><option value="2" selected>High quality</option><option value="3">Very high (slower)</option></select><button class="button" id="p2j-go">Convert to JPG</button></div><div class="tstatus" id="p2j-status" role="status"></div><div class="tgrid" id="p2j-out"></div><div class="trow"><button class="button" id="p2j-zip" hidden>Download all as ZIP</button></div></section>
 
@@ -28,6 +27,7 @@
 <script>
 const wc=document.getElementById('wc');wc.oninput=()=>{let t=wc.value.trim();document.getElementById('wcout').textContent=`${t?t.split(/\s+/).length:0} words · ${wc.value.length} characters`};const mi=document.getElementById('metaIn');mi.oninput=()=>document.getElementById('metac').textContent=`${mi.value.length} / 160`;function outline(){let t=document.getElementById('topic').value||'Your Topic';document.getElementById('out').innerHTML=`<h3>${t}</h3><ol><li>Introduction</li><li>What is ${t}?</li><li>Key benefits and features</li><li>How it works</li><li>Practical examples</li><li>Common mistakes</li><li>Best practices</li><li>Conclusion and next steps</li></ol>`}
 
+(()=>{
 /* ---------- Shared helpers ---------- */
 const $=s=>document.querySelector(s);
 const say=(id,t)=>{$(id).textContent=t};
@@ -114,4 +114,5 @@ $('#img-go').onclick=function(){run(this,'#img-status',async()=>{
   download(blob,`${baseName(f)}-converted.${ext}`);
   say('#img-status',`Done. ${kb(f.size)} became ${kb(blob.size)} (${c.width} x ${c.height} px).`);
 })};
+})();
 </script></body></html>
