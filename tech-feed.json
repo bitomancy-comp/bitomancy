@@ -1,11 +1,139 @@
 [
   {
+    "title": "AMD will acquire Fei-Fei Li&#8217;s World Labs for $8.2 billion",
+    "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+    "description": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-09-28T20:39:33.000Z"
+  },
+  {
+    "title": "To keep drug prices high, pharma has been piling up the patents",
+    "link": "https://arstechnica.com/health/2026/09/to-keep-drug-prices-high-pharma-has-been-piling-up-the-patents/",
+    "description": "Add-on patents have increased drug patent periods from two years to over six.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/prescription-thicket-1152x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-09-28T19:53:37.000Z"
+  },
+  {
+    "title": "Trump cuts fuel economy standards back to 2014 levels",
+    "link": "https://arstechnica.com/cars/2026/09/trump-cuts-fuel-economy-standards-back-to-2014-levels/",
+    "description": "In 2020, Trump cut CAFE to 40 mpg. Now he’s cut it again to just 35 mpg.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-155384429-1152x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-09-28T19:35:51.000Z"
+  },
+  {
+    "title": "Shopify opens checkout to browser-based AI agents",
+    "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+    "description": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-09-28T19:33:57.000Z"
+  },
+  {
+    "title": "Bose starts adding Auracast to its headphones",
+    "link": "https://www.theverge.com/tech/1001522/bose-headphones-get-auracast-support",
+    "description": "A new firmware update for the $449 Bose QuietComfort Ultra Headphones Gen 2 adds support for Bluetooth LE Audio and Auracast as beta features. The flagship Ultra headphones are the",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24844791/BoseQCUltra.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-09-28T19:31:24.000Z"
+  },
+  {
+    "title": "Boox Announces the Picco, Its Smallest E-Reader Ever (2026)",
+    "link": "https://www.wired.com/story/boox-picco-announcement-2026/",
+    "description": "The Boox Picco is a palm-sized e-reader with a 4-inch screen, strong support for different ebook formats, and digital utility tools.",
+    "image": "https://media.wired.com/photos/6abab8062195c6db9de4a281/master/pass/Boox-Announces-a-Small-Device-Made-for-Reading-and-Productivity.jpg",
+    "source": "WIRED",
+    "date": "2026-09-28T19:30:00.000Z"
+  },
+  {
+    "title": "Tesla delays Roadster 2 event again due to bad weather",
+    "link": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
+    "description": "Tesla says the event \"can only be held outdoors,\" as it's expected to show the car flying in some form using SpaceX thrusters.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-09-28T19:27:27.000Z"
+  },
+  {
+    "title": "The AI boom took over Climate Week and not everyone is happy about it",
+    "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+    "description": "Just like the rest of the U.S, data centers and AI are dividing climate tech founders and investors.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-09-28T19:21:59.000Z"
+  },
+  {
+    "title": "Kalshi loses again as judges rule prediction markets must obey gambling laws",
+    "link": "https://arstechnica.com/tech-policy/2026/09/another-court-rules-kalshi-sports-bets-arent-swaps-says-states-can-crack-down/",
+    "description": "Kalshi's defiance of state gambling laws may be headed to Supreme Court.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-1152x648-1783536871.jpg",
+    "source": "Ars Technica",
+    "date": "2026-09-28T19:04:09.000Z"
+  },
+  {
+    "title": "Meta-Led Anti-Terrorism Group Faces Mass Resignation of Expert Advisers",
+    "link": "https://www.wired.com/story/independent-advisers-resign-en-masse-from-big-techs-anti-terrorism-group/",
+    "description": "Meta and other tech giants are pushing through structural changes at the Global Internet Forum to Counter Terrorism that outside researchers allege will weaken oversight of an alre",
+    "image": "https://media.wired.com/photos/6ab6f908b0c5fe562dde1152/master/pass/business_global_antiterrorism_advisors_resign.jpg",
+    "source": "WIRED",
+    "date": "2026-09-28T18:47:54.000Z"
+  },
+  {
+    "title": "OpenAI’s AI agents need to catch up",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+    "description": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, ",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-09-28T18:45:00.000Z"
+  },
+  {
+    "title": "Trump finalizes rule to make cars less fuel efficient",
+    "link": "https://www.theverge.com/news/1001610/trump-weakens-fuel-efficiency-standards",
+    "description": "The US Department of Transportation finalized its plans today to weaken fuel efficiency standards, calling it \"among the largest deregulatory actions under the second Trump Adminis",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-09-28T18:39:50.000Z"
+  },
+  {
+    "title": "Nvidia launches new platform for reining in rogue AI agents",
+    "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+    "description": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. ",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-09-28T18:31:23.000Z"
+  },
+  {
+    "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+    "description": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided tr",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-09-28T18:30:00.000Z"
+  },
+  {
+    "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
+    "link": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034/",
+    "description": "Google support maps out how Googlebooks can take over where ChromeOS left off.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/list-1152x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-09-28T18:04:59.000Z"
+  },
+  {
     "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
     "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
     "description": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
     "image": "",
     "source": "TechCrunch",
     "date": "2026-09-28T18:00:00.000Z"
+  },
+  {
+    "title": "Scientists solve 1840s space weather mystery",
+    "link": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
+    "description": "19th century Nature account of 1841 train delayed by geomagnetic storm got year wrong—due to a typo.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/spaceweather-1152x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-09-28T17:56:36.000Z"
   },
   {
     "title": "F1 in Azerbaijan: That was almost a close-run thing",
@@ -88,7 +216,7 @@
     "date": "2026-09-28T16:43:18.000Z"
   },
   {
-    "title": "NASA, for the time being, is unable to move the space station's large robotic arm",
+    "title": "NASA 'troubleshooting' transporter for space station's robotic arm [Updated]",
     "link": "https://arstechnica.com/space/2026/09/nasa-for-the-time-being-is-unable-to-move-the-space-stations-large-robotic-armthe-large-robotic-arm-on-the-international-space-station-has-stopped-working/",
     "description": "NASA isn't saying much. The problem may be temporary.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2016/06/26523207085_7558984d60_k-1152x648.jpg",
@@ -110,133 +238,5 @@
     "image": "",
     "source": "TechCrunch",
     "date": "2026-09-28T15:30:00.000Z"
-  },
-  {
-    "title": "Physical AI chip developer SiMa.ai hits $1.45B valuation",
-    "link": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
-    "description": "The edge computing startup raised a $150 million Series C led by Fidelity and Amplify.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-28T15:29:21.000Z"
-  },
-  {
-    "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
-    "link": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
-    "description": "Accounting staffing company MAVI emerges from stealth with $4million in funding.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-28T15:26:46.000Z"
-  },
-  {
-    "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-    "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-    "description": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run direc",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-28T15:00:00.000Z"
-  },
-  {
-    "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
-    "description": "CFS' Brandon Sorbom and Helion's David Kirtley join the Smart Systems Stage at TechCrunch Disrupt 2026 to discuss the breakthroughs moving fusion forward, the challenges that remai",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-28T15:00:00.000Z"
-  },
-  {
-    "title": "Dreame’s step-climbing X50 Ultra mopping vacuum is hundreds off",
-    "link": "https://www.theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale",
-    "description": "It’s been a while since we’ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame’s X50 Ultra is the ",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/dreamex50ultra.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-09-28T14:55:12.000Z"
-  },
-  {
-    "title": "FBI reportedly declares &#8216;cyber security incident&#8217; after hackers steal agents&#8217; personal data",
-    "link": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
-    "description": "The bureau has not yet publicly confirmed a breach, but has told its agents that their personal information and Social Security numbers were exposed.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-28T14:50:30.000Z"
-  },
-  {
-    "title": "These Extremists Are Running for Election in November",
-    "link": "https://www.wired.com/story/these-extremists-are-running-for-election-in-november/",
-    "description": "With the threat of political violence at unprecedented levels, state and federal GOP candidates are openly sharing racist, pro-militia, anti-vaccine, sexist, antisemitic, and seces",
-    "image": "https://media.wired.com/photos/6ab5b6b48aaba31111432c65/master/pass/GOP-Extremists-Politics.jpg",
-    "source": "WIRED",
-    "date": "2026-09-28T14:41:08.000Z"
-  },
-  {
-    "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
-    "description": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register ",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-28T14:30:00.000Z"
-  },
-  {
-    "title": "Bose’s first wired earbuds in 11 years add noise canceling",
-    "link": "https://www.theverge.com/tech/1001326/bose-wired-earbuds-noise-canceling-headphones-preorder",
-    "description": "Everything old is new again as today Bose announced its first pair of wired earbuds since discontinuing the option in 2015. The new tethered earbuds, which are simply called the Bo",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/bosebud1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-09-28T14:09:44.000Z"
-  },
-  {
-    "title": "Modulate raises $25M for its voice models and analysis suite",
-    "link": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
-    "description": "Modulate deploys its models to detect deepfake, fraud and scam",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-28T14:05:00.000Z"
-  },
-  {
-    "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
-    "link": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
-    "description": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, invest",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-28T14:00:00.000Z"
-  },
-  {
-    "title": "Insurtech Outmarket raises $34.5M just months after prior round",
-    "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-    "description": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-28T14:00:00.000Z"
-  },
-  {
-    "title": "ElevenLabs&#8217; new v4 speech model supports more expression control and 90 languages",
-    "link": "https://techcrunch.com/2026/09/28/elevenlabs-new-v4-speech-model-supports-more-expression-control-and-90-languages/",
-    "description": "ElevenLabs v4 can clone voices with a 10 second clip",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-28T14:00:00.000Z"
-  },
-  {
-    "title": "The SaaSpocalypse that wasn&#8217;t, with Atlassian CEO Mike Cannon-Brookes",
-    "link": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira",
-    "description": "Today, I’m talking with Mike Cannon-Brookes, who is cofounder and CEO of Atlassian.&#160; Atlassian is one of those companies that every other company runs on — it makes important ",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-28_Cannon-Brookes.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-09-28T14:00:00.000Z"
-  },
-  {
-    "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-    "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-    "description": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-28T13:38:48.000Z"
-  },
-  {
-    "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
-    "link": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-    "description": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reut",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-09-28T13:36:06.000Z"
   }
 ]
