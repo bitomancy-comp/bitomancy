@@ -1,5 +1,21 @@
 [
   {
+    "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
+    "link": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
+    "description": "A British startup is shaping video game inputs into training data for AI models that can navigate the physical world.",
+    "image": "https://media.wired.com/photos/6ab2c77aa4511820fe187b66/master/pass/People-Training-AI-to-Understand-Physical-World-With-Video-Games-Business.jpg",
+    "source": "WIRED",
+    "date": "2026-09-28T09:00:00.000Z"
+  },
+  {
+    "title": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System",
+    "link": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
+    "description": "In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containment.",
+    "image": "https://media.wired.com/photos/6aba2329e8d78c42cabc4ad2/master/pass/092826-Nvidia%20OpenShell.jpg",
+    "source": "WIRED",
+    "date": "2026-09-28T09:00:00.000Z"
+  },
+  {
     "title": "Who’s liable when AI agents go rogue?",
     "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
     "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. O",
@@ -222,21 +238,5 @@
     "image": "",
     "source": "TechCrunch",
     "date": "2026-09-26T17:44:00.000Z"
-  },
-  {
-    "title": "Kids turned the comment section of an NPR podcast into a group chat",
-    "link": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section",
-    "description": "Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25332725/STK419_DEEPFAKE_CVIRGINIA_L.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-09-26T17:32:35.000Z"
-  },
-  {
-    "title": "Levoit&#8217;s new air purifier is for the pet odors that have taken over your apartment",
-    "link": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
-    "description": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-26T17:00:00.000Z"
   }
 ]
