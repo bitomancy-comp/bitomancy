@@ -1,1 +1,117 @@
-<!doctype html><html lang="en" data-theme="dark"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Free Tools — BITOMANCY</title><meta name="description" content="Free practical tools from BITOMANCY."><link rel="canonical" href="https://bitomancy.in/tools.html"><link rel="stylesheet" href="/styles.css"></head><body><header class="header"><div class="container nav"><a class="brand" href="/">BITOMANCY</a><nav class="desktop-nav"><a href="/">HOME</a><a href="/tools.html">TOOLS</a><a href="/shop.html">SHOP</a></nav><div class="nav-actions"><button class="icon-btn" id="themeBtn">☼</button></div></div></header><main class="container section"><div class="eyebrow">BITOMANCY TOOLS</div><h1>Free tools for everyday digital work.</h1><p class="muted">Fast, simple utilities. No account required for the client-side tools below.</p><div class="tool-grid" style="margin-top:35px"><section class="tool" id="word-counter"><h2>Word Counter</h2><textarea id="wc" style="width:100%;min-height:180px;background:var(--bg);color:var(--text);border:1px solid var(--line);padding:12px"></textarea><p id="wcout">0 words · 0 characters</p></section><section class="tool" id="case"><h2>Case Converter</h2><textarea id="casein" style="width:100%;min-height:120px;background:var(--bg);color:var(--text);border:1px solid var(--line);padding:12px"></textarea><button class="button" onclick="document.getElementById('casein').value=document.getElementById('casein').value.toUpperCase()">UPPERCASE</button> <button class="button" onclick="document.getElementById('casein').value=document.getElementById('casein').value.toLowerCase()">lowercase</button></section><section class="tool" id="meta"><h2>Meta Description Helper</h2><textarea id="metaIn" maxlength="160" placeholder="Write a concise page description..." style="width:100%;min-height:120px;background:var(--bg);color:var(--text);border:1px solid var(--line);padding:12px"></textarea><p id="metac">0 / 160</p></section><section class="tool" id="outline"><h2>Blog Outline Generator</h2><input id="topic" placeholder="Enter a topic" style="width:100%;padding:12px;background:var(--bg);color:var(--text);border:1px solid var(--line)"><button class="button" style="margin-top:10px" onclick="outline()">Generate outline</button><div id="out"></div></section></div></main><script src="/script.js"></script><script>const wc=document.getElementById('wc');wc.oninput=()=>{let t=wc.value.trim();document.getElementById('wcout').textContent=`${t?t.split(/\\s+/).length:0} words · ${wc.value.length} characters`};const mi=document.getElementById('metaIn');mi.oninput=()=>document.getElementById('metac').textContent=`${mi.value.length} / 160`;function outline(){let t=document.getElementById('topic').value||'Your Topic';document.getElementById('out').innerHTML=`<h3>${t}</h3><ol><li>Introduction</li><li>What is ${t}?</li><li>Key benefits and features</li><li>How it works</li><li>Practical examples</li><li>Common mistakes</li><li>Best practices</li><li>Conclusion and next steps</li></ol>`}</script></body></html>
+<!doctype html><html lang="en" data-theme="dark"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Free Online Tools: PDF to JPG, Image to PDF, Merge PDF — BITOMANCY</title><meta name="description" content="Free online tools: PDF to JPG, image to PDF, merge PDF, image converter and compressor, word counter and more. Files stay in your browser."><link rel="canonical" href="https://bitomancy.in/tools.html"><link rel="stylesheet" href="/styles.css">
+<style>
+.tool input[type=file],.tool select,.tool input[type=number]{max-width:100%;background:var(--bg);color:var(--text);border:1px solid var(--line);padding:10px;font:inherit}
+.trow{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:12px 0}
+.tstatus{min-height:1.4em;font-size:.92rem;opacity:.8}
+.tgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:10px;margin-top:12px}
+.tgrid figure{margin:0;border:1px solid var(--line);padding:6px;font-size:.85rem}
+.tgrid img{width:100%;height:auto;display:block;background:#fff}
+.tgrid figcaption{display:flex;justify-content:space-between;gap:6px;margin-top:6px}
+.tool button:disabled{opacity:.5;cursor:wait}
+</style><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5983644165648870"
+     crossorigin="anonymous"></script>
+</head><body><header class="header"><div class="container nav"><a class="brand" href="/">BITOMANCY</a><nav class="desktop-nav"><a href="/">HOME</a><a href="/tools.html">TOOLS</a><a href="/shop.html">SHOP</a></nav><div class="nav-actions"><button class="icon-btn" id="themeBtn">☼</button></div></div></header><main class="container section"><div class="eyebrow">BITOMANCY TOOLS</div><h1>Free tools for everyday digital work.</h1><p class="muted">Fast, simple utilities. No account required. Files you open here are processed in your browser and never uploaded.</p><div class="tool-grid" style="margin-top:35px">
+
+<section class="tool" id="pdf-to-jpg"><h2>PDF to JPG</h2><p class="muted">Convert every page of a PDF into a JPG image.</p><div class="trow"><input type="file" id="p2j-file" accept="application/pdf" aria-label="Choose a PDF"><select id="p2j-scale" aria-label="Quality"><option value="1.5">Standard quality</option><option value="2" selected>High quality</option><option value="3">Very high (slower)</option></select><button class="button" id="p2j-go">Convert to JPG</button></div><div class="tstatus" id="p2j-status" role="status"></div><div class="tgrid" id="p2j-out"></div><div class="trow"><button class="button" id="p2j-zip" hidden>Download all as ZIP</button></div></section>
+
+<section class="tool" id="image-to-pdf"><h2>Image to PDF</h2><p class="muted">Combine JPG, PNG or WebP images into one PDF, in the order selected.</p><div class="trow"><input type="file" id="i2p-files" accept="image/*" multiple aria-label="Choose images"><button class="button" id="i2p-go">Create PDF</button></div><div class="tstatus" id="i2p-status" role="status"></div></section>
+
+<section class="tool" id="merge-pdf"><h2>Merge PDF</h2><p class="muted">Join two or more PDF files into a single document.</p><div class="trow"><input type="file" id="mrg-files" accept="application/pdf" multiple aria-label="Choose PDFs"><button class="button" id="mrg-go">Merge PDFs</button></div><div class="tstatus" id="mrg-status" role="status"></div></section>
+
+<section class="tool" id="image-converter"><h2>Image Converter &amp; Compressor</h2><p class="muted">Convert between JPG, PNG and WebP, and reduce file size.</p><div class="trow"><input type="file" id="img-file" accept="image/*" aria-label="Choose an image"></div><div class="trow"><select id="img-fmt" aria-label="Format"><option value="image/jpeg">JPG</option><option value="image/webp">WebP</option><option value="image/png">PNG</option></select><select id="img-q" aria-label="Quality"><option value="0.9">Quality 90%</option><option value="0.75" selected>Quality 75%</option><option value="0.6">Quality 60%</option><option value="0.4">Quality 40%</option></select><input type="number" id="img-w" min="50" placeholder="Max width (px)" style="width:150px" aria-label="Max width in pixels"><button class="button" id="img-go">Convert</button></div><div class="tstatus" id="img-status" role="status"></div></section>
+
+<section class="tool" id="word-counter"><h2>Word Counter</h2><textarea id="wc" style="width:100%;min-height:180px;background:var(--bg);color:var(--text);border:1px solid var(--line);padding:12px"></textarea><p id="wcout">0 words · 0 characters</p></section><section class="tool" id="case"><h2>Case Converter</h2><textarea id="casein" style="width:100%;min-height:120px;background:var(--bg);color:var(--text);border:1px solid var(--line);padding:12px"></textarea><button class="button" onclick="document.getElementById('casein').value=document.getElementById('casein').value.toUpperCase()">UPPERCASE</button> <button class="button" onclick="document.getElementById('casein').value=document.getElementById('casein').value.toLowerCase()">lowercase</button></section><section class="tool" id="meta"><h2>Meta Description Helper</h2><textarea id="metaIn" maxlength="160" placeholder="Write a concise page description..." style="width:100%;min-height:120px;background:var(--bg);color:var(--text);border:1px solid var(--line);padding:12px"></textarea><p id="metac">0 / 160</p></section><section class="tool" id="outline"><h2>Blog Outline Generator</h2><input id="topic" placeholder="Enter a topic" style="width:100%;padding:12px;background:var(--bg);color:var(--text);border:1px solid var(--line)"><button class="button" style="margin-top:10px" onclick="outline()">Generate outline</button><div id="out"></div></section></div></main>
+<script src="/script.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf-lib/1.17.1/pdf-lib.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+<script>
+const wc=document.getElementById('wc');wc.oninput=()=>{let t=wc.value.trim();document.getElementById('wcout').textContent=`${t?t.split(/\s+/).length:0} words · ${wc.value.length} characters`};const mi=document.getElementById('metaIn');mi.oninput=()=>document.getElementById('metac').textContent=`${mi.value.length} / 160`;function outline(){let t=document.getElementById('topic').value||'Your Topic';document.getElementById('out').innerHTML=`<h3>${t}</h3><ol><li>Introduction</li><li>What is ${t}?</li><li>Key benefits and features</li><li>How it works</li><li>Practical examples</li><li>Common mistakes</li><li>Best practices</li><li>Conclusion and next steps</li></ol>`}
+
+/* ---------- Shared helpers ---------- */
+const $=s=>document.querySelector(s);
+const say=(id,t)=>{$(id).textContent=t};
+const toBlob=(c,t,q)=>new Promise(r=>c.toBlob(r,t,q));
+const baseName=f=>f.name.replace(/\.[^.]+$/,'');
+const kb=n=>n>1048576?(n/1048576).toFixed(2)+' MB':Math.round(n/1024)+' KB';
+function download(blob,name){const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download=name;document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(a.href),5000)}
+function loadImage(file){return new Promise((res,rej)=>{const i=new Image();i.onload=()=>res(i);i.onerror=()=>rej(new Error('Could not read '+file.name));i.src=URL.createObjectURL(file)})}
+async function run(btn,sid,fn){btn.disabled=true;try{await fn()}catch(e){console.error(e);say(sid,'Something went wrong: '+e.message+'. Try a different file.')}finally{btn.disabled=false}}
+if(window.pdfjsLib)pdfjsLib.GlobalWorkerOptions.workerSrc='https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+
+/* ---------- PDF to JPG ---------- */
+let p2jFiles=[],p2jBase='pdf';
+$('#p2j-go').onclick=function(){run(this,'#p2j-status',async()=>{
+  const f=$('#p2j-file').files[0];
+  if(!f)return say('#p2j-status','Choose a PDF file first.');
+  const out=$('#p2j-out');out.innerHTML='';$('#p2j-zip').hidden=true;p2jFiles=[];p2jBase=baseName(f);
+  const pdf=await pdfjsLib.getDocument({data:await f.arrayBuffer()}).promise;
+  const scale=+$('#p2j-scale').value;
+  for(let n=1;n<=pdf.numPages;n++){
+    say('#p2j-status',`Converting page ${n} of ${pdf.numPages}...`);
+    const page=await pdf.getPage(n),vp=page.getViewport({scale}),c=document.createElement('canvas');
+    c.width=vp.width;c.height=vp.height;
+    const ctx=c.getContext('2d');ctx.fillStyle='#fff';ctx.fillRect(0,0,c.width,c.height);
+    await page.render({canvasContext:ctx,viewport:vp}).promise;
+    const blob=await toBlob(c,'image/jpeg',.92),name=`${p2jBase}-page-${n}.jpg`,url=URL.createObjectURL(blob);
+    p2jFiles.push({name,blob});
+    const fig=document.createElement('figure');
+    fig.innerHTML=`<img alt="Page ${n}" src="${url}"><figcaption><span>Page ${n}</span><a href="${url}" download="${name}">Download</a></figcaption>`;
+    out.appendChild(fig);
+  }
+  say('#p2j-status',`Done. ${pdf.numPages} page(s) converted.`);
+  $('#p2j-zip').hidden=pdf.numPages<2;
+})};
+$('#p2j-zip').onclick=async()=>{const z=new JSZip();p2jFiles.forEach(x=>z.file(x.name,x.blob));download(await z.generateAsync({type:'blob'}),p2jBase+'-jpg.zip')};
+
+/* ---------- Image to PDF ---------- */
+$('#i2p-go').onclick=function(){run(this,'#i2p-status',async()=>{
+  const files=[...$('#i2p-files').files];
+  if(!files.length)return say('#i2p-status','Choose at least one image.');
+  const pdf=await PDFLib.PDFDocument.create();
+  for(let i=0;i<files.length;i++){
+    say('#i2p-status',`Adding image ${i+1} of ${files.length}...`);
+    const f=files[i];let img;
+    if(f.type==='image/jpeg')img=await pdf.embedJpg(await f.arrayBuffer());
+    else if(f.type==='image/png')img=await pdf.embedPng(await f.arrayBuffer());
+    else{
+      const el=await loadImage(f),c=document.createElement('canvas');
+      c.width=el.naturalWidth;c.height=el.naturalHeight;
+      const ctx=c.getContext('2d');ctx.fillStyle='#fff';ctx.fillRect(0,0,c.width,c.height);ctx.drawImage(el,0,0);
+      img=await pdf.embedJpg(await(await toBlob(c,'image/jpeg',.92)).arrayBuffer());
+    }
+    pdf.addPage([img.width,img.height]).drawImage(img,{x:0,y:0,width:img.width,height:img.height});
+  }
+  download(new Blob([await pdf.save()],{type:'application/pdf'}),'images.pdf');
+  say('#i2p-status',`Done. PDF created with ${files.length} page(s).`);
+})};
+
+/* ---------- Merge PDF ---------- */
+$('#mrg-go').onclick=function(){run(this,'#mrg-status',async()=>{
+  const files=[...$('#mrg-files').files];
+  if(files.length<2)return say('#mrg-status','Choose at least two PDF files.');
+  const out=await PDFLib.PDFDocument.create();
+  for(let i=0;i<files.length;i++){
+    say('#mrg-status',`Merging file ${i+1} of ${files.length}...`);
+    const src=await PDFLib.PDFDocument.load(await files[i].arrayBuffer());
+    (await out.copyPages(src,src.getPageIndices())).forEach(p=>out.addPage(p));
+  }
+  download(new Blob([await out.save()],{type:'application/pdf'}),'merged.pdf');
+  say('#mrg-status',`Done. ${files.length} PDFs merged.`);
+})};
+
+/* ---------- Image converter / compressor ---------- */
+$('#img-go').onclick=function(){run(this,'#img-status',async()=>{
+  const f=$('#img-file').files[0];
+  if(!f)return say('#img-status','Choose an image first.');
+  const el=await loadImage(f),maxW=+$('#img-w').value,ratio=maxW&&maxW<el.naturalWidth?maxW/el.naturalWidth:1;
+  const c=document.createElement('canvas');
+  c.width=Math.round(el.naturalWidth*ratio);c.height=Math.round(el.naturalHeight*ratio);
+  const ctx=c.getContext('2d'),type=$('#img-fmt').value;
+  if(type==='image/jpeg'){ctx.fillStyle='#fff';ctx.fillRect(0,0,c.width,c.height)}
+  ctx.drawImage(el,0,0,c.width,c.height);
+  const blob=await toBlob(c,type,+$('#img-q').value),ext={'image/jpeg':'jpg','image/webp':'webp','image/png':'png'}[type];
+  download(blob,`${baseName(f)}-converted.${ext}`);
+  say('#img-status',`Done. ${kb(f.size)} became ${kb(blob.size)} (${c.width} x ${c.height} px).`);
+})};
+</script></body></html>
