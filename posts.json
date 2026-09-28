@@ -1,5 +1,15 @@
 [
   {
+    "title": "How to Launch a Fast Website on a Custom Domain",
+    "description": "Learn how to launch a fast website on a custom domain using lightweight code, optimized images, HTTPS, CDN and modern hosting.",
+    "url": "/posts/how-to-launch-fast-website-custom-domain.html",
+    "image": "/images/custom-domain-website-setup.jpg",
+    "imageAlt": "How a custom domain connects to website hosting through DNS",
+    "category": "HOW-TO",
+    "date": "2026-09-28",
+    "readTime": "9 min read"
+  },
+  {
     "title": "SEO System: A Complete Guide to Ranking in 2026",
     "description": "Learn how to build an effective SEO system in 2026 using keyword research, content, technical SEO, links, and performance tracking.",
     "url": "/posts/seo-system.html",
