@@ -1,5 +1,133 @@
 [
   {
+    "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+    "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+    "description": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-09-28T18:00:00.000Z"
+  },
+  {
+    "title": "F1 in Azerbaijan: That was almost a close-run thing",
+    "link": "https://arstechnica.com/cars/2026/09/f1-in-azerbaijan-that-was-almost-a-close-run-thing/",
+    "description": "Kimi Antonelli could not repeat his Monza magic after a crash in qualifying.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2297234571-1152x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-09-28T17:41:35.000Z"
+  },
+  {
+    "title": "Google is killing off Gemini&#8217;s Gems in favor of &#8216;skills&#8217;",
+    "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+    "description": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-09-28T17:29:50.000Z"
+  },
+  {
+    "title": "OpenAI still doesn&#8217;t seem to have a handle on all of its rogue AI activity",
+    "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+    "description": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-09-28T17:09:02.000Z"
+  },
+  {
+    "title": "When can we say AI made a scientific discovery?",
+    "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that e",
+    "image": "",
+    "source": "MIT Technology Review",
+    "date": "2026-09-28T17:03:16.000Z"
+  },
+  {
+    "title": "Florida seeks a ban on ChatGPT acting like a person",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+    "description": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over saf",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-09-28T17:00:23.000Z"
+  },
+  {
+    "title": "OpenAI keeps bulldozing mathematicians",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+    "description": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_OpenAIMAthBulldozer_Parkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-09-28T17:00:00.000Z"
+  },
+  {
+    "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+    "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+    "description": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-09-28T16:52:38.000Z"
+  },
+  {
+    "title": "The iPhone Duo may already have its first killer app: a virtual Walkman",
+    "link": "https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/",
+    "description": "The app imitates how Walkmans used to function: You can open up the Duo to pick your music and \"insert\" your cassette tape, then close the device shut to start listening.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-09-28T16:47:49.000Z"
+  },
+  {
+    "title": "Walmart won’t hike prices based on your shopping history, CEO says",
+    "link": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels",
+    "description": "Walmart says it won't change product prices based on your personal information or the time of day, as reported earlier by The Wall Street Journal. In a letter to customers, Walmart",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2289554785.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-09-28T16:44:57.000Z"
+  },
+  {
+    "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+    "link": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
+    "description": "US Government websites among \"dozens of third parties\" OpenAI has recently notified.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/sleepyrobot-1152x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-09-28T16:43:18.000Z"
+  },
+  {
+    "title": "NASA, for the time being, is unable to move the space station's large robotic arm",
+    "link": "https://arstechnica.com/space/2026/09/nasa-for-the-time-being-is-unable-to-move-the-space-stations-large-robotic-armthe-large-robotic-arm-on-the-international-space-station-has-stopped-working/",
+    "description": "NASA isn't saying much. The problem may be temporary.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2016/06/26523207085_7558984d60_k-1152x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-09-28T16:03:50.000Z"
+  },
+  {
+    "title": "Volkswagen replaces ID.4 with all-electric Tiguan",
+    "link": "https://www.theverge.com/transportation/1001418/volkswagen-replaces-id4-id-tiguan-ev",
+    "description": "In a widely expected move, Volkswagen announced Monday that it will replace the recently retired ID.4 crossover with the upcoming ID.Tiguan. The decision is an acknowledgment by th",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Original-20113-db2026au00714.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-09-28T15:43:09.000Z"
+  },
+  {
+    "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+    "description": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-09-28T15:30:00.000Z"
+  },
+  {
+    "title": "Physical AI chip developer SiMa.ai hits $1.45B valuation",
+    "link": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
+    "description": "The edge computing startup raised a $150 million Series C led by Fidelity and Amplify.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-09-28T15:29:21.000Z"
+  },
+  {
+    "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
+    "link": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
+    "description": "Accounting staffing company MAVI emerges from stealth with $4million in funding.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-09-28T15:26:46.000Z"
+  },
+  {
     "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
     "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
     "description": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run direc",
@@ -40,9 +168,9 @@
     "date": "2026-09-28T14:41:08.000Z"
   },
   {
-    "title": "Next five VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+    "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
     "link": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
-    "description": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Startup B",
+    "description": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register ",
     "image": "",
     "source": "TechCrunch",
     "date": "2026-09-28T14:30:00.000Z"
@@ -64,7 +192,7 @@
     "date": "2026-09-28T14:05:00.000Z"
   },
   {
-    "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is Oct. 2",
+    "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
     "link": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
     "description": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, invest",
     "image": "",
@@ -72,7 +200,7 @@
     "date": "2026-09-28T14:00:00.000Z"
   },
   {
-    "title": "Insuretech Outmarket raises $34.5M just months after prior round",
+    "title": "Insurtech Outmarket raises $34.5M just months after prior round",
     "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
     "description": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
     "image": "",
@@ -110,133 +238,5 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "source": "The Verge",
     "date": "2026-09-28T13:36:06.000Z"
-  },
-  {
-    "title": "SpaceX&#8217;s Starship rocket reaches orbit for the first time",
-    "link": "https://techcrunch.com/2026/09/28/spacexs-starship-rocket-reaches-orbit-for-the-first-time/",
-    "description": "Though not without some drama along the way.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-28T13:19:18.000Z"
-  },
-  {
-    "title": "Best External Hard Drives (2026): SanDisk, Samsung, and More",
-    "link": "https://www.wired.com/story/best-portable-external-storage-drives/",
-    "description": "Need an ultrafast drive for video editing or a rugged option to back up your photos in the field? We’ve got a solution for every situation.",
-    "image": "https://media.wired.com/photos/68d1a8a2627fe89f30b86df5/master/pass/The%20Best%20External%20Hard%20Drives.png",
-    "source": "WIRED",
-    "date": "2026-09-28T13:15:00.000Z"
-  },
-  {
-    "title": "Maritime intelligence startup Quartermaster raises another $140M",
-    "link": "https://techcrunch.com/2026/09/28/maritime-intelligence-startup-quartermaster-raises-another-140m/",
-    "description": "The tech enables real-time awareness for what Quartermaster calls the “largest blind spot on Earth.”",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-28T13:00:00.000Z"
-  },
-  {
-    "title": "Philips’ motion-tracking smart toothbrush uses AI to make you a better brusher",
-    "link": "https://www.theverge.com/tech/1000924/philips-sonicare-next-generation-diamondclean-9900-prestige-smart-toothbrush",
-    "description": "First announced in July with an expected limited launch later this year, the Philips Sonicare Next-Generation DiamondClean 9900 Prestige smart toothbrush is now available in Europe",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/sonicare1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-09-28T13:00:00.000Z"
-  },
-  {
-    "title": "Bose Launches New Wired Earbuds After More Than a Decade",
-    "link": "https://www.wired.com/story/bose-to-release-wired-headphones-after-10-years/",
-    "description": "The Bose Noise Cancelling Wired Earbuds are the first new wired headphones from the brand since 2015, inspired directly by teen preferences. We got an early listen.",
-    "image": "https://media.wired.com/photos/6ab70043d3514249479bb32e/master/pass/Bose-NC-Wired-Earbuds_Credit-HR_02-2.jpg",
-    "source": "WIRED",
-    "date": "2026-09-28T13:00:00.000Z"
-  },
-  {
-    "title": "The Download: rogue agent liability and the AI Hype Index",
-    "link": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
-    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Who&#8217;s liable when AI age",
-    "image": "",
-    "source": "MIT Technology Review",
-    "date": "2026-09-28T12:10:00.000Z"
-  },
-  {
-    "title": "SpaceX preps next-gen Starlink as Amazon’s competitor stalls",
-    "link": "https://www.theverge.com/science/1001259/spacex-starlink-satellites-starship-amazon-leo",
-    "description": "SpaceX is gearing up for a monumental flight today that's sure to be closely watched by Amazon. If successful, SpaceX will deploy its first Starlink V3 satellites, which tout meani",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-09-28T12:09:17.000Z"
-  },
-  {
-    "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
-    "link": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
-    "description": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the summer forces another tempora",
-    "image": "https://media.wired.com/photos/6aba376a2b66b9dd652c1c6c/master/pass/092826-OpenAi%20Whitehouse%20Hack.jpg",
-    "source": "WIRED",
-    "date": "2026-09-28T11:32:19.000Z"
-  },
-  {
-    "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
-    "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
-    "description": "“Microsoft claims to want to be a good neighbor, but the jury is still out.\"",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/microsoft-data-center-champion-1152x648.jpg",
-    "source": "Ars Technica",
-    "date": "2026-09-28T11:00:09.000Z"
-  },
-  {
-    "title": "Space Lasers Are About to Get Their First Real Test Generating Energy",
-    "link": "https://www.wired.com/story/space-lasers-are-about-to-get-their-first-real-test-generating-energy/",
-    "description": "Startup Star Catcher is launching a system that, if successful, would be the first time energy has been beamed between two separate spacecraft.",
-    "image": "https://media.wired.com/photos/6aba3a226b9dc374933c7c48/master/pass/Space%20Lazer.jpg",
-    "source": "WIRED",
-    "date": "2026-09-28T11:00:00.000Z"
-  },
-  {
-    "title": "Best Apple Watch: Series 12, Ultra 4, and SE 3 (2026)",
-    "link": "https://www.wired.com/story/best-apple-watch/",
-    "description": "From the latest Ultra to last year’s SE, these are the Apple Watches worth considering.",
-    "image": "https://media.wired.com/photos/6ab84ba8c1592ce41c5b6216/master/pass/GettyImages-2293861871.jpg",
-    "source": "WIRED",
-    "date": "2026-09-28T10:36:00.000Z"
-  },
-  {
-    "title": "I've Tested Over 100 Home Security Cameras. Here's Which to Buy",
-    "link": "https://www.wired.com/story/best-security-cameras/",
-    "description": "Keep an eye on home wherever you are with the best security cameras, including indoor and outdoor, subscription services, AI smarts, and local recording options.",
-    "image": "https://media.wired.com/photos/6ab701522bf117642be62ca7/master/pass/The-Best-Security-Cameras.jpg",
-    "source": "WIRED",
-    "date": "2026-09-28T10:30:00.000Z"
-  },
-  {
-    "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
-    "link": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
-    "description": "Your next coworker might well be an AI agent—and will require a whole new model of workplace interactions.",
-    "image": "https://media.wired.com/photos/6ab67a543b15d40264a17301/master/pass/092526-AI%20Coworker.jpg",
-    "source": "WIRED",
-    "date": "2026-09-28T10:00:00.000Z"
-  },
-  {
-    "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
-    "link": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
-    "description": "Mathematics has been one of humanity’s most creative endeavors, akin to painting and poetry. Now, mathematicians are trying to save it from the brute force of AI.",
-    "image": "https://media.wired.com/photos/6ab66fcabccfe76e77e84940/master/pass/092526-Math%20Art%20AI.jpg",
-    "source": "WIRED",
-    "date": "2026-09-28T09:30:00.000Z"
-  },
-  {
-    "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
-    "link": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
-    "description": "A British startup is shaping video game inputs into training data for AI models that can navigate the physical world.",
-    "image": "https://media.wired.com/photos/6ab2c77aa4511820fe187b66/master/pass/People-Training-AI-to-Understand-Physical-World-With-Video-Games-Business.jpg",
-    "source": "WIRED",
-    "date": "2026-09-28T09:00:00.000Z"
-  },
-  {
-    "title": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System",
-    "link": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
-    "description": "In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containment.",
-    "image": "https://media.wired.com/photos/6aba2329e8d78c42cabc4ad2/master/pass/092826-Nvidia%20OpenShell.jpg",
-    "source": "WIRED",
-    "date": "2026-09-28T09:00:00.000Z"
   }
 ]
