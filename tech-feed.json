@@ -1,11 +1,99 @@
 [
   {
+    "title": "OpenAI reportedly ditches model over safety concerns",
+    "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+    "description": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-09-28T23:39:20.000Z"
+  },
+  {
+    "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn&#8217;t as far-fetched as it sounds",
+    "link": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/",
+    "description": "Self-driving truck company Aurora laid out an audacious plan for 2030. Its CFO says its targets aren't aspirational.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-09-28T22:58:35.000Z"
+  },
+  {
+    "title": "Boeing \"incredibly excited\" to serve as nation's only astronaut transportation",
+    "link": "https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/",
+    "description": "\"We couldn't provide detailed pricing to the CLD suppliers.\"",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/starliner_thrusters1-1152x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-09-28T22:24:33.000Z"
+  },
+  {
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "description": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they wil",
+    "image": "",
+    "source": "MIT Technology Review",
+    "date": "2026-09-28T22:17:07.000Z"
+  },
+  {
+    "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+    "link": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
+    "description": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-09-28T21:49:10.000Z"
+  },
+  {
+    "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+    "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+    "description": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2279092788.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-09-28T21:31:35.000Z"
+  },
+  {
+    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+    "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+    "description": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-09-28T21:29:18.000Z"
+  },
+  {
+    "title": "Shark’s NeverChange Air Purifier Is Nearly Half Off Right Now",
+    "link": "https://www.wired.com/story/shark-air-purifier-deal-october-2026/",
+    "description": "Shark and other top air purifier brands are on discount ahead of Amazon Prime Big Deal Days.",
+    "image": "https://media.wired.com/photos/6abac46841517308a638356b/master/pass/This-Shark-Bedroom-Air-Purifier-Is-$100-Off-Right-Now.jpg",
+    "source": "WIRED",
+    "date": "2026-09-28T21:28:20.000Z"
+  },
+  {
+    "title": "SpaceX's Starship goes orbital, deploying first next-gen Starlinks",
+    "link": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/",
+    "description": "Starship had already flown 99 percent of the way to low-Earth orbit. Monday's flight added the last bit.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HTU8ja-XgAE6GwQ-1152x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-09-28T21:26:19.000Z"
+  },
+  {
+    "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
+    "link": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
+    "description": "State says LLMs threaten civilization as \"the greatest public nuisance ever created.\"",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2213954141-1152x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-09-28T20:49:39.000Z"
+  },
+  {
     "title": "AMD will acquire Fei-Fei Li&#8217;s World Labs for $8.2 billion",
     "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
     "description": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
     "image": "",
     "source": "TechCrunch",
     "date": "2026-09-28T20:39:33.000Z"
+  },
+  {
+    "title": "New device captures carbon dioxide by pumping it across a battery",
+    "link": "https://arstechnica.com/science/2026/09/new-device-captures-carbon-dioxide-by-pumping-it-across-a-battery/",
+    "description": "The design requires less energy to capture CO 2 than current systems.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1695996169-1152x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-09-28T20:31:06.000Z"
   },
   {
     "title": "To keep drug prices high, pharma has been piling up the patents",
@@ -98,7 +186,7 @@
   {
     "title": "Nvidia launches new platform for reining in rogue AI agents",
     "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-    "description": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. ",
+    "description": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test",
     "image": "",
     "source": "TechCrunch",
     "date": "2026-09-28T18:31:23.000Z"
@@ -146,97 +234,9 @@
   {
     "title": "Google is killing off Gemini&#8217;s Gems in favor of &#8216;skills&#8217;",
     "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-    "description": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+    "description": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
     "image": "",
     "source": "TechCrunch",
     "date": "2026-09-28T17:29:50.000Z"
-  },
-  {
-    "title": "OpenAI still doesn&#8217;t seem to have a handle on all of its rogue AI activity",
-    "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-    "description": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-28T17:09:02.000Z"
-  },
-  {
-    "title": "When can we say AI made a scientific discovery?",
-    "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that e",
-    "image": "",
-    "source": "MIT Technology Review",
-    "date": "2026-09-28T17:03:16.000Z"
-  },
-  {
-    "title": "Florida seeks a ban on ChatGPT acting like a person",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
-    "description": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over saf",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-09-28T17:00:23.000Z"
-  },
-  {
-    "title": "OpenAI keeps bulldozing mathematicians",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
-    "description": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_OpenAIMAthBulldozer_Parkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-09-28T17:00:00.000Z"
-  },
-  {
-    "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-    "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-    "description": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-28T16:52:38.000Z"
-  },
-  {
-    "title": "The iPhone Duo may already have its first killer app: a virtual Walkman",
-    "link": "https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/",
-    "description": "The app imitates how Walkmans used to function: You can open up the Duo to pick your music and \"insert\" your cassette tape, then close the device shut to start listening.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-28T16:47:49.000Z"
-  },
-  {
-    "title": "Walmart won’t hike prices based on your shopping history, CEO says",
-    "link": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels",
-    "description": "Walmart says it won't change product prices based on your personal information or the time of day, as reported earlier by The Wall Street Journal. In a letter to customers, Walmart",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2289554785.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-09-28T16:44:57.000Z"
-  },
-  {
-    "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-    "link": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
-    "description": "US Government websites among \"dozens of third parties\" OpenAI has recently notified.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/sleepyrobot-1152x648.jpg",
-    "source": "Ars Technica",
-    "date": "2026-09-28T16:43:18.000Z"
-  },
-  {
-    "title": "NASA 'troubleshooting' transporter for space station's robotic arm [Updated]",
-    "link": "https://arstechnica.com/space/2026/09/nasa-for-the-time-being-is-unable-to-move-the-space-stations-large-robotic-armthe-large-robotic-arm-on-the-international-space-station-has-stopped-working/",
-    "description": "NASA isn't saying much. The problem may be temporary.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2016/06/26523207085_7558984d60_k-1152x648.jpg",
-    "source": "Ars Technica",
-    "date": "2026-09-28T16:03:50.000Z"
-  },
-  {
-    "title": "Volkswagen replaces ID.4 with all-electric Tiguan",
-    "link": "https://www.theverge.com/transportation/1001418/volkswagen-replaces-id4-id-tiguan-ev",
-    "description": "In a widely expected move, Volkswagen announced Monday that it will replace the recently retired ID.4 crossover with the upcoming ID.Tiguan. The decision is an acknowledgment by th",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Original-20113-db2026au00714.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-09-28T15:43:09.000Z"
-  },
-  {
-    "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-    "description": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-28T15:30:00.000Z"
   }
 ]
