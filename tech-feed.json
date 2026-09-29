@@ -1,5 +1,29 @@
 [
   {
+    "title": "Nothing’s new flagship Headphone 1 Pro put you in the studio",
+    "link": "https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review",
+    "description": "Nothing has been on a bit of an audio tear this year, releasing the solid Headphone A and the surprisingly good Ear 3A earbuds. The Headphone A released at $199, while the earbuds ",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268785_Nothing_pro_1_headphones_JHIGGINS_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-09-29T01:00:00.000Z"
+  },
+  {
+    "title": "Nothing’s New Headphone (1) Pro Are Made for the Studio",
+    "link": "https://www.wired.com/story/nothings-new-headphone-1-pro-are-made-for-the-studio/",
+    "description": "With three drivers in each ear and tuning from Metropolis Studios, Nothing wants its new $399 cans to shine in the studio while also making your commute more musical.",
+    "image": "https://media.wired.com/photos/6aba12206b20363d66df2428/master/pass/Headphone%201%20(Pro)_case.jpg",
+    "source": "WIRED",
+    "date": "2026-09-29T01:00:00.000Z"
+  },
+  {
+    "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+    "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+    "description": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-09-29T00:30:00.000Z"
+  },
+  {
     "title": "OpenAI reportedly ditches model over safety concerns",
     "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
     "description": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
@@ -146,7 +170,7 @@
   {
     "title": "The AI boom took over Climate Week and not everyone is happy about it",
     "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
-    "description": "Just like the rest of the U.S, data centers and AI are dividing climate tech founders and investors.",
+    "description": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
     "image": "",
     "source": "TechCrunch",
     "date": "2026-09-28T19:21:59.000Z"
@@ -214,29 +238,5 @@
     "image": "",
     "source": "TechCrunch",
     "date": "2026-09-28T18:00:00.000Z"
-  },
-  {
-    "title": "Scientists solve 1840s space weather mystery",
-    "link": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
-    "description": "19th century Nature account of 1841 train delayed by geomagnetic storm got year wrong—due to a typo.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/spaceweather-1152x648.jpg",
-    "source": "Ars Technica",
-    "date": "2026-09-28T17:56:36.000Z"
-  },
-  {
-    "title": "F1 in Azerbaijan: That was almost a close-run thing",
-    "link": "https://arstechnica.com/cars/2026/09/f1-in-azerbaijan-that-was-almost-a-close-run-thing/",
-    "description": "Kimi Antonelli could not repeat his Monza magic after a crash in qualifying.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2297234571-1152x648.jpg",
-    "source": "Ars Technica",
-    "date": "2026-09-28T17:41:35.000Z"
-  },
-  {
-    "title": "Google is killing off Gemini&#8217;s Gems in favor of &#8216;skills&#8217;",
-    "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-    "description": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-28T17:29:50.000Z"
   }
 ]
