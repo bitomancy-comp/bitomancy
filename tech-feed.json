@@ -1,5 +1,173 @@
 [
   {
+    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+    "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+    "description": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-09-30T21:07:40.000Z"
+  },
+  {
+    "title": "The White House Is Starting to Panic Over the Midterms",
+    "link": "https://www.wired.com/story/the-white-house-is-starting-to-panic-over-the-midterms/",
+    "description": "President Donald Trump still thinks Republicans have a shot. His aides are less convinced.",
+    "image": "https://media.wired.com/photos/6abbfbe5422fade848ea97c7/master/pass/politics_republicans_midterms_panic.jpg",
+    "source": "WIRED",
+    "date": "2026-09-30T21:00:00.000Z"
+  },
+  {
+    "title": "Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie",
+    "link": "https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie",
+    "description": "A24 pissed off one of the internet's largest horror communities when it announced it was working on an SCP Foundation film, but apparently hadn't bothered to contact the SCP Wiki t",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/SCP-X-NEON.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-09-30T20:45:00.000Z"
+  },
+  {
+    "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+    "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+    "description": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software en",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-09-30T20:41:41.000Z"
+  },
+  {
+    "title": "Factory CEO just accused his VC board advisor of spying for Cognition",
+    "link": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
+    "description": "VC Chris Degnan and former board advisor to Factory AI has taken a job as chief revenue officer for Cognition.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-09-30T20:39:09.000Z"
+  },
+  {
+    "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
+    "link": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
+    "description": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters.",
+    "image": "https://media.wired.com/photos/6abd59726a04d6e6fe37da5a/master/pass/093026-ai-regulations.jpg",
+    "source": "WIRED",
+    "date": "2026-09-30T20:30:09.000Z"
+  },
+  {
+    "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
+    "link": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
+    "description": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of ",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-09-30T20:20:02.000Z"
+  },
+  {
+    "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+    "link": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+    "description": "So much for Gemini 3.5 Pro.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-1-1152x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-09-30T20:11:08.000Z"
+  },
+  {
+    "title": "Reddit is putting more limits on Old.Reddit.com",
+    "link": "https://arstechnica.com/gadgets/2026/09/reddit-will-block-old-reddit-com-from-people-who-havent-used-it-in-6-months/",
+    "description": "Reddit says it's fighting \"automated abuse.\"",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2227553113-1-1024x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-09-30T19:53:33.000Z"
+  },
+  {
+    "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
+    "link": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
+    "description": "AI is far from a perfect resource. But it seems to hallucinate less than Kennedy.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294068904-1152x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-09-30T19:31:25.000Z"
+  },
+  {
+    "title": "The Battle to Be Your Personal AI Agent Is Here",
+    "link": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
+    "description": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too.",
+    "image": "https://media.wired.com/photos/6abc30af03c559dbc086f308/master/pass/AI-Lab-AI-Agent-War-Business.jpg",
+    "source": "WIRED",
+    "date": "2026-09-30T19:30:00.000Z"
+  },
+  {
+    "title": "Hackers stole millions of US military personnel records during months-long data breach",
+    "link": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
+    "description": "The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-09-30T19:29:08.000Z"
+  },
+  {
+    "title": "The Disney protests were a wake-up call about the risks of streaming mergers",
+    "link": "https://arstechnica.com/gadgets/2026/09/what-the-disney-protests-over-kimmel-taught-us-about-streaming-mergers/",
+    "description": "Boycotting Disney is hard.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2236794248-1024x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-09-30T19:22:19.000Z"
+  },
+  {
+    "title": "DoorDash&#8217;s drone strategy started on the ground",
+    "link": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/",
+    "description": "DoorDash unveiled the six-propeller aircraft that will be used in its new drone delivery business at its annual Dash Forward 2026 event.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-09-30T19:22:13.000Z"
+  },
+  {
+    "title": "BMW built the same car for gas and electric. The EV is $4,400 cheaper.",
+    "link": "https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/",
+    "description": "The new BMW 3 Series shows just how quickly EVs have caught up to fossil fuel vehicles on pricing.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-09-30T19:19:40.000Z"
+  },
+  {
+    "title": "Furry Airline Pilots Are Just Minding Their Own Business",
+    "link": "https://www.wired.com/story/furry-airline-pilots-are-just-minding-their-own-business/",
+    "description": "“We’re furries at home, and we’re airline pilots at work, and these are two separate things,” says one member of the community in response to senator Tommy Tuberville's recent rant",
+    "image": "https://media.wired.com/photos/6abbb04db96cb58163524730/master/pass/092926-Pilots%20are%20furries.jpg",
+    "source": "WIRED",
+    "date": "2026-09-30T19:09:57.000Z"
+  },
+  {
+    "title": "OpenAI&#8217;s Jev clone could help the frontier lab stop its swarming agents",
+    "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+    "description": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-09-30T19:00:57.000Z"
+  },
+  {
+    "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
+    "link": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
+    "description": "In her new book on biological warfare, Annie Jacobsen didn’t even discuss AI because scientists can already warp Mother Nature to create extinction-level events.",
+    "image": "https://media.wired.com/photos/6abc561adcf8a088a1995737/master/pass/science_biological_weapons_ai.jpg",
+    "source": "WIRED",
+    "date": "2026-09-30T19:00:00.000Z"
+  },
+  {
+    "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+    "link": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
+    "description": "Trump gets dozens of AI firms to agree to voluntary safety tests.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2297759490-1024x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-09-30T18:47:01.000Z"
+  },
+  {
+    "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
+    "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+    "description": "OpenAI makes others suffer \"the harms of its unsafe decision-making,\" nonprofit says.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-1152x648-1784833184.jpg",
+    "source": "Ars Technica",
+    "date": "2026-09-30T18:25:04.000Z"
+  },
+  {
+    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+    "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+    "description": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-09-30T18:23:57.000Z"
+  },
+  {
     "title": "The AI Tamagotchis are coming",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
     "description": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, wil",
@@ -26,7 +194,7 @@
   {
     "title": "The ugly economics of consumer AI",
     "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-    "description": "There’s a reason frontier labs have gotten gunshy about consumer AI — and it’s not because the tech isn’t good enough.",
+    "description": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
     "image": "",
     "source": "TechCrunch",
     "date": "2026-09-30T17:24:45.000Z"
@@ -56,187 +224,19 @@
     "date": "2026-09-30T17:00:00.000Z"
   },
   {
+    "title": "So what's happening with Russia's new, long-delayed crewed spacecraft?",
+    "link": "https://arstechnica.com/space/2026/09/so-whats-happening-with-russias-new-long-delayed-crewed-spacecraft/",
+    "description": "Russia says it has a \"promising, reusable manned transport spacecraft.\"",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1242530931-1024x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-09-30T16:48:56.000Z"
+  },
+  {
     "title": "Asus won’t say how it escaped the US router ban",
     "link": "https://www.theverge.com/policy/1002504/asus-escape-us-router-ban-us-manufacturing",
     "description": "This spring, the United States banned all future foreign-made consumer routers - effectively all future routers - unless their makers could 1) convince the US government that they ",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/4023838/vs09-02_1250cxs.0.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "source": "The Verge",
     "date": "2026-09-30T16:44:20.000Z"
-  },
-  {
-    "title": "&#8216;Xbox is not for sale&#8217; says Microsoft&#8217;s gaming chief",
-    "link": "https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview",
-    "description": "Xbox CEO Asha Sharma has denied reports that Microsoft is considering selling off its Xbox business. The Information reported in June that Microsoft CEO Satya Nadella and CFO Amy H",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-09-30T16:24:30.000Z"
-  },
-  {
-    "title": "Meta disputes claim that Muse read a user&#8217;s private messages without permission",
-    "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-    "description": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the require",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-30T16:24:23.000Z"
-  },
-  {
-    "title": "DoorDash launches an AI agent you can text to order food",
-    "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-    "description": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-30T16:00:24.000Z"
-  },
-  {
-    "title": "Destro AI&#8217;s secret sauce is getting robots and humans on the same page",
-    "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
-    "description": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-30T16:00:00.000Z"
-  },
-  {
-    "title": "The Halide camera app now offers full control of the iPhone 18 Pro’s aperture",
-    "link": "https://www.theverge.com/tech/1002642/halide-ios-camera-app-update-iphone-18-pro-max-variable-aperture",
-    "description": "A new update to Lux Optics' anti-algorithm Halide camera app for the iPhone and iPad adds two new photography looks and support for the variable aperture on the new iPhone 18 Pro's",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/halide.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-09-30T16:00:00.000Z"
-  },
-  {
-    "title": "Instinct&#8217;s new product recommendations are giving some users the ick",
-    "link": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
-    "description": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-30T15:56:28.000Z"
-  },
-  {
-    "title": "FedEx orders 2,000 electric trucks from Harbinger in $300M deal",
-    "link": "https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/",
-    "description": "The order -- Harbinger's biggest ever -- comes as the startup is reportedly considering an IPO.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-30T15:26:02.000Z"
-  },
-  {
-    "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
-    "description": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those pr",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-09-30T15:18:49.000Z"
-  },
-  {
-    "title": "Google reportedly tests paying publishers for AI search results",
-    "link": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
-    "description": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program re",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK093_GOOGLE_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-09-30T14:51:49.000Z"
-  },
-  {
-    "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
-    "link": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
-    "description": "On Tuesday, President Donald Trump and top AI leaders announced a signed pledge called a “Joint Commitment on Frontier Responsibilities” — a voluntary promise to implement more con",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-30T14:50:55.000Z"
-  },
-  {
-    "title": "Google launches Fitbit Air in India, though its high price might deter the masses",
-    "link": "https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/",
-    "description": "Fitbit Air costs around $146 in India, roughly $47 more than its U.S. pricing.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-30T14:32:03.000Z"
-  },
-  {
-    "title": "Instagram rolls out an AI video assistant for creators",
-    "link": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
-    "description": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-30T14:30:00.000Z"
-  },
-  {
-    "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
-    "description": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching ",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-30T14:30:00.000Z"
-  },
-  {
-    "title": "A Biotech Founder Makes the Moral Case for Gene-Editing Human Embryos",
-    "link": "https://www.wired.com/story/biotech-founder-cathy-tie-moral-case-gene-editing-human-embryos/",
-    "description": "The practice of editing the genes of embryos remains highly controversial and risky, but Origin Genomics founder Cathy Tie argues its a “moral imperative” to address hereditary dis",
-    "image": "https://media.wired.com/photos/6abbe05edfaa177dfd594822/master/pass/092926-Human%20Embryo%20Gene%20Editing.jpg",
-    "source": "WIRED",
-    "date": "2026-09-30T14:30:00.000Z"
-  },
-  {
-    "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-    "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
-    "description": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-30T14:27:11.000Z"
-  },
-  {
-    "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
-    "description": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-30T14:15:00.000Z"
-  },
-  {
-    "title": "WhatsApp adds new parental controls for teen accounts",
-    "link": "https://techcrunch.com/2026/09/30/whatsapp-adds-new-parental-controls-for-teen-accounts/",
-    "description": "Parents can limit how teens use channels, whose Status they can see, who can see their Status updates, and control who can add teens to groups.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-30T13:50:16.000Z"
-  },
-  {
-    "title": "Amazon&#8217;s new Fire TV Stick 4K comes with an actually good remote",
-    "link": "https://techcrunch.com/2026/09/30/amazons-new-fire-tv-stick-4k-comes-with-an-actually-good-remote/",
-    "description": "Amazon’s new Fire TV Stick 4K is slimmer and faster, but its biggest upgrade may be the thing you’ll actually hold in your hand: a redesigned remote that’s easier to use, especiall",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-30T13:43:54.000Z"
-  },
-  {
-    "title": "Charter Space raises $5M to bring insurance to the stars",
-    "link": "https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/",
-    "description": "As Charter explains on its website, a common experience for space companies is that regular insurers \"heard a bunch of scary science words and freaked out.\"",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-30T13:00:00.000Z"
-  },
-  {
-    "title": "Tinder adapts to a social, IRL dating future with ‘Group Hangouts’ feature",
-    "link": "https://techcrunch.com/2026/09/30/tinder-adapts-to-a-social-irl-dating-future-with-group-hangouts-feature/",
-    "description": "Tinder has been pushing users toward more real-world experiences for some time.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-30T13:00:00.000Z"
-  },
-  {
-    "title": "The Download: OpenAI’s chief research officer explains its hacking response",
-    "link": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
-    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We’re not going to shoot ours",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/MIT_TR_Uri_Moaz-177-thumb.jpg?w=840",
-    "source": "MIT Technology Review",
-    "date": "2026-09-30T12:10:00.000Z"
-  },
-  {
-    "title": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for",
-    "link": "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/",
-    "description": "BAG Ventures announces close of a $11.3M Fund I to invest in all things AI.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-30T12:00:00.000Z"
   }
 ]
