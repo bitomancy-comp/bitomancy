@@ -1,5 +1,173 @@
 [
   {
+    "title": "Brian Chesky interview: AI agents need their own operating system",
+    "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+    "description": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-01T15:12:00.000Z"
+  },
+  {
+    "title": "NYC is now the first city in America that bans sketchy subscriptions",
+    "link": "https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule",
+    "description": "New York City residents struggling to get out of recurring subscription fees can now submit complaints to the city government. As of Thursday, the city's click-to-cancel rule has t",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2294777879.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-01T14:49:25.000Z"
+  },
+  {
+    "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+    "description": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297767958.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-01T14:36:50.000Z"
+  },
+  {
+    "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+    "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+    "description": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead ",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-01T14:00:00.000Z"
+  },
+  {
+    "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
+    "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
+    "description": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah.&#160; The idea was to build th",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_1001_Oleary.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-01T14:00:00.000Z"
+  },
+  {
+    "title": "The best early October Prime Day deals happening now",
+    "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+    "description": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up Oct",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268775_October_Prime_Day_art_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-01T13:35:15.000Z"
+  },
+  {
+    "title": "What even is a ‘microdrama’?",
+    "link": "https://www.theverge.com/entertainment/1003297/microdramas-neighbours-epis-roseberry-reelshort-dramabox-vertical-video",
+    "description": "On Monday, Variety reported that RoseBerry Media is recutting episodes of the Australian soap opera Neighbours \"into microdramas.\" These clips will be available on Epis, a short-fo",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Neighboursconvert.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-01T13:30:00.000Z"
+  },
+  {
+    "title": "Samsung raised prices on the Galaxy S26 by $100",
+    "link": "https://www.theverge.com/tech/1003328/samsung-s26-price-hikes-us",
+    "description": "The base Galaxy S26 with 256GB of storage costs nearly $1,000 after Samsung raised prices in the US by $100 or more, Phone Arena reports. The Galaxy S26 and S26 Plus were already $",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/samsung-galaxy-s26-plus-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-01T13:17:16.000Z"
+  },
+  {
+    "title": "Hearing tech startup Legato launches its AI hearing glasses",
+    "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+    "description": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-01T13:00:00.000Z"
+  },
+  {
+    "title": "Audible&#8217;s new features let you explore book worlds — and use AI to talk to characters",
+    "link": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
+    "description": "Audible is rolling out new features that help listeners keep track of characters, explore places and imagery mentioned in books, and even interact with characters using generative ",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-01T13:00:00.000Z"
+  },
+  {
+    "title": "The new Kindle ditches the raised bezel in a push toward a smaller, lighter e-reader",
+    "link": "https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/",
+    "description": "The new Kindle lineup features its lightest and thinnest designs yet, with a sleek, front-flush display that eliminates bezels for good.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-01T13:00:00.000Z"
+  },
+  {
+    "title": "Amazon introduces Kindle Click, a $35 remote for turning pages",
+    "link": "https://techcrunch.com/2026/10/01/amazon-introduces-kindle-click-a-35-remote-for-hands-free-reading/",
+    "description": "The compact Bluetooth remote is designed to let readers turn pages without touching their Kindle.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-01T13:00:00.000Z"
+  },
+  {
+    "title": "Gears of War: E-Day is a great game launching at a terrible time",
+    "link": "https://www.theverge.com/games/1002768/gears-of-war-eday-review-xbox",
+    "description": "There are few blockbuster games that are as confident as Gears of War: E-Day. A prequel to one of Xbox's most transformative titles, E-Day knows exactly what it wants to be: a brut",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/assets_2026_09_1790327790_GoW_EDAY_Marcus_Lancer_Final.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-01T13:00:00.000Z"
+  },
+  {
+    "title": "Amazon is launching colorful new Kindles — and a case with physical page-turn buttons",
+    "link": "https://www.theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh",
+    "description": "Kindles don't usually change much with each new version, but Amazon is launching next-generation models today that look and feel a whole lot nicer. The base Kindle, Kindle Paperwhi",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/P1011600.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-01T13:00:00.000Z"
+  },
+  {
+    "title": "Amazon’s Carrie is a cyberbullying nightmare",
+    "link": "https://www.theverge.com/entertainment/1002835/carrie-review-amazon-prime-video",
+    "description": "Do we really need a new version of Carrie? That's the question that plagues any attempt to reimagine the classic horror tale. Stephen King's 1974 novel remains one of his most icon",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Carrie_S1_UT_250708_FALROB_00486RC_f_3000.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-01T13:00:00.000Z"
+  },
+  {
+    "title": "HP&#8217;s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+    "link": "https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs",
+    "description": "HP is announcing a new laptop that's squarely aimed at Apple's MacBook Neo. The 2026 HP OmniBook 5 14 starts at $699.99 with an Intel Core 5 315 \"Wildcat Lake\" processor, 8GB of RA",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/HP-OmniBook-5-14_AllColorsTop.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-01T13:00:00.000Z"
+  },
+  {
+    "title": "Amazon Kindle, Paperwhite, and Colorsoft 2026: Specs, Price, Release Date",
+    "link": "https://www.wired.com/story/amazon-kindle-paperwhite-colorsoft-2026-refresh/",
+    "description": "Ahead of the Kindle’s 20th anniversary next year, Amazon is refreshing its entire range of e-readers with fresh colors, an aluminum build, and a new frame design that’s both thinne",
+    "image": "https://media.wired.com/photos/6abe13780f613e5391667af0/master/pass/New%20Kindles%202026%20SOURCE%20Julian%20Chokkattu.jpg",
+    "source": "WIRED",
+    "date": "2026-10-01T13:00:00.000Z"
+  },
+  {
+    "title": "What’s the Best Kindle of 2026 (So Far)?",
+    "link": "https://www.wired.com/gallery/best-kindle/",
+    "description": "I’ve tested every single Kindle. Here’s how Amazon’s ebook readers stack up.",
+    "image": "https://media.wired.com/photos/6a88ef8c4075e316e6a0b3e0/master/pass/I-Tried-the-Best-Kindles-to-Take-Your-Library-Anywhere.jpg",
+    "source": "WIRED",
+    "date": "2026-10-01T13:00:00.000Z"
+  },
+  {
+    "title": "The Best Early Amazon Echo Deals (and the Worst) Ahead of Prime Big Deal Days",
+    "link": "https://www.wired.com/story/best-amazon-alexa-device-deals-prime-day/",
+    "description": "Amazon raised prices across its devices in August. Here are the early device deals ahead of Prime Day that are still worth it—and which aren’t.",
+    "image": "https://media.wired.com/photos/6abd58106f8c64341c3fc8f7/master/pass/Best%20Early%20Amazon%20Device%20Deals%20092026%20top%20art%20SOURCE%20Amazon.jpg",
+    "source": "WIRED",
+    "date": "2026-10-01T13:00:00.000Z"
+  },
+  {
+    "title": "2 Driverless Cars Crashed Going 155 mph. That Could Be a Good Thing",
+    "link": "https://www.wired.com/story/2-driverless-cars-crashed-going-155-mph-that-could-be-a-good-thing/",
+    "description": "Only two of five vehicles finished the race around a notoriously difficult Formula 1 track, exposing what happens when autonomous systems meet blind corners, sensor failures, and p",
+    "image": "https://media.wired.com/photos/6abc22142195c6db9de4ac33/master/pass/Imola_lead.jpg",
+    "source": "WIRED",
+    "date": "2026-10-01T12:15:00.000Z"
+  },
+  {
+    "title": "The Download: AI “mind-reading” and creative uses for small batteries",
+    "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI “mind-reading” tool can ",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/07/Asteroid_Redamonti_7.2.25.jpg?fit=2128,1196",
+    "source": "MIT Technology Review",
+    "date": "2026-10-01T12:10:00.000Z"
+  },
+  {
     "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
     "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
     "description": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
@@ -11,9 +179,17 @@
     "title": "Measles Is Forcing Hospitals to Adapt to a New Normal",
     "link": "https://www.wired.com/story/measles-is-forcing-hospitals-to-adapt-to-a-new-normal/",
     "description": "The US resurgence of measles is forcing hospitals and health systems to adopt new protocols and procedures to deal with a disease they thought was in the past.",
-    "image": "",
+    "image": "https://media.wired.com/photos/6ab3c2152004e68475746c7e/master/pass/092326-Measles%20Hospital%2002.jpg",
     "source": "WIRED",
     "date": "2026-10-01T12:00:00.000Z"
+  },
+  {
+    "title": "PS5 emulation is suddenly making big strides on PC",
+    "link": "https://arstechnica.com/gaming/2026/10/ps5-emulation-is-suddenly-making-big-strides-on-pc/",
+    "description": "Games like Astro Bot and Demon’s Souls are running ably without a console.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-8.12.38-PM-1152x648-1790813903.png",
+    "source": "Ars Technica",
+    "date": "2026-10-01T11:30:41.000Z"
   },
   {
     "title": "Best Gifts for Parents (and Their Babies): Bottle Washers, Prepared Meals, and More",
@@ -40,6 +216,14 @@
     "date": "2026-10-01T11:30:00.000Z"
   },
   {
+    "title": "NASA squeezed Treasury, vibe coded, and broke the mold in bid to save Swift",
+    "link": "https://arstechnica.com/space/2026/10/heres-why-nasa-is-celebrating-the-failed-mission-to-save-the-swift-observatory/",
+    "description": "\"We did some really, really cool stuff. I'm absolutely gutted we weren't able to get further.\"",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Testing-Link-Thermal-Vacuum-Testing-2._3382x1892-1152x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-10-01T11:15:15.000Z"
+  },
+  {
     "title": "Tractive Cat 6 Mini Review: A Fitbit for Your Cat",
     "link": "https://www.wired.com/review/tractive-cat-6-mini/",
     "description": "Cats are finally getting the dog treatment. This smart cat collar features GPS location, activity, and sleep tracking, plus all-new heart and respiratory rate monitoring.",
@@ -54,189 +238,5 @@
     "image": "https://media.wired.com/photos/6abccc1599edf0dddca3a1a4/master/pass/Neurable%20One%20Lifestyle.jpg",
     "source": "WIRED",
     "date": "2026-10-01T11:00:00.000Z"
-  },
-  {
-    "title": "An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan",
-    "link": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
-    "description": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and recreate that image with remarkable precision. It can go the other way too, and predict a pers",
-    "image": "",
-    "source": "MIT Technology Review",
-    "date": "2026-10-01T10:32:24.000Z"
-  },
-  {
-    "title": "Madison Square Garden’s James Dolan Is Spending Big on New York’s Governor Race",
-    "link": "https://www.wired.com/story/madison-square-gardens-james-dolan-is-spending-big-on-new-yorks-governor-race/",
-    "description": "James Dolan has put surveillance at the center of his sports and entertainment empire. Now he’s getting involved in GOP politics by backing a candidate who supports Flock, ICE, and",
-    "image": "https://media.wired.com/photos/6abae0d4c1a080d8e4e22f69/master/pass/092826-ny-governor-race-james-dolan-money.jpg",
-    "source": "WIRED",
-    "date": "2026-10-01T10:30:00.000Z"
-  },
-  {
-    "title": "Huawei made a whole camera to attach to its latest phone",
-    "link": "https://www.theverge.com/gadgets/1003196/huawei-mate-90-pro-max-ruiying-z10-camera",
-    "description": "Over the last few years, Chinese Android manufacturers have followed Vivo's example of launching add-on \"teleconverter\" lenses for their flagship phones, enabling long-distance pho",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/huawei-ruiying-z10-camera.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-10-01T10:15:48.000Z"
-  },
-  {
-    "title": "This very fancy e-bike is one of the first to go semi-solid state",
-    "link": "https://www.theverge.com/news/1003195/lemmos-fancy-e-bike-is-one-of-the-first-with-a-semi-solid-state-battery",
-    "description": "The Lemmo 3 is the first cargo bike from the respected German e-bike maker. This premium, step-through longtail is a slightly less insane take on Rivian's Also TM-B, with one major",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Lemmo-3-04-Family-Kids-6K-03.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-10-01T10:11:29.000Z"
-  },
-  {
-    "title": "The People of Utah vs. Kevin O&#8217;Leary",
-    "link": "https://www.theverge.com/cs/features/993343/stratos-utah-kevin-oleary-data-center-backlash",
-    "description": "On the morning of May 11th, the celebrity investor Kevin O’Leary appeared on Fox Business and announced that he was under attack by Chinese agents.&#160; For weeks, he had been goi",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268720_Utah_Stratos_data_center_LEDE_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-10-01T10:00:02.000Z"
-  },
-  {
-    "title": "How smaller, distributed batteries could help the grid",
-    "link": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
-    "description": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage proje",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Copper-Sept-2026-NolanCalischPhoto-9.jpg?w=840",
-    "source": "MIT Technology Review",
-    "date": "2026-10-01T10:00:00.000Z"
-  },
-  {
-    "title": "Apple Mac Studio (M5 Ultra) Review: Unlimited Power",
-    "link": "https://www.wired.com/review/apple-mac-studio-m5-ultra-2026/",
-    "description": "The Mac Studio can run frontier-level AI language models locally. It’s only a preview of what’s to come.",
-    "image": "https://media.wired.com/photos/6abd4374ca34b0376fb751e0/master/pass/Review%20Apple%20Mac%20Studio%20(M5%20Ultra)%20092026%20top%20art%20SOURCE%20Amazon.jpg",
-    "source": "WIRED",
-    "date": "2026-10-01T10:00:00.000Z"
-  },
-  {
-    "title": "The Secrets of the US Spyware King",
-    "link": "https://www.wired.com/story/the-secrets-of-the-us-spyware-king/",
-    "description": "In an exclusive interview with WIRED, Paragon Solutions CEO Andrew Boyd reveals the limits of the company’s promise to keep bad actors from abusing its powerful espionage tool.",
-    "image": "https://media.wired.com/photos/6aba97561391d3eb891b72a2/master/pass/Security_The%20Secret%20Truth%20of%20the%20US%E2%80%99s%20Most%20Transparent%20Spyware%20Maker_v1.jpg",
-    "source": "WIRED",
-    "date": "2026-10-01T09:30:00.000Z"
-  },
-  {
-    "title": "Noise from Universal&#8217;s latest ride made rich locals furious, fast",
-    "link": "https://www.theverge.com/entertainment/1003182/universal-hollywood-fast-and-furious-rollercoaster-noise",
-    "description": "Universal Studios Hollywood has pledged to erect another sound barrier around its latest attraction after local residents complained about the bloodcurdling screams from riders. In",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2295022328.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-10-01T09:00:04.000Z"
-  },
-  {
-    "title": "Casio’s Crystal G-Shock Is the Most Expensive Ever Made",
-    "link": "https://www.wired.com/story/casio-crystal-g-shock-is-the-most-expensive-ever-made/",
-    "description": "Meet the full-blue sapphire MRG-D5000, a crazy G-Shock that costs more than a Patek Philippe or Porsche Macan.",
-    "image": "https://media.wired.com/photos/6abcfb33fa5c632be0bf2f8d/master/pass/093026_Most-Expensive-G-SHOCK.jpg",
-    "source": "WIRED",
-    "date": "2026-10-01T09:00:00.000Z"
-  },
-  {
-    "title": "Dell Coupon Codes: 20% Off for October 2026",
-    "link": "https://www.wired.com/story/dell-coupon-code/",
-    "description": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
-    "image": "https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg",
-    "source": "WIRED",
-    "date": "2026-10-01T05:00:00.000Z"
-  },
-  {
-    "title": "NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026",
-    "link": "https://www.wired.com/story/nordvpn-coupon/",
-    "description": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
-    "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg",
-    "source": "WIRED",
-    "date": "2026-10-01T05:00:00.000Z"
-  },
-  {
-    "title": "Mountain Hardwear Coupon Code 15% Off October",
-    "link": "https://www.wired.com/story/mountain-hardwear-promo-codes/",
-    "description": "High-performance mountaineering and hiking apparel doesn't have to break the bank.",
-    "image": "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg",
-    "source": "WIRED",
-    "date": "2026-10-01T05:00:00.000Z"
-  },
-  {
-    "title": "Booking.com Promo Codes: 20% Off | October 2026",
-    "link": "https://www.wired.com/story/booking-com-promo-code/",
-    "description": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
-    "image": "https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg",
-    "source": "WIRED",
-    "date": "2026-10-01T05:00:00.000Z"
-  },
-  {
-    "title": "Paramount+ Coupon Codes and Deals for 2026",
-    "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
-    "description": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
-    "image": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png",
-    "source": "WIRED",
-    "date": "2026-10-01T05:00:00.000Z"
-  },
-  {
-    "title": "20% Off Samsung Promo Code | October 2026",
-    "link": "https://www.wired.com/story/samsung-promo-codes/",
-    "description": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
-    "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
-    "source": "WIRED",
-    "date": "2026-10-01T05:00:00.000Z"
-  },
-  {
-    "title": "Newegg Promo Codes and Coupons for October 2026",
-    "link": "https://www.wired.com/story/newegg-promo-code/",
-    "description": "Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts.",
-    "image": "https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg",
-    "source": "WIRED",
-    "date": "2026-10-01T05:00:00.000Z"
-  },
-  {
-    "title": "eBay Coupons: 20% Off in October 2026",
-    "link": "https://www.wired.com/story/ebay-coupon-code/",
-    "description": "Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.",
-    "image": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg",
-    "source": "WIRED",
-    "date": "2026-10-01T05:00:00.000Z"
-  },
-  {
-    "title": "AT&T Promo Codes: $50 Off This October 2026",
-    "link": "https://www.wired.com/story/att-promo-code/",
-    "description": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
-    "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
-    "source": "WIRED",
-    "date": "2026-10-01T05:00:00.000Z"
-  },
-  {
-    "title": "Dyson Promo Codes: 25% Off in October 2026",
-    "link": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
-    "description": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
-    "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
-    "source": "WIRED",
-    "date": "2026-10-01T05:00:00.000Z"
-  },
-  {
-    "title": "Vivo’s X Fold 6 accidentally feels like a throwback",
-    "link": "https://www.theverge.com/tech/1002680/vivo-x-fold-6-global-release-specs-cameras",
-    "description": "It's a quirk of the release calendar that when Vivo's X Fold 6 launched in China this June, it was just another foldable. Now that it's ready for its global release, the size and a",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/vivo-x-fold-6-09.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-10-01T02:00:00.000Z"
-  },
-  {
-    "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
-    "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-    "description": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a ne",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-30-at-5.16.09-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-10-01T00:23:45.000Z"
-  },
-  {
-    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-    "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-    "description": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-30T23:43:07.000Z"
   }
 ]
