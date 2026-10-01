@@ -1,5 +1,21 @@
 [
   {
+    "title": "Vivo’s X Fold 6 accidentally feels like a throwback",
+    "link": "https://www.theverge.com/tech/1002680/vivo-x-fold-6-global-release-specs-cameras",
+    "description": "It's a quirk of the release calendar that when Vivo's X Fold 6 launched in China this June, it was just another foldable. Now that it's ready for its global release, the size and a",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/vivo-x-fold-6-09.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-01T02:00:00.000Z"
+  },
+  {
+    "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+    "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+    "description": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a ne",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-30-at-5.16.09-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-01T00:23:45.000Z"
+  },
+  {
     "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
     "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
     "description": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
@@ -96,9 +112,9 @@
     "date": "2026-09-30T20:41:41.000Z"
   },
   {
-    "title": "Factory CEO just accused his VC board advisor of spying for Cognition",
+    "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
     "link": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
-    "description": "VC Chris Degnan and former board advisor to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it.",
+    "description": "VC Chris Degnan and former board adviser to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it.",
     "image": "",
     "source": "TechCrunch",
     "date": "2026-09-30T20:39:09.000Z"
@@ -222,21 +238,5 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-1152x648-1784833184.jpg",
     "source": "Ars Technica",
     "date": "2026-09-30T18:25:04.000Z"
-  },
-  {
-    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-    "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-    "description": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-09-30T18:23:57.000Z"
-  },
-  {
-    "title": "The AI Tamagotchis are coming",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
-    "description": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, wil",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_3046.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-09-30T18:07:38.000Z"
   }
 ]
