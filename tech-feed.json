@@ -1,5 +1,133 @@
 [
   {
+    "title": "OpenAI cuts ties with three safety researchers, WSJ reports",
+    "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+    "description": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-01T18:14:42.000Z"
+  },
+  {
+    "title": "Experience What It’s Like to Travel in the Occupied West Bank",
+    "link": "https://www.wired.com/story/experience-what-its-like-to-travel-in-the-occupied-west-bank/",
+    "description": "Traverse barriers and checkpoints in the occupied West Bank—your choices reflect the reality of nearly 3.5 million Palestinians who live there.",
+    "image": "https://media.wired.com/photos/6abd2a92aa33d10785588652/master/pass/WIRED-West-Bank-Interactive-Site-Image-Lina-Jaradat-01.jpg",
+    "source": "WIRED",
+    "date": "2026-10-01T18:00:00.000Z"
+  },
+  {
+    "title": "Opus 5.5 loves to tell you &#8216;this matters&#8217; (and other AI writing tells)",
+    "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+    "description": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-01T17:50:19.000Z"
+  },
+  {
+    "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+    "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+    "description": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffi",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-01T17:12:21.000Z"
+  },
+  {
+    "title": "This startup wants to turn idle user car inventory into rental revenue",
+    "link": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-user-car-inventory-into-rental-revenue/",
+    "description": "When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating, while people who only need a car fo",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-01T17:09:00.000Z"
+  },
+  {
+    "title": "Sony brings AI graphics upscaling to the regular PS5",
+    "link": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr",
+    "description": "Sony is launching a new AI upscaling technology specifically for the regular PS5. The new tech, called Quick Spectral Super Resolution (QSSR), is a \"new performance tier of AI upsc",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25072873/110923_new_Playstation_5_Slim_ADiBenedetto_0010.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-01T16:53:39.000Z"
+  },
+  {
+    "title": "Amazon releases its own Jev clone as decision models flood the web",
+    "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+    "description": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-01T16:49:22.000Z"
+  },
+  {
+    "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+    "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+    "description": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-01T16:44:35.000Z"
+  },
+  {
+    "title": "California governor vetoes bill banning use of &#8216;pervert glasses&#8217; to secretly record people",
+    "link": "https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/",
+    "description": "The California state bill would have penalized people who secretly recorded people in public with wearables equipped with cameras and microphones.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-01T16:35:25.000Z"
+  },
+  {
+    "title": "With most information hidden, the game Stratego",
+    "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+    "description": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1864707238-1152x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-10-01T16:28:04.000Z"
+  },
+  {
+    "title": "Can VR glasses save VR?",
+    "link": "https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality",
+    "description": "I'm pretty sure I won't be buying the $1,299 Meta VR Glasses. That's too rich for my blood in today's economy, and my feelings about Meta are… conflicted. But I want you to underst",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/20260924_130227-EDIT.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-01T16:10:32.000Z"
+  },
+  {
+    "title": "Microsoft’s Office and Teams chief is leaving",
+    "link": "https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving",
+    "description": "After nearly 18 years at LinkedIn and Microsoft, Ryan Roslansky is leaving the company. Roslansky, who until recently was the CEO of LinkedIn, was promoted to the head of Office la",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2179776852.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-01T16:02:37.000Z"
+  },
+  {
+    "title": "Inside Microsoft’s big Copilot rethink",
+    "link": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
+    "description": "Last week, Microsoft CEO Satya Nadella hosted an intimate, invite-only event for leaders from some of its key enterprise customers. Instead of a flashy media event, Nadella outline",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Satya-Nadella-September-Copilot-Event.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-01T16:00:00.000Z"
+  },
+  {
+    "title": "Tim Heidecker Is Bringing His Joe Rogan Parody Show to The Onion",
+    "link": "https://www.wired.com/story/tim-heidecker-is-bringing-his-joe-rogan-parody-show-to-the-onion/",
+    "description": "Five years after the comedian went viral with a 12-hour blabberthon mocking the king of bro podcasting, he’s back in character to shill a supplement called “Crab Salts.”",
+    "image": "https://media.wired.com/photos/6abd5bce78587a545496eb2a/master/pass/Tim-Heidecker-Podcast-Culture.jpg",
+    "source": "WIRED",
+    "date": "2026-10-01T16:00:00.000Z"
+  },
+  {
+    "title": "One year later, Tesla and Musk still don&#8217;t have a good definition of &#8216;abundance&#8217;",
+    "link": "https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/",
+    "description": "The CEO promised to get more specific about his vision. But the details are still absent.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-01T15:50:10.000Z"
+  },
+  {
+    "title": "As US relations fray, Canada gets serious about its own launch industry",
+    "link": "https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/",
+    "description": "The Canada Rocket Company gets serious about medium-lift launch.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/R-2-rocket-1152x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-10-01T15:30:49.000Z"
+  },
+  {
     "title": "Brian Chesky interview: AI agents need their own operating system",
     "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
     "description": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
@@ -56,14 +184,6 @@
     "date": "2026-10-01T13:30:00.000Z"
   },
   {
-    "title": "Samsung raised prices on the Galaxy S26 by $100",
-    "link": "https://www.theverge.com/tech/1003328/samsung-s26-price-hikes-us",
-    "description": "The base Galaxy S26 with 256GB of storage costs nearly $1,000 after Samsung raised prices in the US by $100 or more, Phone Arena reports. The Galaxy S26 and S26 Plus were already $",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/samsung-galaxy-s26-plus-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-10-01T13:17:16.000Z"
-  },
-  {
     "title": "Hearing tech startup Legato launches its AI hearing glasses",
     "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
     "description": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
@@ -96,35 +216,11 @@
     "date": "2026-10-01T13:00:00.000Z"
   },
   {
-    "title": "Gears of War: E-Day is a great game launching at a terrible time",
-    "link": "https://www.theverge.com/games/1002768/gears-of-war-eday-review-xbox",
-    "description": "There are few blockbuster games that are as confident as Gears of War: E-Day. A prequel to one of Xbox's most transformative titles, E-Day knows exactly what it wants to be: a brut",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/assets_2026_09_1790327790_GoW_EDAY_Marcus_Lancer_Final.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-10-01T13:00:00.000Z"
-  },
-  {
-    "title": "Amazon is launching colorful new Kindles — and a case with physical page-turn buttons",
-    "link": "https://www.theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh",
-    "description": "Kindles don't usually change much with each new version, but Amazon is launching next-generation models today that look and feel a whole lot nicer. The base Kindle, Kindle Paperwhi",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/P1011600.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-10-01T13:00:00.000Z"
-  },
-  {
-    "title": "Amazon’s Carrie is a cyberbullying nightmare",
-    "link": "https://www.theverge.com/entertainment/1002835/carrie-review-amazon-prime-video",
-    "description": "Do we really need a new version of Carrie? That's the question that plagues any attempt to reimagine the classic horror tale. Stephen King's 1974 novel remains one of his most icon",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Carrie_S1_UT_250708_FALROB_00486RC_f_3000.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-10-01T13:00:00.000Z"
-  },
-  {
-    "title": "HP&#8217;s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
-    "link": "https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs",
-    "description": "HP is announcing a new laptop that's squarely aimed at Apple's MacBook Neo. The 2026 HP OmniBook 5 14 starts at $699.99 with an Intel Core 5 315 \"Wildcat Lake\" processor, 8GB of RA",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/HP-OmniBook-5-14_AllColorsTop.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
+    "title": "What’s the Best Kindle of 2026 (So Far)?",
+    "link": "https://www.wired.com/gallery/best-kindle/",
+    "description": "I’ve tested every single Kindle. Here’s how Amazon’s ebook readers stack up.",
+    "image": "https://media.wired.com/photos/6a88ef8c4075e316e6a0b3e0/master/pass/I-Tried-the-Best-Kindles-to-Take-Your-Library-Anywhere.jpg",
+    "source": "WIRED",
     "date": "2026-10-01T13:00:00.000Z"
   },
   {
@@ -136,107 +232,11 @@
     "date": "2026-10-01T13:00:00.000Z"
   },
   {
-    "title": "What’s the Best Kindle of 2026 (So Far)?",
-    "link": "https://www.wired.com/gallery/best-kindle/",
-    "description": "I’ve tested every single Kindle. Here’s how Amazon’s ebook readers stack up.",
-    "image": "https://media.wired.com/photos/6a88ef8c4075e316e6a0b3e0/master/pass/I-Tried-the-Best-Kindles-to-Take-Your-Library-Anywhere.jpg",
-    "source": "WIRED",
-    "date": "2026-10-01T13:00:00.000Z"
-  },
-  {
     "title": "The Best Early Amazon Echo Deals (and the Worst) Ahead of Prime Big Deal Days",
     "link": "https://www.wired.com/story/best-amazon-alexa-device-deals-prime-day/",
     "description": "Amazon raised prices across its devices in August. Here are the early device deals ahead of Prime Day that are still worth it—and which aren’t.",
     "image": "https://media.wired.com/photos/6abd58106f8c64341c3fc8f7/master/pass/Best%20Early%20Amazon%20Device%20Deals%20092026%20top%20art%20SOURCE%20Amazon.jpg",
     "source": "WIRED",
     "date": "2026-10-01T13:00:00.000Z"
-  },
-  {
-    "title": "2 Driverless Cars Crashed Going 155 mph. That Could Be a Good Thing",
-    "link": "https://www.wired.com/story/2-driverless-cars-crashed-going-155-mph-that-could-be-a-good-thing/",
-    "description": "Only two of five vehicles finished the race around a notoriously difficult Formula 1 track, exposing what happens when autonomous systems meet blind corners, sensor failures, and p",
-    "image": "https://media.wired.com/photos/6abc22142195c6db9de4ac33/master/pass/Imola_lead.jpg",
-    "source": "WIRED",
-    "date": "2026-10-01T12:15:00.000Z"
-  },
-  {
-    "title": "The Download: AI “mind-reading” and creative uses for small batteries",
-    "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
-    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI “mind-reading” tool can ",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/07/Asteroid_Redamonti_7.2.25.jpg?fit=2128,1196",
-    "source": "MIT Technology Review",
-    "date": "2026-10-01T12:10:00.000Z"
-  },
-  {
-    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-    "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-    "description": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-10-01T12:00:00.000Z"
-  },
-  {
-    "title": "Measles Is Forcing Hospitals to Adapt to a New Normal",
-    "link": "https://www.wired.com/story/measles-is-forcing-hospitals-to-adapt-to-a-new-normal/",
-    "description": "The US resurgence of measles is forcing hospitals and health systems to adopt new protocols and procedures to deal with a disease they thought was in the past.",
-    "image": "https://media.wired.com/photos/6ab3c2152004e68475746c7e/master/pass/092326-Measles%20Hospital%2002.jpg",
-    "source": "WIRED",
-    "date": "2026-10-01T12:00:00.000Z"
-  },
-  {
-    "title": "PS5 emulation is suddenly making big strides on PC",
-    "link": "https://arstechnica.com/gaming/2026/10/ps5-emulation-is-suddenly-making-big-strides-on-pc/",
-    "description": "Games like Astro Bot and Demon’s Souls are running ably without a console.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-8.12.38-PM-1152x648-1790813903.png",
-    "source": "Ars Technica",
-    "date": "2026-10-01T11:30:41.000Z"
-  },
-  {
-    "title": "Best Gifts for Parents (and Their Babies): Bottle Washers, Prepared Meals, and More",
-    "link": "https://www.wired.com/story/gifts-for-parents-2026/",
-    "description": "If your friend is in the depths of newborn survival, these gifts and gadgets can go a long way to make parenting a little easier.",
-    "image": "https://media.wired.com/photos/6abd703c310ef3ed01162fbc/master/pass/The%20Best%20Gift%20Ideas%20for%20New%20Parents%20(and%20Their%20Little%20One)%20092026%20top%20art%20SOURCE.jpg",
-    "source": "WIRED",
-    "date": "2026-10-01T11:30:00.000Z"
-  },
-  {
-    "title": "Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+",
-    "link": "https://www.wired.com/gallery/best-wifi-routers/",
-    "description": "Don’t suffer the buffer. These WIRED-tested home routers will deliver reliable internet across your home, whatever your needs or budget.",
-    "image": "https://media.wired.com/photos/686729e7c3e228b35983727d/master/pass/Best%20Wifi%20Routers.png",
-    "source": "WIRED",
-    "date": "2026-10-01T11:30:00.000Z"
-  },
-  {
-    "title": "The Real Threat to the Midterms Is Regular Americans Thinking Violence Is the Answer",
-    "link": "https://www.wired.com/story/the-real-threat-to-the-midterms-is-regular-americans-thinking-violence-is-the-answer/",
-    "description": "Robert A. Pape, a leading authority on political violence, wants Americans to understand that the threat is coming not from the fringes, but from the mainstream.",
-    "image": "https://media.wired.com/photos/6abd272040aa0c6f065ee4a0/master/pass/AP22158683515790%20(1).jpg",
-    "source": "WIRED",
-    "date": "2026-10-01T11:30:00.000Z"
-  },
-  {
-    "title": "NASA squeezed Treasury, vibe coded, and broke the mold in bid to save Swift",
-    "link": "https://arstechnica.com/space/2026/10/heres-why-nasa-is-celebrating-the-failed-mission-to-save-the-swift-observatory/",
-    "description": "\"We did some really, really cool stuff. I'm absolutely gutted we weren't able to get further.\"",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Testing-Link-Thermal-Vacuum-Testing-2._3382x1892-1152x648.jpg",
-    "source": "Ars Technica",
-    "date": "2026-10-01T11:15:15.000Z"
-  },
-  {
-    "title": "Tractive Cat 6 Mini Review: A Fitbit for Your Cat",
-    "link": "https://www.wired.com/review/tractive-cat-6-mini/",
-    "description": "Cats are finally getting the dog treatment. This smart cat collar features GPS location, activity, and sleep tracking, plus all-new heart and respiratory rate monitoring.",
-    "image": "https://media.wired.com/photos/6abd288e80d3112470982166/master/pass/Review%20The%20Tractive%20Cat%206%20Mini%20Is%20a%20Fitbit%20for%20Your%20Cat%20top%20art%20092026%20SOURCE%20Tractive.jpg",
-    "source": "WIRED",
-    "date": "2026-10-01T11:03:00.000Z"
-  },
-  {
-    "title": "Exclusive: Neurable’s First Brain-Scanning Headphones Want to Fine-Tune Your Focus",
-    "link": "https://www.wired.com/story/exclusive-neurable-one-brain-scanning-headphones-want-to-fix-your-focus/",
-    "description": "The company claims that its new device, the Neurable One, can keep you in the zone, calculate the best time to take a break, and tell you when your “brain battery” needs a recharge",
-    "image": "https://media.wired.com/photos/6abccc1599edf0dddca3a1a4/master/pass/Neurable%20One%20Lifestyle.jpg",
-    "source": "WIRED",
-    "date": "2026-10-01T11:00:00.000Z"
   }
 ]
