@@ -1,5 +1,61 @@
 [
   {
+    "title": "The founder&#8217;s guide to TechCrunch Disrupt 2026: Everything you need to know",
+    "link": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+    "description": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-02T00:03:23.000Z"
+  },
+  {
+    "title": "Apple’s reportedly developing a smart home camera that doesn’t record video",
+    "link": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
+    "description": "Apple's rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage. Mark Gurman said in the",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_I.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-01T22:51:36.000Z"
+  },
+  {
+    "title": "Venus' mysterious haze is actually cosmic dust",
+    "link": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
+    "description": "A physical model show that iron dust and sulfuric acid create the right properties.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-1152x510.jpeg",
+    "source": "Ars Technica",
+    "date": "2026-10-01T22:27:04.000Z"
+  },
+  {
+    "title": "Whatever AI Safety Is, It’s Not This",
+    "link": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
+    "description": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
+    "image": "https://media.wired.com/photos/6abd667878587a545496ec2f/master/pass/Model-Behavior-Trump-AI-Business.jpg",
+    "source": "WIRED",
+    "date": "2026-10-01T22:10:42.000Z"
+  },
+  {
+    "title": "SpaceX describes surgical intervention before launch of latest crew mission",
+    "link": "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/",
+    "description": "With Crew-13, Jessica Watkins became the first Black woman to lead a mission into space.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/crewdragon1crew13-1152x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-10-01T22:07:33.000Z"
+  },
+  {
+    "title": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
+    "link": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/",
+    "description": "Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-01T21:57:08.000Z"
+  },
+  {
+    "title": "Kevin Mandia&#8217;s new &#8216;agent swarm&#8217; security startup Armadin raises $255.5M at $2.5B valuation",
+    "link": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
+    "description": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-01T21:55:22.000Z"
+  },
+  {
     "title": "Musk&#8217;s AI chatbot Grok reportedly encouraged Trump to capture Venezuela&#8217;s president",
     "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
     "description": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
@@ -182,61 +238,5 @@
     "image": "",
     "source": "TechCrunch",
     "date": "2026-10-01T16:44:35.000Z"
-  },
-  {
-    "title": "California governor vetoes bill banning use of &#8216;pervert glasses&#8217; to secretly record people",
-    "link": "https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/",
-    "description": "The California state bill would have penalized people who secretly recorded people in public with wearables equipped with cameras and microphones.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-10-01T16:35:25.000Z"
-  },
-  {
-    "title": "With most information hidden, the game Stratego had stumped AI—until now",
-    "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-    "description": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1864707238-1152x648.jpg",
-    "source": "Ars Technica",
-    "date": "2026-10-01T16:28:04.000Z"
-  },
-  {
-    "title": "Can VR glasses save VR?",
-    "link": "https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality",
-    "description": "I'm pretty sure I won't be buying the $1,299 Meta VR Glasses. That's too rich for my blood in today's economy, and my feelings about Meta are… conflicted. But I want you to underst",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/20260924_130227-EDIT.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-10-01T16:10:32.000Z"
-  },
-  {
-    "title": "Microsoft’s Office and Teams chief is leaving",
-    "link": "https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving",
-    "description": "After nearly 18 years at LinkedIn and Microsoft, Ryan Roslansky is leaving the company. Roslansky, who until recently was the CEO of LinkedIn, was promoted to the head of Office la",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2179776852.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-10-01T16:02:37.000Z"
-  },
-  {
-    "title": "Inside Microsoft’s big Copilot rethink",
-    "link": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
-    "description": "Last week, Microsoft CEO Satya Nadella hosted an intimate, invite-only event for leaders from some of its key enterprise customers. Instead of a flashy media event, Nadella outline",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Satya-Nadella-September-Copilot-Event.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-10-01T16:00:00.000Z"
-  },
-  {
-    "title": "Tim Heidecker Is Bringing His Joe Rogan Parody Show to The Onion",
-    "link": "https://www.wired.com/story/tim-heidecker-is-bringing-his-joe-rogan-parody-show-to-the-onion/",
-    "description": "Five years after the comedian went viral with a 12-hour blabberthon mocking the king of bro podcasting, he’s back in character to shill a supplement called “Crab Salts.”",
-    "image": "https://media.wired.com/photos/6abd5bce78587a545496eb2a/master/pass/Tim-Heidecker-Podcast-Culture.jpg",
-    "source": "WIRED",
-    "date": "2026-10-01T16:00:00.000Z"
-  },
-  {
-    "title": "One year later, Tesla and Musk still don&#8217;t have a good definition of &#8216;abundance&#8217;",
-    "link": "https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/",
-    "description": "The CEO promised to get more specific about his vision. But the details are still absent.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-10-01T15:50:10.000Z"
   }
 ]
