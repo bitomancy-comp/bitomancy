@@ -1,5 +1,37 @@
 [
   {
+    "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+    "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+    "description": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
+    "image": "https://media.wired.com/photos/6abc2c32f3865c0127252ad0/master/pass/GettyImages-2278945913.jpg",
+    "source": "WIRED",
+    "date": "2026-10-02T09:45:00.000Z"
+  },
+  {
+    "title": "AI music maker Suno now generates spoken words",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+    "description": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public ",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-02T09:42:19.000Z"
+  },
+  {
+    "title": "Health Care Workers Are Tired of Cleaning Up Palantir’s Mess",
+    "link": "https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/",
+    "description": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
+    "image": "https://media.wired.com/photos/6abeb2ae10b6b4f5a5628f89/master/pass/Palantir-Nurse-Strike-e2fab562-387a-496b-b88c-027860c47584.jpg",
+    "source": "WIRED",
+    "date": "2026-10-02T09:30:00.000Z"
+  },
+  {
+    "title": "31 Best STEM Toys for Kids (2026): Learning Made Fun",
+    "link": "https://www.wired.com/gallery/best-stem-toys-for-kids/",
+    "description": "We found lots of math-filled and science-rich toys for tiny nerds to assemble, bake, squish—or even tear apart and rebuild.",
+    "image": "https://media.wired.com/photos/691bfbe9632b8d38670cc04a/master/pass/33%20Smart%20STEM%20Toys%20for%20the%20Techie%20Kids%20in%20Your%20Life.png",
+    "source": "WIRED",
+    "date": "2026-10-02T09:30:00.000Z"
+  },
+  {
     "title": "A new contest pits competitors against each other in a race to biological youth",
     "link": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
     "description": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and ",
@@ -206,37 +238,5 @@
     "image": "https://media.wired.com/photos/6abd98d540aa0c6f065eedf5/master/pass/Uncanny-Valley-Morally-Bound-WH-Accord-Business-2297777029.jpg",
     "source": "WIRED",
     "date": "2026-10-01T19:58:31.000Z"
-  },
-  {
-    "title": "Google’s new Guided Vision feature can help you read the fine print",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-    "description": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharin",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-10-01T19:47:51.000Z"
-  },
-  {
-    "title": "ChatGPT can now virtually try on clothes for you",
-    "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-    "description": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites l",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-10-01T19:21:53.000Z"
-  },
-  {
-    "title": "Android Central &#8216;will continue&#8217; despite laying off its staff",
-    "link": "https://www.theverge.com/tech/1003735/android-central-layoffs",
-    "description": "Android Central, a blog focused on the Android ecosystem, laid off its staff yesterday, but owner Future confirms to The Verge that the site will continue publishing. Yesterday, fo",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-01-at-12.18.47-PM.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-10-01T19:20:29.000Z"
-  },
-  {
-    "title": "Can good design stop content creators from having sex in robotaxis?",
-    "link": "https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis/",
-    "description": "Autonomous vehicle designers have to worry about riders getting frisky in public.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-boink-taxi-1152x648.jpg",
-    "source": "Ars Technica",
-    "date": "2026-10-01T19:19:42.000Z"
   }
 ]
