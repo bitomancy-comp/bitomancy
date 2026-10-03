@@ -1,11 +1,107 @@
 [
   {
+    "title": "Vessev built an electric ferry that almost flies",
+    "link": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
+    "description": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-03T14:42:00.000Z"
+  },
+  {
+    "title": "An OpenAI safety employee has quit and is sounding the alarm",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+    "description": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editori",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-03T14:31:56.000Z"
+  },
+  {
+    "title": "All the AI agents that can live in your text messages",
+    "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-03T14:00:00.000Z"
+  },
+  {
+    "title": "Spotify billionaire’s body scan startup has come to America",
+    "link": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+    "description": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-03T14:00:00.000Z"
+  },
+  {
+    "title": "3D movies are finally worth watching",
+    "link": "https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro",
+    "description": "Why am I suddenly buying up every 3D Blu-ray I can find after 3D became one of the biggest tech flops of all time? The technology's finally ready for 3D movies to shine, more than ",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268631_Xreal_A01_Plus_CFaulkner_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-03T12:00:00.000Z"
+  },
+  {
+    "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+    "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+    "description": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
+    "image": "https://media.wired.com/photos/6abda258fa5a1bd6e2b21507/master/pass/Kernel-Panic-Muse-AI-Self-PWN-Security.jpg",
+    "source": "WIRED",
+    "date": "2026-10-03T12:00:00.000Z"
+  },
+  {
+    "title": "How to Collect CDs",
+    "link": "https://www.wired.com/story/how-to-collect-cds/",
+    "description": "Fed up with paying to stream music you’ll never actually own? Give the little silver disc a spin. Here’s how to start a CD collection or get more out of one you already have.",
+    "image": "https://media.wired.com/photos/6abf78edd50732f925738f64/master/pass/GettyImages-1176910306.jpg",
+    "source": "WIRED",
+    "date": "2026-10-03T11:30:00.000Z"
+  },
+  {
+    "title": "The dawn of the age of the exoskeleton",
+    "link": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
+    "description": "The devices continue to show noticeable benefits for users in various real-world tasks.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2261904940-1152x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-10-03T11:15:33.000Z"
+  },
+  {
+    "title": "The Best E-Readers That Aren't a Kindle (2026): Kobo, Boox",
+    "link": "https://www.wired.com/gallery/best-ereaders/",
+    "description": "Want to untether your reading from Amazon? These Kindle alternatives deserve a spot on your nightstand.",
+    "image": "https://media.wired.com/photos/6ac0197d8e2ff9873e4241c1/master/pass/The%20Best%20E-Readers%20That%20Aren",
+    "source": "WIRED",
+    "date": "2026-10-03T11:05:00.000Z"
+  },
+  {
+    "title": "Best Mosquito Repellents for Your Yard: What Works and What Doesn’t (2026)",
+    "link": "https://www.wired.com/story/best-mosquito-repellents/",
+    "description": "After years of testing repellents, traps, and sprays, I found a few ways to keep the bugs at bay—and plenty that aren’t worth the effort.",
+    "image": "https://media.wired.com/photos/6abfcf9ffd75bc6c14087517/master/pass/I%E2%80%99ve%20Spent%20Years%20Fighting%20Mosquitoes%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+    "source": "WIRED",
+    "date": "2026-10-03T10:03:00.000Z"
+  },
+  {
     "title": "A Decade-Long Experiment Is Unlocking the Mysteries of the Ocean’s ‘Deep Reefs’",
     "link": "https://www.wired.com/story/inside-decade-long-experiment-to-understand-oceans-mysterious-deep-reefs/",
     "description": "Scientists left structures up to 100 meters under the surface. Here’s what they found when they retrieved them 10 years later.",
     "image": "https://media.wired.com/photos/6abf7988fd75bc6c14087434/master/pass/7d3bd2cd-5a0e-48eb-a36f-9d7b95b305df%20%C2%A9%20Luiz%20Rocha%20.JPG",
     "source": "WIRED",
     "date": "2026-10-03T09:00:00.000Z"
+  },
+  {
+    "title": "20% Off Brooks Promo Code | October 2026",
+    "link": "https://www.wired.com/story/brooks-promo-code/",
+    "description": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
+    "image": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg",
+    "source": "WIRED",
+    "date": "2026-10-03T05:00:00.000Z"
+  },
+  {
+    "title": "50% Off DoorDash Promo Code | October 2026",
+    "link": "https://www.wired.com/story/doordash-promo-code/",
+    "description": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
+    "image": "https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg",
+    "source": "WIRED",
+    "date": "2026-10-03T05:00:00.000Z"
   },
   {
     "title": "Surfshark Promo Codes: 87% Off | October 2026",
@@ -24,18 +120,10 @@
     "date": "2026-10-03T05:00:00.000Z"
   },
   {
-    "title": "50% Off DoorDash Promo Code | October 2026",
-    "link": "https://www.wired.com/story/doordash-promo-code/",
-    "description": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
-    "image": "https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg",
-    "source": "WIRED",
-    "date": "2026-10-03T05:00:00.000Z"
-  },
-  {
-    "title": "20% Off Brooks Promo Code | October 2026",
-    "link": "https://www.wired.com/story/brooks-promo-code/",
-    "description": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
-    "image": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg",
+    "title": "Hoka Coupon Codes: 30% Off in October 2026",
+    "link": "https://www.wired.com/story/hoka-coupon-code/",
+    "description": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for October 2026.",
+    "image": "https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg",
     "source": "WIRED",
     "date": "2026-10-03T05:00:00.000Z"
   },
@@ -44,14 +132,6 @@
     "link": "https://www.wired.com/story/chewy-promo-code/",
     "description": "Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.",
     "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
-    "source": "WIRED",
-    "date": "2026-10-03T05:00:00.000Z"
-  },
-  {
-    "title": "Hoka Coupon Codes: 30% Off in October 2026",
-    "link": "https://www.wired.com/story/hoka-coupon-code/",
-    "description": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for October 2026.",
-    "image": "https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg",
     "source": "WIRED",
     "date": "2026-10-03T05:00:00.000Z"
   },
@@ -158,85 +238,5 @@
     "image": "",
     "source": "TechCrunch",
     "date": "2026-10-02T19:15:51.000Z"
-  },
-  {
-    "title": "Lyft settles landmark driver misclassification lawsuit for $272.5M",
-    "link": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/",
-    "description": "Critics say workers are still owed far more.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2288109986-1152x648.jpg",
-    "source": "Ars Technica",
-    "date": "2026-10-02T19:09:49.000Z"
-  },
-  {
-    "title": "The 2008 economic crisis changed the US's relationship with energy",
-    "link": "https://arstechnica.com/science/2026/10/the-2008-economic-crisis-changed-the-uss-relationship-to-energy/",
-    "description": "It wasn't obvious at the time, but the US uncoupled carbon emissions and GDP growth.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1487351817-1152x648.jpg",
-    "source": "Ars Technica",
-    "date": "2026-10-02T18:56:21.000Z"
-  },
-  {
-    "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
-    "link": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
-    "description": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1258977050-2-1024x648.jpg",
-    "source": "Ars Technica",
-    "date": "2026-10-02T18:39:36.000Z"
-  },
-  {
-    "title": "This Shoe Company’s Instagram Ad With a Frat Is Pissing People Off",
-    "link": "https://www.wired.com/story/this-shoe-companys-instagram-ad-with-a-frat-is-pissing-people-off/",
-    "description": "A collaborative Instagram post between footwear line HeyDude and a University of Florida frat is sparking backlash due to sexual cyber-harassment allegations against two former mem",
-    "image": "https://media.wired.com/photos/6abeb53be6bd248b69d52cab/master/pass/GettyImages-2240863414.jpg",
-    "source": "WIRED",
-    "date": "2026-10-02T18:19:53.000Z"
-  },
-  {
-    "title": "Research roundup: 6 cool science stories we almost missed",
-    "link": "https://arstechnica.com/science/2026/10/research-roundup-6-cool-science-stories-we-almost-missed-6/",
-    "description": "Also: Spooky action at the LHC, Ice Age psychoactive use, yeast for building homes on Mars, and more.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/darkmatter-1152x648.jpg",
-    "source": "Ars Technica",
-    "date": "2026-10-02T18:17:27.000Z"
-  },
-  {
-    "title": "Apple says it&#8217;s tightening macOS &#8216;Full Disk Access&#8217; controls due to new risks from AI agents",
-    "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-    "description": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and b",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-10-02T18:11:27.000Z"
-  },
-  {
-    "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-    "description": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots fe",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04281_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-10-02T18:00:00.000Z"
-  },
-  {
-    "title": "It&#8217;s not AI anymore, it&#8217;s ‘super intelligence’ (according to the White House)",
-    "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-    "description": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pled",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-10-02T17:48:16.000Z"
-  },
-  {
-    "title": "Breaking up (with Elon Musk) is hard to do",
-    "link": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
-    "description": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X. To do so, she quote-tweeted a po",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STPK222_SHIVON_ZILIS2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-10-02T17:37:36.000Z"
-  },
-  {
-    "title": "US military ends long-running program to spot nuclear missile launches",
-    "link": "https://arstechnica.com/space/2026/10/us-military-ends-long-running-program-to-spot-nuclear-missile-launches/",
-    "description": "A newer program has been operational since 2011, and the next generation could launch within 12 months.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/071110-D-1584B-011-1152x648.jpeg",
-    "source": "Ars Technica",
-    "date": "2026-10-02T17:32:14.000Z"
   }
 ]
