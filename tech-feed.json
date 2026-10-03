@@ -1,5 +1,29 @@
 [
   {
+    "title": "Meta wants your next gadget to be Muse-infused",
+    "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+    "description": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-03T00:45:39.000Z"
+  },
+  {
+    "title": "Sanders introduces bill to ban the federal government from using Flock",
+    "link": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
+    "description": "The proposed legislation would extend to all automotica license plate readers.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-03T00:21:57.000Z"
+  },
+  {
+    "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+    "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+    "description": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-10-02T23:03:16.000Z"
+  },
+  {
     "title": "Someone got Doom in an SQL database",
     "link": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
     "description": "1,300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps.",
@@ -106,7 +130,7 @@
   {
     "title": "This Shoe Company’s Instagram Ad With a Frat Is Pissing People Off",
     "link": "https://www.wired.com/story/this-shoe-companys-instagram-ad-with-a-frat-is-pissing-people-off/",
-    "description": "A collaborative Instagram post between footwear line HEYDUDE and a University of Florida frat is sparking backlash due to sexual cyberharassment allegations against two former memb",
+    "description": "A collaborative Instagram post between footwear line HeyDude and a University of Florida frat is sparking backlash due to sexual cyber-harassment allegations against two former mem",
     "image": "https://media.wired.com/photos/6abeb53be6bd248b69d52cab/master/pass/GettyImages-2240863414.jpg",
     "source": "WIRED",
     "date": "2026-10-02T18:19:53.000Z"
@@ -214,29 +238,5 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nacon1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "source": "The Verge",
     "date": "2026-10-02T16:35:13.000Z"
-  },
-  {
-    "title": "Cybertruck sales in free fall as Tesla reports mediocre sales for Q3",
-    "link": "https://arstechnica.com/cars/2026/10/tesla-sales-drop-2-percent-in-underwhelming-q3-2026/",
-    "description": "Tesla met analysts expectations as it sold fewer cars in Q3 2026 than Q3 2025.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1415090444-2-1-1152x648.jpg",
-    "source": "Ars Technica",
-    "date": "2026-10-02T16:05:26.000Z"
-  },
-  {
-    "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
-    "link": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
-    "description": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
-    "image": "https://media.wired.com/photos/6abfd54ac4eb41b65cf33011/master/pass/Trillium-Labs-Risky-AI-Research-Business-edit.jpg",
-    "source": "WIRED",
-    "date": "2026-10-02T16:00:00.000Z"
-  },
-  {
-    "title": "Paramount and Warner Bros. Discovery to become Skydance",
-    "link": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
-    "description": "The roughly $110 billion deal is expected to close October 6.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-10-02T15:53:50.000Z"
   }
 ]
