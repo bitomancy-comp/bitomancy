@@ -1,5 +1,37 @@
 [
   {
+    "title": "The new Fitbit Edge leaks",
+    "link": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+    "description": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by ",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24438538/Fitbit_STK151_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-04T21:02:09.000Z"
+  },
+  {
+    "title": "Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submissions",
+    "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+    "description": "AI slop seems to be overwhelming bug bounty programs.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-04T20:31:07.000Z"
+  },
+  {
+    "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+    "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+    "description": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-04T20:08:34.000Z"
+  },
+  {
+    "title": "Prick’s theatrical industrial punk is perfect for spooky season",
+    "link": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
+    "description": "While deep in the recording process for The Downward Spiral, Trent Reznor lent some of his production talents to old friend Kevin McMahon, from the new wave band Lucky Pierre (whic",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Prick.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-04T20:00:00.000Z"
+  },
+  {
     "title": "The best early October Prime Day deals happening now",
     "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
     "description": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up Oct",
@@ -84,22 +116,6 @@
     "link": "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all",
     "description": "Google didn't even call the first Chromebook a \"Chromebook.\" The Cr-48 had no interesting design and no bright logos - it wasn't even designed to be a product you could buy. Instea",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VRH_Chromebook_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-10-04T12:00:00.000Z"
-  },
-  {
-    "title": "The rise, fall, and rise of portable MP3 players",
-    "link": "https://www.theverge.com/column/1003566/history-apple-ipod-mp3-music-player",
-    "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the collapse and the resurgence of the portable media player, follow Te",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10187187/jbareham_180208_2298_0023_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-10-04T12:00:00.000Z"
-  },
-  {
-    "title": "Amazon’s colorful and sturdy new Kindles",
-    "link": "https://www.theverge.com/tech/1004199/amazon-kindle-openai-dots-witcher-3-remastered-bose-wired-headphones",
-    "description": "Hi, friends! Welcome to Installer No. 146, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, it's October already?, and also you can read all ",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/installer.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "source": "The Verge",
     "date": "2026-10-04T12:00:00.000Z"
   },
@@ -222,21 +238,5 @@
     "image": "",
     "source": "TechCrunch",
     "date": "2026-10-03T14:42:00.000Z"
-  },
-  {
-    "title": "All the AI agents that can live in your text messages",
-    "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-10-03T14:00:00.000Z"
-  },
-  {
-    "title": "Spotify billionaire’s body scan startup has come to America",
-    "link": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
-    "description": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-10-03T14:00:00.000Z"
   }
 ]
