@@ -1,5 +1,21 @@
 [
   {
+    "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
+    "link": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
+    "description": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/egypt1-1152x648-1791134921.jpg",
+    "source": "Ars Technica",
+    "date": "2026-10-05T04:00:52.000Z"
+  },
+  {
+    "title": "EmTech Future 2026: When AI Meets Everything",
+    "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+    "description": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/EFT_On-Demad_WEB.png",
+    "source": "MIT Technology Review",
+    "date": "2026-10-05T04:00:00.000Z"
+  },
+  {
     "title": "The new Fitbit Edge leaks",
     "link": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
     "description": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by ",
@@ -222,21 +238,5 @@
     "image": "",
     "source": "TechCrunch",
     "date": "2026-10-03T16:30:01.000Z"
-  },
-  {
-    "title": "Jack Dorsey&#8217;s Bitchat disappears from app stores in India after government order",
-    "link": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
-    "description": "Bitchat has become largely unavailable in India as a result of the restrictions.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-10-03T15:02:01.000Z"
-  },
-  {
-    "title": "Vessev built an electric ferry that almost flies",
-    "link": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
-    "description": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-10-03T14:42:00.000Z"
   }
 ]
