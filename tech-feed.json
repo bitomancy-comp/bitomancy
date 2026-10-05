@@ -1,5 +1,21 @@
 [
   {
+    "title": "Staples Print and Marketing Services Review: Fast Holiday Gifts",
+    "link": "https://www.wired.com/story/staples-print-and-marketing-services/",
+    "description": "Staples’s printing service offers fast pickup and in-store experts who can help you get your family photos, novelty gifts, and business documents looking exactly how you want.",
+    "image": "https://media.wired.com/photos/6abd5e2a48a41f7dfebad371/master/pass/Staples-Brings-Digital-Media-Into-the-Real-World,-Usually-in-One-Day.jpg",
+    "source": "WIRED",
+    "date": "2026-10-05T09:00:00.000Z"
+  },
+  {
+    "title": "People really hate AI, so why can’t they get enough?",
+    "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+    "description": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the st",
+    "image": "",
+    "source": "MIT Technology Review",
+    "date": "2026-10-05T08:00:00.000Z"
+  },
+  {
     "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
     "link": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
     "description": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls",
@@ -160,18 +176,18 @@
     "date": "2026-10-04T11:00:00.000Z"
   },
   {
-    "title": "The Best Online Gift Cards and Digital Gift Ideas (2026)",
-    "link": "https://www.wired.com/story/gift-cards-and-digital-gift-ideas/",
-    "description": "Forget the wrapping paper and shipping. Go digital this year with subscriptions, ebooks, apps, and more.",
-    "image": "https://media.wired.com/photos/672938b755735f182d5c87d6/master/pass/Digital-Giftcards-Presents-GEAR-2M7H85F.jpg",
-    "source": "WIRED",
-    "date": "2026-10-04T10:30:00.000Z"
-  },
-  {
     "title": "Meta Glasses Nova (Gen 3) Review: Not Much New",
     "link": "https://www.wired.com/review/meta-glasses-gen-3/",
     "description": "Meta and Ray-Ban’s new smart glasses have slightly better batteries and mics. And yes, they still have cameras.",
     "image": "https://media.wired.com/photos/6ac01e4e87049b21d32345fe/master/pass/Meta%20Glasses%20Nova%20Tonal-resized.jpg",
+    "source": "WIRED",
+    "date": "2026-10-04T10:30:00.000Z"
+  },
+  {
+    "title": "The Best Online Gift Cards and Digital Gift Ideas (2026)",
+    "link": "https://www.wired.com/story/gift-cards-and-digital-gift-ideas/",
+    "description": "Forget the wrapping paper and shipping. Go digital this year with subscriptions, ebooks, apps, and more.",
+    "image": "https://media.wired.com/photos/672938b755735f182d5c87d6/master/pass/Digital-Giftcards-Presents-GEAR-2M7H85F.jpg",
     "source": "WIRED",
     "date": "2026-10-04T10:30:00.000Z"
   },
@@ -222,21 +238,5 @@
     "image": "",
     "source": "TechCrunch",
     "date": "2026-10-03T18:43:57.000Z"
-  },
-  {
-    "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
-    "link": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
-    "description": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
-    "image": "https://media.wired.com/photos/6ac00d9bc910b804171a679e/master/pass/GettyImages-474968764.jpg",
-    "source": "WIRED",
-    "date": "2026-10-03T18:00:00.000Z"
-  },
-  {
-    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-    "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-    "description": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-10-03T16:30:01.000Z"
   }
 ]
