@@ -1,5 +1,15 @@
 [
   {
+    "title": "AI in Natural Gas Industry: India's Energy Future",
+    "description": "Discover how AI can transform India",
+    "url": "/posts/ai-natural-gas-industry-india.html",
+    "image": "/images/ai-natural-gas-india.jpg",
+    "imageAlt": "Artificial intelligence transforming India",
+    "category": "AI",
+    "date": "2026-10-06",
+    "readTime": "10 min read"
+  },
+  {
     "title": "How to Launch a Fast Website on a Custom Domain",
     "description": "Learn how to launch a fast website on a custom domain using lightweight code, optimized images, HTTPS, CDN and modern hosting.",
     "url": "/posts/how-to-launch-fast-website-custom-domain.html",
