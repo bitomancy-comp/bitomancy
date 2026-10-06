@@ -131,7 +131,7 @@ function renderBlogGrid(posts){
     : `<div class="loading-box">No posts published yet — check back soon.</div>`;
 }
 
-fetch("/posts.json")
+fetch("/posts.json?v="+Date.now(), {cache:"no-store"})
   .then(r=>{ if(!r.ok) throw new Error("posts.json "+r.status); return r.json(); })
   .then(posts=>{
     allPosts = Array.isArray(posts) ? [...posts].sort((a,b)=>new Date(b.date)-new Date(a.date)) : [];
