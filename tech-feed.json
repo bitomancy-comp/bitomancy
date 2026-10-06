@@ -1,51 +1,131 @@
 [
   {
-    "title": "Type One Energy raised $200M to build a fusion power plant by 2034",
-    "link": "https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/",
-    "description": "Type One Energy is betting that its lean approach to fusion power will get a power plant on the grid faster, and investors have rewarded it with $200 million.",
+    "title": "The earbuds with the best call quality are cheaper than ever",
+    "link": "https://www.theverge.com/gadgets/1004111/soundcore-liberty-5-pro-prime-day-deal-sale",
+    "description": "Normally $169.99, the Soundcore Liberty 5 Pro are discounted to $135.99 during Amazon’s October sale, beating their previous low price of $149.99, and coming in $14 lower than the ",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268539_Soundcore_Liberty_5_Pro_JHiggins_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-06T15:00:00.000Z"
+  },
+  {
+    "title": "A New Neurotech Startup Launches to Rival Sam Altman’s Merge Labs",
+    "link": "https://www.wired.com/story/bridge-neurotech-startup-rival-sam-altman-merge-labs/",
+    "description": "Bridge Neurotech is planning to build a wearable brain-computer interface that uses ultrasound.",
+    "image": "https://media.wired.com/photos/6ac3cb5301457b4f8d2fd71f/master/pass/100526-Brain%20Ultrasound.jpg",
+    "source": "WIRED",
+    "date": "2026-10-06T15:00:00.000Z"
+  },
+  {
+    "title": "Apple AirPods Max 2 Are $120 Off Right Now",
+    "link": "https://www.wired.com/story/apple-airpods-max-2-deal-october-2026/",
+    "description": "They’re the best over-ear headphones for Apple loyalists, and over 20 percent off at multiple retailers right now.",
+    "image": "https://media.wired.com/photos/6ac507aafaca1c452d82d6a4/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Standalone%20Apple%20AirPods%20Max%202%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
+    "source": "WIRED",
+    "date": "2026-10-06T14:46:47.000Z"
+  },
+  {
+    "title": "Bluesky wants to give you your own domain on the open web",
+    "link": "https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/",
+    "description": "Bluesky says the process will still take 18-24 months, so don't expect your new, shortened 'bsky' handle any time soon.",
     "image": "",
     "source": "TechCrunch",
-    "date": "2026-10-06T12:00:00.000Z"
+    "date": "2026-10-06T14:41:52.000Z"
   },
   {
-    "title": "The planetary wave headed for California isn’t what you think it is",
-    "link": "https://www.theverge.com/science/1005077/el-nino-planetary-wave-kelvin",
-    "description": "A rather strong \"planetary wave\" recently slammed into South America and is making its way toward California. In case you're worried about headlines warning of the supposedly \"frea",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2166966071.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "title": "Emmys will move from broadcast TV to Prime Video in 2027",
+    "link": "https://techcrunch.com/2026/10/06/emmys-will-move-from-broadcast-tv-to-prime-video-in-2027/",
+    "description": "Non-Amazon Prime subscribers will be able to watch the awards show on the platform.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-06T14:37:31.000Z"
+  },
+  {
+    "title": "New leaks reveal more details about the Fitbit Edge including its price",
+    "link": "https://www.theverge.com/tech/1005519/google-fitbit-edge-leak-fitness-tracker-price-features",
+    "description": "Following more images of the previously leaked Google Fitbit Edge surfacing a few days ago, new details about the upcoming fitness tracker have been revealed, including potential f",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/fitbit.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "source": "The Verge",
-    "date": "2026-10-06T12:00:00.000Z"
+    "date": "2026-10-06T14:37:28.000Z"
   },
   {
-    "title": "94 Best Prime Day Deals We’re Shopping This October (2026)",
-    "link": "https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-06-2026/",
-    "description": "Amazon Prime Big Deal Days are here and we’ve tracked down the best discounts on all the gear our team recommends.",
-    "image": "https://media.wired.com/photos/6ac3ef9c649b084becf0e2b4/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Absolute%20Best%20Prime%20Day%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
+    "title": "A Trump Mobile breach may have exposed data of more than 3,600 people",
+    "link": "https://www.theverge.com/tech/1005546/trump-mobile-data-breach-leak",
+    "description": "Trump Mobile appears to have suffered a data breach that may have exposed the data of 3,615 people, according to reports from PCMag and Straight Arrow News. The breach reportedly i",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268626_Trump_phone_AKrales_0876.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-06T14:35:24.000Z"
+  },
+  {
+    "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+    "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+    "description": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-06T14:33:16.000Z"
+  },
+  {
+    "title": "7 Best Prime Day Kindle Deals (2026): Save Up to $150",
+    "link": "https://www.wired.com/story/best-kindle-prime-day-deals-10-06-2026/",
+    "description": "Amazon raised Kindle prices across the board, but Prime Day is still the best time to buy.",
+    "image": "https://media.wired.com/photos/6abed9836b5b4074ce828a91/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Standalone%20Kindle%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
     "source": "WIRED",
-    "date": "2026-10-06T11:48:23.000Z"
+    "date": "2026-10-06T14:17:48.000Z"
   },
   {
-    "title": "The Pixel 11 Pro and Pro XL phones are $250 off",
-    "link": "https://www.theverge.com/gadgets/1003856/pixel-11-pro-xl-amazon-prime-day-deal-sale",
-    "description": "During Amazon’s October sale, the Pixel 11 Pro and Pixel 11 Pro XL are discounted by $250 or more. The base model Pixel 11 Pro with 256GB of storage is only $849 (originally $1,099",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Pixel-11-Pro-HiLight-using-HiLight-Studio-Rainbow.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "title": "Pinterest&#8217;s AI now turns beauty Pins into action plans",
+    "link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+    "description": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-06T14:00:49.000Z"
+  },
+  {
+    "title": "Uber is spending $2.3B to get into catering",
+    "link": "https://techcrunch.com/2026/10/06/uber-is-spending-2-3b-to-get-into-catering/",
+    "description": "It's the latest in a string of deals meant to grow Uber Eats into a food delivery behemoth.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-06T14:00:25.000Z"
+  },
+  {
+    "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+    "link": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+    "description": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to j",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-06T14:00:00.000Z"
+  },
+  {
+    "title": "The Pixel Watch 5 is a better value at $65 off",
+    "link": "https://www.theverge.com/gadgets/1003583/pixel-watch-5-prime-day-deal-sale",
+    "description": "The Google Pixel Watch 5 is discounted by $60 during Amazon’s October sale, with the 41mm version on sale for $334.99, and the 45mm version for $364.99. The latest version of Googl",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/google_pixel_watch_5_review11.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "source": "The Verge",
-    "date": "2026-10-06T11:30:00.000Z"
+    "date": "2026-10-06T14:00:00.000Z"
   },
   {
-    "title": "The Verge&#8217;s guide to the best October Prime Day deals",
-    "link": "https://www.theverge.com/tech/1004783/october-prime-day-deals-guide",
-    "description": "Amazon’s Prime Big Deal Days (also known as October Prime Day) is here, serving as a precursor to Black Friday and Cyber Monday. There are a ton of good deals, and bundling them al",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268775_October_Prime_Day_PACKAGE_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "title": "Paramount closes historic Warner Bros. merger to form Skydance",
+    "link": "https://techcrunch.com/2026/10/06/paramount-closes-historic-warner-bros-merger-to-form-skydance/",
+    "description": "The deal brings together two major streaming platforms, Paramount+ and HBO Max, along with networks including CBS, CNN, MTV, TBS, Comedy Central, and Food Network.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-06T13:57:32.000Z"
+  },
+  {
+    "title": "Paramount and Warner Bros. Discovery complete $110 billion media megamerger",
+    "link": "https://www.theverge.com/entertainment/1005480/paramount-warner-bros-discovey-merger-closed",
+    "description": "Paramount has completed its $110 billion acquisition of Warner Bros. Discovery, forming a combined company known as Skydance. The merger officially puts Paramount and WBD's film st",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB385_PARAMOUNT_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "source": "The Verge",
-    "date": "2026-10-06T11:01:52.000Z"
+    "date": "2026-10-06T13:32:43.000Z"
   },
   {
-    "title": "GamerCard Review: A Flawed Pocket-Size Retro Handheld",
-    "link": "https://www.wired.com/review/gamercard/",
-    "description": "This pocket-size Raspberry Pi handheld has a fantastic retro-ready screen, but awful controls and awkward software deal it a losing hand.",
-    "image": "https://media.wired.com/photos/6ac3d89cf0c38056249b622a/master/pass/Grant%20Sinclair%20GamerCard%20top%20art%20102026%20SOURCE%20Grant%20Sinclair.jpg",
-    "source": "WIRED",
-    "date": "2026-10-06T11:00:00.000Z"
+    "title": "Big Oil asks Supreme Court to kill climate lawsuits before trial",
+    "link": "https://arstechnica.com/tech-policy/2026/10/big-oil-asks-supreme-court-to-kill-climate-lawsuits-before-trial/",
+    "description": "Oil companies say federal law should block state climate deception claims.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/oilprotest-1152x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-10-06T13:29:46.000Z"
   },
   {
     "title": "The best October Prime Day tech deals we found",
@@ -53,190 +133,110 @@
     "description": "Amazon’s Prime Big Deal Days event has begun, and it lasts through 3AM ET on Thursday, October 8th. We’ve spun through the company’s huge list of deals to find products that Verge ",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268775_October_Prime_Day_DAY_1_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "source": "The Verge",
-    "date": "2026-10-06T10:55:05.000Z"
+    "date": "2026-10-06T13:27:40.000Z"
   },
   {
-    "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
-    "link": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
-    "description": "An unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singing - nothing but \"lalala\" on repeat for minutes at a time, often i",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258035_Alexa_Studio_2025_JHiggins_0017.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "title": "Amazon reportedly pays $120 million to stream the Emmys for free",
+    "link": "https://www.theverge.com/entertainment/1005436/amazon-prime-video-emmys-deal",
+    "description": "The Emmys have a new home - and it looks like Amazon paid plenty for the rights. The awards show and Amazon announced a six-year deal that will move the Emmys from its traditional ",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2295324709.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "source": "The Verge",
-    "date": "2026-10-06T10:53:11.000Z"
+    "date": "2026-10-06T13:26:52.000Z"
   },
   {
-    "title": "The Best Amazon Prime Day Pet Deals on Feeders, Litter Boxes, and More (2026)",
-    "link": "https://www.wired.com/story/amazon-prime-day-pet-deals-10-6-2026/",
-    "description": "Some gadgets don’t live up to their promises. These automatic feeders, litter boxes, fountains, and cameras earned my recommendation.",
-    "image": "https://media.wired.com/photos/6ac40b9bbe37f8821c66ec44/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Standalone%20Pets%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
+    "title": "Google is about to remove free access to Gemini Flash and Pro",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+    "description": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, ",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-06T13:19:01.000Z"
+  },
+  {
+    "title": "I can’t use Apple’s new Screen Time on my daughter’s iPhone because my son won&#8217;t update his MacBook",
+    "link": "https://www.theverge.com/tech/1005193/apple-screen-time-update-struggles-ios-27-parental-controls",
+    "description": "After suffering years of frustration with Apple's parental control features, I've been eagerly anticipating the revamped Screen Time that launched last month with iOS 27. Unfortuna",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/family-devices-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-06T13:15:28.000Z"
+  },
+  {
+    "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
+    "link": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
+    "description": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it’s “still in the race” to build frontier-level artificial intelligence.",
+    "image": "https://media.wired.com/photos/6ac4f176165d7d326c8d86b1/master/pass/GettyImages-2277901311.jpg",
     "source": "WIRED",
-    "date": "2026-10-06T10:48:45.000Z"
+    "date": "2026-10-06T13:15:23.000Z"
   },
   {
-    "title": "Our Go-To Over-Ear Headphones Are at Their Lowest Price for Prime Day",
-    "link": "https://www.wired.com/story/nothing-headphone-1-deal-prime-day-10-6-2026/",
-    "description": "The Nothing Headphone (1) is one of my favorites for its stylish design, tactile on-ear controls, and fun sound. It’s over $100 off for Prime Day.",
-    "image": "https://media.wired.com/photos/6abeb1eda473beafcd693503/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20October%20Prime%20Day%202026%20Nothing%20Headphone%20(1)%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
-    "source": "WIRED",
-    "date": "2026-10-06T10:43:57.000Z"
-  },
-  {
-    "title": "The Best Power Station Is 30 Percent Off for Prime Day",
-    "link": "https://www.wired.com/story/bluetti-elite-300-prime-day-deal-10-06-2026/",
-    "description": "The Bluetti Elite 300, my favorite portable power station, is on sale, and it’s perfect if you want to go off-grid or have a backup at home.",
-    "image": "https://media.wired.com/photos/6ac3d00abe37f8821c66eaf2/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Bluetti%20Elite%20300%20Portable%20Power%20Station%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
-    "source": "WIRED",
-    "date": "2026-10-06T10:41:31.000Z"
-  },
-  {
-    "title": "2026 Climate Tech Companies to Watch",
-    "link": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
-    "description": "",
+    "title": "Glimpse wants to give hardware companies an X-ray view of every critical part",
+    "link": "https://techcrunch.com/2026/10/06/glimpse-wants-to-give-hardware-companies-an-x-ray-view-of-every-critical-part/",
+    "description": "Called Explore, Glimpse's new image processing software lets hardware makers speed up quality control checks using CT scanners.",
     "image": "",
-    "source": "MIT Technology Review",
-    "date": "2026-10-06T10:35:00.000Z"
+    "source": "TechCrunch",
+    "date": "2026-10-06T13:15:00.000Z"
   },
   {
-    "title": "Here’s how our climate team picked 10 promising companies to watch",
-    "link": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
-    "description": "As the team at MIT Technology Review set out to choose companies for this year’s edition of our annual list of Climate Tech Companies to Watch, the challenge felt more daunting tha",
+    "title": "Flai&#8217;s AI dealership software is booking 50,000 appointments per month",
+    "link": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/",
+    "description": "Flai's revenue has grown 20x in a year, and the company just closed a $27 million Series A funding round.",
     "image": "",
-    "source": "MIT Technology Review",
-    "date": "2026-10-06T10:35:00.000Z"
+    "source": "TechCrunch",
+    "date": "2026-10-06T13:00:00.000Z"
   },
   {
-    "title": "WeLion New Energy and its semi-solid-state batteries",
-    "link": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
-    "description": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteri",
+    "title": "The wireless headphones that roll up into a Bluetooth speaker are now available",
+    "link": "https://www.theverge.com/tech/1004860/tomorrow-doesnt-matter-tdm-neo-headphone-roll-up-bluetooth-speaker-us-availability",
+    "description": "Following their debut at CES 2026 and a successful Kickstarter crowdfunding campaign last February, Tomorrow Doesn't Matter's (TDM) Neo headphones are now available in the US. Whil",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/neo1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-06T13:00:00.000Z"
+  },
+  {
+    "title": "A First Ride With Lightfoot, a Solar-Powered Scooter",
+    "link": "https://www.wired.com/story/lightfoot-scooter-first-ride/",
+    "description": "Otherlab’s Lightfoot looks like a box on wheels, but this head-turning urban scooter is designed to go farther thanks to the power of the sun.",
+    "image": "https://media.wired.com/photos/6ac41e89e3ee26d72e9ad49b/master/pass/Lightfoot%20SOURCE%20Julian%20Chokkattu-resized.jpg",
+    "source": "WIRED",
+    "date": "2026-10-06T13:00:00.000Z"
+  },
+  {
+    "title": "Facebook tests going Reels-first in India",
+    "link": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/",
+    "description": "Meta is testing a new Facebook UX in India that sends some users directly into full-screen video when they open the app, putting Reels front and center.",
     "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-06T12:38:53.000Z"
+  },
+  {
+    "title": "The MacBook Air Drops to Its Lowest Price Since June for Prime Day (2026)",
+    "link": "https://www.wired.com/story/macbook-air-prime-day-10-6-2026/",
+    "description": "At $1,099, the MacBook Air is $200 off its retail price for Prime Day, its lowest price in months.",
+    "image": "https://media.wired.com/photos/6ac4139f0ee21ebbb5f3a3e5/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Standalone%20MacBook%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
+    "source": "WIRED",
+    "date": "2026-10-06T12:38:32.000Z"
+  },
+  {
+    "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+    "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+    "description": "The reports of OpenAI agents harming 3rd party sites keep coming.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-1152x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-10-06T12:21:53.000Z"
+  },
+  {
+    "title": "The Download: 10 climate tech companies to watch",
+    "link": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 10 climate tech companies to w",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/photo-BASEd3.jpg?fit=2128,1196",
     "source": "MIT Technology Review",
-    "date": "2026-10-06T10:35:00.000Z"
+    "date": "2026-10-06T12:10:00.000Z"
   },
   {
-    "title": "Form Energy and its iron batteries",
-    "link": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/",
-    "description": "Form Energy is building iron-based batteries that can store energy for multiple days. The company is ramping up supply at its factory and signing deals for commercial projects. New",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Form-Energy-team-members-working-in-Form-Factory-1.jpg?w=840",
-    "source": "MIT Technology Review",
-    "date": "2026-10-06T10:35:00.000Z"
-  },
-  {
-    "title": "X-energy and its helium-cooled nuclear reactors",
-    "link": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/",
-    "description": "X-energy is developing small modular reactors to satisfy some of the planet’s most power-hungry users: industrial manufacturers that need high temperatures to produce billions of t",
-    "image": "",
-    "source": "MIT Technology Review",
-    "date": "2026-10-06T10:35:00.000Z"
-  },
-  {
-    "title": "Energy Dome and its carbon dioxide batteries",
-    "link": "https://www.technologyreview.com/2026/10/06/1145032/2026-climate-tech-companies-to-watch-energy-dome-carbon-dioxide-batteries/",
-    "description": "There’s a growing need for long-duration storage to meet energy demand and balance out renewables on the grid. Energy Dome uses compressed carbon dioxide gas in its massive grid ba",
-    "image": "",
-    "source": "MIT Technology Review",
-    "date": "2026-10-06T10:35:00.000Z"
-  },
-  {
-    "title": "Brimstone and its one-stop process for making cleaner cement and critical minerals",
-    "link": "https://www.technologyreview.com/2026/10/06/1145172/2026-climate-tech-companies-to-watch-brimstone-one-stop-process-making-cleaner-cement-critical-minerals/",
-    "description": "Brimstone is making strides on two industrial problems, reducing the emissions from cement and providing a way to produce more critical minerals within the US. If the company can d",
-    "image": "",
-    "source": "MIT Technology Review",
-    "date": "2026-10-06T10:35:00.000Z"
-  },
-  {
-    "title": "WaveSave and its portable rubber dam",
-    "link": "https://www.technologyreview.com/2026/10/06/1145208/2026-climate-tech-companies-to-watch-wavesave-portable-rubber-dam/",
-    "description": "As sea levels rise and flood risks worsen due to global warming, WaveSave’s easy-to-erect portable dam offers a quick-response tool. People can use the dam to protect themselves an",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Flood-Defense_1.jpg?w=800",
-    "source": "MIT Technology Review",
-    "date": "2026-10-06T10:35:00.000Z"
-  },
-  {
-    "title": "BasiGo and its fleet of electric buses",
-    "link": "https://www.technologyreview.com/2026/10/06/1145216/2026-climate-tech-companies-to-watch-basigo-fleet-electric-buses/",
-    "description": "BasiGo aims to replace the tens of thousands of diesel-powered buses on sub-Saharan African roads with electric ones that generate far fewer emissions. The company’s pay-as-you-dri",
-    "image": "",
-    "source": "MIT Technology Review",
-    "date": "2026-10-06T10:35:00.000Z"
-  },
-  {
-    "title": "Moment Energy and its shipping containers packed with old EV batteries",
-    "link": "https://www.technologyreview.com/2026/10/06/1145221/2026-climate-tech-companies-to-watch-moment-energy-shipping-containers-packed-old-ev-batteries/",
-    "description": "Demand for energy storage is surging, with capacity expected to grow eightfold in the next decade. To meet that demand, Moment Energy wants to shortcut a supply chain that now flow",
-    "image": "",
-    "source": "MIT Technology Review",
-    "date": "2026-10-06T10:35:00.000Z"
-  },
-  {
-    "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
-    "description": "The author of The AGI Chronicles says his book “was written by a very tired, overworked, under-slept human being.”",
-    "image": "https://media.wired.com/photos/6ac390393e484daf0cf6af34/master/pass/100516-Big%20Interview%20K%20Roose%20Solo.jpg",
-    "source": "WIRED",
-    "date": "2026-10-06T10:30:00.000Z"
-  },
-  {
-    "title": "The Best Prime Day Apple Deals on Our Favorite MacBooks, AirPods and More (2026)",
-    "link": "https://www.wired.com/story/best-prime-day-apple-deals-10-06-2026/",
-    "description": "We’re already seeing some discounts on our favorite Apple tech, whether its devices or third-party accessories.",
-    "image": "https://media.wired.com/photos/6ac4103af80731d681cbbef5/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Prime%20Day%20Apple%20Deals%20(updated)%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
-    "source": "WIRED",
-    "date": "2026-10-06T10:26:48.000Z"
-  },
-  {
-    "title": "The Internet Runs on Cats and Porn. It’s About to Get Cattier and Pornier",
-    "link": "https://www.wired.com/story/icann-top-level-domains-meow/",
-    "description": "Soon, hundreds of new top-level domains, including .meow and .fart, could be added to the internet. WIRED goes inside the backroom shenanigans of ICANN, the organization at the hel",
-    "image": "https://media.wired.com/photos/6ac46ca77c8466252a591d44/master/pass/Cat_Animation_edit-ezgif.com-optimize.gif",
-    "source": "WIRED",
-    "date": "2026-10-06T10:00:00.000Z"
-  },
-  {
-    "title": "Save 30 Percent With These Prime Day Soundbars Deals (2026)",
-    "link": "https://www.wired.com/story/best-prime-day-soundbar-deals-10-06-2026/",
-    "description": "A soundbar is the easiest way to upgrade your home entertainment setup. Grab one of our favorites on sale during October Prime Day.",
-    "image": "https://media.wired.com/photos/6abe7b258a68b50c4bc89ee3/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Prime%20Day%20Soundbar%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
-    "source": "WIRED",
-    "date": "2026-10-06T09:52:16.000Z"
-  },
-  {
-    "title": "12 Best Prime Day Deals on Our Favorite Toys (October 2026)",
-    "link": "https://www.wired.com/story/amazon-prime-day-lego-deals-10-06-2026/",
-    "description": "Snag some gifts for your kiddos or unleash your inner child with the best Prime Day toy deals, including Lego, STEM toys, and board games.",
-    "image": "https://media.wired.com/photos/6abed4649d691e39ae3063db/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Prime%20Day%20Toy%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
-    "source": "WIRED",
-    "date": "2026-10-06T09:47:36.000Z"
-  },
-  {
-    "title": "14 Best Prime Day Deals on Fitness and Recovery Gear (2026)",
-    "link": "https://www.wired.com/story/amazon-prime-day-fitness-deals-10-06-2026/",
-    "description": "I’ve rounded up the best Amazon Prime Big Deal Days discounts on fitness trackers, percussive therapy, LED masks, and more.",
-    "image": "https://media.wired.com/photos/6abebbcdd0f41fb32fb0bcd6/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Prime%20Day%20Fitness%20Wellness%20Tech%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
-    "source": "WIRED",
-    "date": "2026-10-06T09:43:28.000Z"
-  },
-  {
-    "title": "Bose QuietComfort Headphones (2nd Gen) Review: Noise-Canceling Champ",
-    "link": "https://www.wired.com/review/bose-quietcomfort-second-generation/",
-    "description": "Bose’s sequel to the QuietComfort Headphones is incredibly comfortable and has excellent noise-canceling, but those traits are no longer enough to beat the competition.",
-    "image": "https://media.wired.com/photos/6ac3ec23817540342f34f268/master/pass/Review%20Bose%20QuietComfort%20Headphones%20(2nd%20Gen)%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-    "source": "WIRED",
-    "date": "2026-10-06T09:30:00.000Z"
-  },
-  {
-    "title": "I Found The Best Amazon Prime Day Headphone Deals (2026)",
-    "link": "https://www.wired.com/story/best-prime-day-headphone-deals-10-06-2026/",
-    "description": "I’ve tested more than 100 headphones and covered nearly a dozen Prime Days. Here are some actually good headphone deals from the sale.",
-    "image": "https://media.wired.com/photos/6abebe6fcaca8813b83fa2f9/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Prime%20Day%20Headphone%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
-    "source": "WIRED",
-    "date": "2026-10-06T09:27:23.000Z"
-  },
-  {
-    "title": "I Found the Best Prime Day TV Deals For That Big Theater Feel",
-    "link": "https://www.wired.com/story/best-prime-day-tv-deals-10-06-2026/",
-    "description": "Never pay full price for a TV. Upgrade your entertainment setup with these WIRED-tested screens and streaming devices.",
-    "image": "https://media.wired.com/photos/6ac1f3de04cf6419f26a6dc2/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20October%20Prime%20Day%20TV%20Deals%20(updated)%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
-    "source": "WIRED",
-    "date": "2026-10-06T09:19:34.000Z"
+    "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
+    "link": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
+    "description": "Users want to \"reduce risk and avoid unnecessary disruption\" while making changes.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-10-06T12:00:31.000Z"
   }
 ]
