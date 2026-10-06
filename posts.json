@@ -20,16 +20,6 @@
     "readTime": "10 min read"
   },
   {
-    "title": "Computer Vision: How AI Enables Machines to See and Understand the World",
-    "description": "A complete guide to computer vision, including how it works, major technologies, applications, benefits, limitations, and future trends.",
-    "url": "/posts/computer-vision.html",
-    "image": "/images/computer-vision.jpg",
-    "imageAlt": "Artificial intelligence computer vision system analyzing digital images",
-    "category": "AI",
-    "date": "2026-10-06",
-    "readTime": "10 min read"
-  },
-  {
     "title": "How to Launch a Fast Website on a Custom Domain",
     "description": "Learn how to launch a fast website on a custom domain using lightweight code, optimized images, HTTPS, CDN and modern hosting.",
     "url": "/posts/how-to-launch-fast-website-custom-domain.html",
