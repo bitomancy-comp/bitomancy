@@ -20,6 +20,16 @@
     "readTime": "10 min read"
   },
   {
+    "title": "Computer Vision: How AI Helps Machines See the World",
+    "description": "Learn what computer vision is, how it works, its key technologies, real-world uses, benefits, limitations and the future of AI-powered visual intelligence.",
+    "url": "/posts/computer-vision.html",
+    "image": "/images/computer-vision.jpg",
+    "imageAlt": "Artificial intelligence computer vision system analyzing digital images",
+    "category": "AI",
+    "date": "2026-10-06",
+    "readTime": "10 min read"
+  },
+  {
     "title": "How to Launch a Fast Website on a Custom Domain",
     "description": "Learn how to launch a fast website on a custom domain using lightweight code, optimized images, HTTPS, CDN and modern hosting.",
     "url": "/posts/how-to-launch-fast-website-custom-domain.html",
