@@ -1,5 +1,165 @@
 [
   {
+    "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+    "description": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Cal",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Photos-of-Phone-7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-05T23:09:55.000Z"
+  },
+  {
+    "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+    "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+    "description": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-10-05T22:26:35.000Z"
+  },
+  {
+    "title": "Lucid Motors&#8217; EV output falls to lowest level in almost 2 years",
+    "link": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
+    "description": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-05T21:54:01.000Z"
+  },
+  {
+    "title": "Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports",
+    "link": "https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports",
+    "description": "It&#8217;s a wild time for retro gaming. Thanks to decompilations and recompilations of classic titles, those games are becoming unshackled from their proprietary code and original",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25403266/STK465_VIDEO_GAMES_EMULATOR__CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-05T21:17:45.000Z"
+  },
+  {
+    "title": "The Matic is the first robovac to get an FCC ban waiver, not that it needs it",
+    "link": "https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval",
+    "description": "The Matic is our favorite robot vacuum and robo-mop, and it's also now the first to escape the FCC's Roomba ban. Well, sort of - because the Matic wasn't banned to begin with. Here",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_8725.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-05T21:15:05.000Z"
+  },
+  {
+    "title": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap",
+    "link": "https://arstechnica.com/tech-policy/2026/10/cable-lobby-to-sue-trump-fcc-over-repeal-of-national-tv-ownership-cap/",
+    "description": "Cable industry to sue, says FCC can't repeal TV ownership limit set by Congress.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/brendan-carr-fcc-crest-1152x648-1771622570.jpg",
+    "source": "Ars Technica",
+    "date": "2026-10-05T20:47:48.000Z"
+  },
+  {
+    "title": "OpenAI will start watermarking ChatGPT&#8217;s text in the EU",
+    "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "description": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-05T20:36:48.000Z"
+  },
+  {
+    "title": "Texas city demands $2M for public records on Flock usage",
+    "link": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
+    "description": "Prices of public records tracking cops' use of Flock go up as backlash swells.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2288945998-1024x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-10-05T20:31:12.000Z"
+  },
+  {
+    "title": "Etched fields funding offers at $40B+ valuation, sources say",
+    "link": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+    "description": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-05T20:24:09.000Z"
+  },
+  {
+    "title": "This startup is issuing AI-generated acne prescriptions",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+    "description": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its ",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nolla-health-app.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-05T20:14:57.000Z"
+  },
+  {
+    "title": "Elon Musk’s Exes Are the Most Damning Part of a Massive New Documentary",
+    "link": "https://www.wired.com/story/elon-musks-exes-are-the-most-damning-part-of-a-massive-new-documentary/",
+    "description": "Interviews with Justine Wilson and Ashley St. Clair in the nearly four-hour-long Musk paint the world’s richest man as capricious and cruel even toward those closest to him.",
+    "image": "https://media.wired.com/photos/6ac02c7cf11859774e123e07/master/pass/culture_musk_exes_damning_documentary.jpg",
+    "source": "WIRED",
+    "date": "2026-10-05T19:58:38.000Z"
+  },
+  {
+    "title": "After Factory&#8217;s public spat with Khosla, Menlo proudly invests",
+    "link": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
+    "description": "Days after Vinod Khosla called Factory a struggling also-ran, Menlo has shown up with a check and a glowing blog post.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-05T19:38:07.000Z"
+  },
+  {
+    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+    "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+    "description": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own custom",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-05T19:33:53.000Z"
+  },
+  {
+    "title": "All the drama around AI&#8217;s takeover of mathematics",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+    "description": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers e",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268684_OpenAI_claims_to_revolutionize_maths_CVirginia2-1.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-05T19:28:59.000Z"
+  },
+  {
+    "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+    "link": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+    "description": "The tool can free up over 12GB of storage.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Screenshot-2026-03-03-at-10.30.27-AM-1152x648.jpeg",
+    "source": "Ars Technica",
+    "date": "2026-10-05T19:14:44.000Z"
+  },
+  {
+    "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
+    "link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+    "description": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we ha",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-05T19:05:19.000Z"
+  },
+  {
+    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+    "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+    "description": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal ",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-05T18:54:30.000Z"
+  },
+  {
+    "title": "Hyundai CEO says only a ‘level playing field’ can minimize damage from China",
+    "link": "https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share",
+    "description": "There's been a lot of doom and gloom from the auto industry lately when the subject of China comes up. Automaker CEOs, in particular, warn that allowing low-cost, high-tech Chinese",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_6769.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "source": "The Verge",
+    "date": "2026-10-05T18:41:48.000Z"
+  },
+  {
+    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+    "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+    "description": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+    "image": "",
+    "source": "TechCrunch",
+    "date": "2026-10-05T18:29:00.000Z"
+  },
+  {
+    "title": "Astronomers Confirm Discovery of the Youngest Known Exoplanet Ever",
+    "link": "https://www.wired.com/story/astronomers-confirm-discovery-of-youngest-known-exoplanet-ever/",
+    "description": "Under 1 million years old, “Elias 2-24b” is now the youngest exoplanet ever observed, and it may force researchers to reevaluate theories about how planets are formed.",
+    "image": "https://media.wired.com/photos/6ac38637362e6c978908ac0b/master/pass/GettyImages-976979300.jpg",
+    "source": "WIRED",
+    "date": "2026-10-05T18:15:16.000Z"
+  },
+  {
     "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
     "description": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarki",
@@ -8,12 +168,20 @@
     "date": "2026-10-05T18:08:39.000Z"
   },
   {
-    "title": "At 19, founder raises $11 million for Ghost, maker of a $3,499 computer for personal AI",
+    "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
     "link": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
-    "description": "Ghost announced Monday its official emergence from stealth and an $11 billion seed round led by Andreessen Horowitz.",
+    "description": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf.",
     "image": "",
     "source": "TechCrunch",
     "date": "2026-10-05T18:07:07.000Z"
+  },
+  {
+    "title": "Controlling the brain with light earns a physiology Nobel",
+    "link": "https://arstechnica.com/science/2026/10/controlling-the-brain-with-light-earns-a-physiology-nobel/",
+    "description": "The entire field of optogenetics traces back to light-seeking algae.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2212760356-1152x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-10-05T17:59:27.000Z"
   },
   {
     "title": "The Best Early Amazon Prime Day Deals 2026: WIRED-Tested Picks to Shop Now",
@@ -40,6 +208,14 @@
     "date": "2026-10-05T17:26:44.000Z"
   },
   {
+    "title": "Russian drones strike Ukraine’s data centers by exploiting air defense gaps",
+    "link": "https://arstechnica.com/gadgets/2026/10/russian-drones-strike-ukraines-data-centers-by-exploiting-air-defense-gaps/",
+    "description": "Russian attacks on Internet, phone services threaten Ukraine’s wartime economy.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Ukraine-data-center-1152x648.jpg",
+    "source": "Ars Technica",
+    "date": "2026-10-05T17:21:11.000Z"
+  },
+  {
     "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
     "description": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide. When Guiducci con",
@@ -62,181 +238,5 @@
     "image": "",
     "source": "TechCrunch",
     "date": "2026-10-05T16:43:35.000Z"
-  },
-  {
-    "title": "F1 in Bahrain... in Malaysia: The race needed a software update to start",
-    "link": "https://arstechnica.com/cars/2026/10/f1-in-bahrain-in-malaysia-the-race-needed-a-software-update-to-start/",
-    "description": "A software bug waylaid half the field and required a race reboot.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298078711-1152x648.jpg",
-    "source": "Ars Technica",
-    "date": "2026-10-05T16:09:07.000Z"
-  },
-  {
-    "title": "Connecting AI agents to enterprise knowledge",
-    "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-    "description": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the ",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Neo4j-Report-2026-cover.png",
-    "source": "MIT Technology Review",
-    "date": "2026-10-05T15:47:52.000Z"
-  },
-  {
-    "title": "Nvidia’s Shield TV Pro just got a $100 price hike",
-    "link": "https://www.theverge.com/tech/1004791/nvidia-shield-tv-pro-streaming-box-price-increase",
-    "description": "Nvidia's Shield TV streaming boxes are the latest victims of the memory shortage that has seen prices increase dramatically for everything from digital cameras to game consoles. Wh",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/shield.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-10-05T15:43:13.000Z"
-  },
-  {
-    "title": "OpenAI launches visual ads that appear alongside image generation results",
-    "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-    "description": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-10-05T15:14:24.000Z"
-  },
-  {
-    "title": "Mass quarantine issued in Russia after unexplained death of plague researcher",
-    "link": "https://arstechnica.com/health/2026/10/researchers-death-from-undisclosed-illness-sparks-mass-quarantine-in-russia/",
-    "description": "Unconfirmed reports have suggested there was a laboratory accident.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2199370602-1152x648.jpg",
-    "source": "Ars Technica",
-    "date": "2026-10-05T15:12:17.000Z"
-  },
-  {
-    "title": "Apple’s new M6 Mac Mini is over $100 off",
-    "link": "https://www.theverge.com/gadgets/1004772/apple-mac-mini-m6-deal-october-prime-day-deal-sale",
-    "description": "Really the only negative associated with the new M6-powered Mac Mini is its high price. While the last-gen model debuted at just $599, the faster, but mostly unchanged 2026 edition",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0011.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-10-05T15:08:31.000Z"
-  },
-  {
-    "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
-    "link": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/",
-    "description": "Lola Vision Systems is one of the Startup Battlefield 200 companies battling it out at TechCrunch Disrupt, taking place October 13-15 in San Francisco.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-10-05T15:00:00.000Z"
-  },
-  {
-    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-    "description": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-10-05T15:00:00.000Z"
-  },
-  {
-    "title": "Hackers steal 8 million citizens&#8217; records from Danish government database",
-    "link": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database/",
-    "description": "The Danish government said the breach of names, addresses, and state-issued ID numbers affects 8 million people, including people living abroad and the deceased.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-10-05T14:58:42.000Z"
-  },
-  {
-    "title": "CNN&#8217;s boss will remain as Paramount and WBD merge into Skydance",
-    "link": "https://www.theverge.com/entertainment/1004734/cnn-ceo-mark-thompson-paramount-warner-bros",
-    "description": "CNN CEO Mark Thompson will remain at the head of the news network when Paramount's $110 billion Warner Bros. Discovery acquisition closes this week. Thompson wrote in a memo to emp",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2153092202.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-10-05T14:42:34.000Z"
-  },
-  {
-    "title": "Researchers are tracking a Chinese AI &#8216;agent fleet&#8217;",
-    "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-    "description": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-10-05T14:35:09.000Z"
-  },
-  {
-    "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
-    "description": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-10-05T14:30:00.000Z"
-  },
-  {
-    "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
-    "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
-    "description": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, priva",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_2026-10-05_Schiff.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-10-05T14:30:00.000Z"
-  },
-  {
-    "title": "The best early October Prime Day deals happening now",
-    "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
-    "description": "Amazon and other retailers are knocking down prices on popular products for October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on t",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268775_October_Prime_Day_art_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-10-05T14:10:19.000Z"
-  },
-  {
-    "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-    "description": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second a",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-10-05T14:00:00.000Z"
-  },
-  {
-    "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
-    "description": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/highlights_siri_conversations_endframe__d56qnw2oz22q_large_2x.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-10-05T13:47:14.000Z"
-  },
-  {
-    "title": "AI glasses face their first major government crackdown",
-    "link": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
-    "description": "Norway wants time to write permanent rules for glasses that can record bystanders.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/546417470_31238681149113739_395523165946500898_n.jpg",
-    "source": "Ars Technica",
-    "date": "2026-10-05T13:39:30.000Z"
-  },
-  {
-    "title": "Bringing predictive analytics to the agentic AI era",
-    "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-    "description": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable ",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/MIT_TP_CoverPredictiveAnalyticsV9_9926.png?w=840",
-    "source": "MIT Technology Review",
-    "date": "2026-10-05T13:29:32.000Z"
-  },
-  {
-    "title": "OpenAI is sticking more ads in ChatGPT",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
-    "description": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" a",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/chatgpt-visual-ads.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "source": "The Verge",
-    "date": "2026-10-05T13:09:48.000Z"
-  },
-  {
-    "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
-    "link": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
-    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. People really hate AI, so why ",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/Clones-3.jpg?fit=2128,1196",
-    "source": "MIT Technology Review",
-    "date": "2026-10-05T12:10:00.000Z"
-  },
-  {
-    "title": "Can Safeworld convince people that GenAI robots won&#8217;t hurt them?",
-    "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-    "description": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
-    "image": "",
-    "source": "TechCrunch",
-    "date": "2026-10-05T12:00:00.000Z"
-  },
-  {
-    "title": "Explaining Hall-effect, TMR, and other new types of \"mechanical\" switches",
-    "link": "https://arstechnica.com/gadgets/2026/10/the-hows-and-whys-of-non-mechanical-mechanical-keyboard-switches/",
-    "description": "Ars Technica's guide to new keyboard sensing technologies.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Varmilo-EC-1152x648.jpg",
-    "source": "Ars Technica",
-    "date": "2026-10-05T11:00:41.000Z"
   }
 ]
