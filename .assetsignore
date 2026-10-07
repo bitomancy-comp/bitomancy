@@ -1,0 +1,10 @@
+.git
+.github
+scripts
+templates
+node_modules
+DEPLOYMENT.md
+README.md
+package.json
+wrangler.jsonc
+.assetsignore

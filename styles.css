@@ -892,3 +892,8 @@ margin-bottom:8px;
 }
 
 }
+
+.nav-simple{display:flex;flex-wrap:wrap;gap:6px 20px;font-size:13px;font-weight:700;letter-spacing:.04em}
+.nav-simple a{color:var(--muted)}.nav-simple a:hover{color:var(--text)}
+@media(max-width:600px){.container.nav{flex-wrap:wrap;gap:10px}.nav-simple{order:3;width:100%}}
+main ul,main ol{line-height:1.8}
