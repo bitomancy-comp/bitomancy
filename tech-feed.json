@@ -1,5 +1,21 @@
 [
   {
+    "title": "I Found the 20 Best Prime Day Tech and Gadget Deals (October 2026)",
+    "link": "https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/",
+    "description": "Never pay full price. Bag yourself some Prime Day tech deals on our favorite WIRED-tested gadgets.",
+    "image": "https://media.wired.com/photos/6abed71a8fdae86eaab61be4/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Prime%20Day%20Tech%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
+    "source": "WIRED",
+    "date": "2026-10-07T00:34:56.000Z"
+  },
+  {
+    "title": "113 Best Prime Day Deals We’re Shopping This October (2026)",
+    "link": "https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-06-2026/",
+    "description": "Amazon Prime Big Deal Days are here, and we’ve tracked down the best discounts on all the gear our team recommends.",
+    "image": "https://media.wired.com/photos/6ac3ef9c649b084becf0e2b4/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Absolute%20Best%20Prime%20Day%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
+    "source": "WIRED",
+    "date": "2026-10-07T00:32:13.000Z"
+  },
+  {
     "title": "Jaguar Finally Reveals Its Biggest Gamble: the Type 01",
     "link": "https://www.wired.com/story/jaguar-finally-reveals-its-biggest-gamble-the-type-01/",
     "description": "Following a viral rebrand and two years without selling a new vehicle, the British marque takes the covers off the most divisive electric car yet seen.",
@@ -112,14 +128,6 @@
     "date": "2026-10-06T21:10:13.000Z"
   },
   {
-    "title": "102 Best Prime Day Deals We’re Shopping This October (2026)",
-    "link": "https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-06-2026/",
-    "description": "Amazon Prime Big Deal Days are here, and we’ve tracked down the best discounts on all the gear our team recommends.",
-    "image": "https://media.wired.com/photos/6ac3ef9c649b084becf0e2b4/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Absolute%20Best%20Prime%20Day%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
-    "source": "WIRED",
-    "date": "2026-10-06T20:54:57.000Z"
-  },
-  {
     "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
     "link": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
     "description": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
@@ -230,13 +238,5 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0016.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "source": "The Verge",
     "date": "2026-10-06T19:30:00.000Z"
-  },
-  {
-    "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-    "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-    "description": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/broken-https-tls-1152x648.jpg",
-    "source": "Ars Technica",
-    "date": "2026-10-06T19:21:14.000Z"
   }
 ]
