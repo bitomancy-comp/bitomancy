@@ -24,7 +24,7 @@ const POSTS_JSON = path.join(ROOT, "posts.json");
 const SITEMAP_XML = path.join(ROOT, "sitemap.xml");
 const RSS_XML = path.join(ROOT, "rss.xml");
 
-const STATIC_PAGES = ["/", "/tools.html", "/shop.html", "/about.html", "/contact.html"];
+const STATIC_PAGES = ["/", "/blog.html", "/tools.html", "/shop.html", "/about.html", "/contact.html", "/privacy.html", "/terms.html", "/disclaimer.html", "/affiliate-disclosure.html"];
 const DEFAULT_IMAGE = "/assets/og.svg";
 
 function escapeHTML(str = "") {
@@ -44,12 +44,14 @@ function rfc822(dateISO) {
 /* ---- tiny, dependency-free HTML metadata readers ---- */
 
 function metaByAttr(html, attr, key) {
-  const re1 = new RegExp(`<meta[^>]*${attr}=["']${key}["'][^>]*content=["']([^"']*)["'][^>]*>`, "i");
-  const m1 = html.match(re1);
-  if (m1) return m1[1];
-  const re2 = new RegExp(`<meta[^>]*content=["']([^"']*)["'][^>]*${attr}=["']${key}["'][^>]*>`, "i");
-  const m2 = html.match(re2);
-  return m2 ? m2[1] : null;
+  const tags = html.match(/<meta\s[^>]*>/gi) || [];
+  for (const tag of tags) {
+    const a = tag.match(new RegExp(`${attr}\\s*=\\s*(["'])${key}\\1`, "i"));
+    if (!a) continue;
+    const c = tag.match(/content\s*=\s*(?:"([^"]*)"|'([^']*)')/i);
+    if (c) return (c[1] !== undefined ? c[1] : c[2]).replace(/\s+/g, " ").trim();
+  }
+  return null;
 }
 const metaName = (html, name) => metaByAttr(html, "name", name);
 const metaProp = (html, prop) => metaByAttr(html, "property", prop);
@@ -170,6 +172,33 @@ function rebuildRSS(posts) {
   fs.writeFileSync(RSS_XML, xml);
 }
 
+/* ---- static HTML for homepage + blog (so crawlers see real content) ---- */
+
+const fmtDate = (iso) => new Date(iso + "T00:00:00Z").toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric", timeZone: "UTC" });
+const cat = (p) => escapeHTML((p.category || "").toUpperCase());
+const meta = (p) => escapeHTML(fmtDate(p.date) + (p.readTime ? " · " + p.readTime : ""));
+const fb = "this.remove()";
+const heroCard = (p) => `<div class="hero-media"><a href="${p.url}"><img src="${p.image}" alt="${escapeHTML(p.imageAlt)}" loading="eager" onerror="${fb}"></a><span class="image-label">${cat(p)}</span></div><div class="hero-copy"><span class="eyebrow">${cat(p)} · ${escapeHTML(fmtDate(p.date))}</span><h1><a href="${p.url}">${escapeHTML(p.title)}</a></h1><p>${escapeHTML(p.description)}</p><a class="button" href="${p.url}">Read article</a></div>`;
+const miniCard = (p) => `<a class="mini-card" href="${p.url}"><div class="mini-img"><img src="${p.image}" alt="${escapeHTML(p.imageAlt)}" loading="lazy" onerror="${fb}"></div><span>${cat(p)}</span><h3>${escapeHTML(p.title)}</h3><span class="mini-date">${meta(p)}</span></a>`;
+const articleCard = (p) => `<article class="article-card"><a class="card-image-link" href="${p.url}"><div class="card-img"><img src="${p.image}" alt="${escapeHTML(p.imageAlt)}" loading="lazy" onerror="${fb}"></div></a><div class="card-body"><span>${cat(p)}</span><h3><a href="${p.url}">${escapeHTML(p.title)}</a></h3><p>${escapeHTML(p.description)}</p><small>${meta(p)}</small></div></article>`;
+
+function fillSlot(file, slot, html) {
+  const fp = path.join(ROOT, file);
+  if (!fs.existsSync(fp)) return;
+  const re = new RegExp(`(<!--POSTS:${slot}-->)[\\s\\S]*?(<!--/POSTS:${slot}-->)`);
+  const src = fs.readFileSync(fp, "utf8");
+  if (re.test(src)) fs.writeFileSync(fp, src.replace(re, () => `<!--POSTS:${slot}-->${html}<!--/POSTS:${slot}-->`));
+}
+
+function renderStatic(posts) {
+  if (!posts.length) return;
+  const [hero, ...rest] = posts;
+  fillSlot("index.html", "hero", heroCard(hero));
+  fillSlot("index.html", "side", rest.slice(0, 3).map(miniCard).join(""));
+  fillSlot("index.html", "latest", rest.slice(0, 6).map(articleCard).join(""));
+  fillSlot("blog.html", "blog", posts.map(articleCard).join(""));
+}
+
 /* ---- main ---- */
 
 function main() {
@@ -191,6 +220,7 @@ function main() {
   fs.writeFileSync(POSTS_JSON, JSON.stringify(posts, null, 2) + "\n");
   rebuildSitemap(posts);
   rebuildRSS(posts);
+  renderStatic(posts);
 
   console.log(`Indexed ${posts.length} post(s) from posts/*.html.`);
   posts.forEach((p) => console.log(` - ${p.date}  ${p.title}`));
