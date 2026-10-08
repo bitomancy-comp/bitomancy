@@ -1,10 +1,50 @@
 [
   {
+    "title": "Agentic AI Frameworks: How to Choose in 2026",
+    "description": "Compare agentic AI frameworks: what they do, key features, popular options, how to choose one and a simple plan to build your first AI agent.",
+    "url": "/posts/agentic-ai-frameworks-guide.html",
+    "image": "/images/agentic-ai-frameworks-guide.jpg",
+    "imageAlt": "Diagram of an agentic AI framework connecting a language model to tools, memory and workflows",
+    "category": "AI",
+    "date": "2026-10-08",
+    "readTime": "10 min read"
+  },
+  {
+    "title": "AI Guardrails &amp; Responsible AI Explained",
+    "description": "What are AI guardrails and responsible AI? Learn the types of guardrails, key principles, real examples and a practical checklist for safer AI use.",
+    "url": "/posts/ai-guardrails-responsible-ai.html",
+    "image": "/images/ai-guardrails-responsible-ai.jpg",
+    "imageAlt": "Safety barriers guiding an AI system through input checks, rules and output review",
+    "category": "AI",
+    "date": "2026-10-08",
+    "readTime": "9 min read"
+  },
+  {
     "title": "AI Prompt Engineering Guide: 7 Frameworks + Examples",
     "description": "Learn prompt engineering with 7 proven frameworks, copy-paste examples and common mistakes to avoid. Get sharper AI output for work, content and code.",
     "url": "/posts/ai-prompt-engineering-guide.html",
     "image": "/images/ai-prompt-engineering-guide.jpg",
     "imageAlt": "Diagram of a prompt structure: role, task, context, format and constraints",
+    "category": "AI",
+    "date": "2026-10-08",
+    "readTime": "9 min read"
+  },
+  {
+    "title": "AI SEO: How to Rank in AI Search in 2026",
+    "description": "Learn AI SEO: how to rank in Google AI Overviews and AI search with answer-first content, E-E-A-T, schema and a practical 9-step checklist.",
+    "url": "/posts/ai-seo-rank-in-ai-search.html",
+    "image": "/images/ai-seo-rank-in-ai-search.jpg",
+    "imageAlt": "AI search results panel citing web pages next to a checklist of SEO ranking factors",
+    "category": "SEO",
+    "date": "2026-10-08",
+    "readTime": "9 min read"
+  },
+  {
+    "title": "AI Video Generators: How They Work &amp; How to Choose",
+    "description": "What are AI video generators? Learn how text-to-video works, what to look for, the best use cases, limits and a simple workflow for content creators.",
+    "url": "/posts/ai-video-generators-guide.html",
+    "image": "/images/ai-video-generators-guide.jpg",
+    "imageAlt": "AI video generator turning a text prompt into a finished video timeline",
     "category": "AI",
     "date": "2026-10-08",
     "readTime": "9 min read"
@@ -18,6 +58,16 @@
     "category": "SEO",
     "date": "2026-10-08",
     "readTime": "10 min read"
+  },
+  {
+    "title": "How to Spot Deepfakes &amp; AI Scams: 10 Signs",
+    "description": "Learn how to spot deepfakes and AI scams with 10 warning signs, voice-clone red flags, a verification routine and steps to take if you are targeted.",
+    "url": "/posts/how-to-spot-deepfakes-ai-scams.html",
+    "image": "/images/how-to-spot-deepfakes-ai-scams.jpg",
+    "imageAlt": "Magnifying glass over a suspicious video call showing signs of a deepfake face",
+    "category": "TECH",
+    "date": "2026-10-08",
+    "readTime": "9 min read"
   },
   {
     "title": "AI in IPL: Smart Cricket, Data Analytics & Future Innovations",
