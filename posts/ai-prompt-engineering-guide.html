@@ -1,0 +1,222 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+<title>AI Prompt Engineering Guide: 7 Frameworks + Examples | BITOMANCY</title>
+<meta name="description" content="Learn prompt engineering with 7 proven frameworks, copy-paste examples and common mistakes to avoid. Get sharper AI output for work, content and code.">
+<meta name="keywords" content="prompt engineering guide, how to write AI prompts, ChatGPT prompt tips, prompt framework, best prompts for writing, AI prompts for beginners">
+<link rel="canonical" href="https://bitomancy.in/posts/ai-prompt-engineering-guide.html">
+
+<meta property="og:type" content="article">
+<meta property="og:title" content="AI Prompt Engineering Guide: 7 Frameworks to Get Better AI Results">
+<meta property="og:description" content="Learn prompt engineering with 7 proven frameworks, copy-paste examples and common mistakes to avoid. Get sharper AI output for work, content and code.">
+<meta property="og:url" content="https://bitomancy.in/posts/ai-prompt-engineering-guide.html">
+<meta property="og:image" content="https://bitomancy.in/images/ai-prompt-engineering-guide.jpg">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="AI Prompt Engineering Guide: 7 Frameworks to Get Better AI Results">
+<meta name="twitter:description" content="Learn prompt engineering with 7 proven frameworks, copy-paste examples and common mistakes to avoid. Get sharper AI output for work, content and code.">
+
+<!-- Used by the index builder -->
+<meta name="bitomancy:date" content="2026-10-08">
+<meta name="bitomancy:category" content="AI">
+<meta name="bitomancy:image" content="/images/ai-prompt-engineering-guide.jpg">
+<meta name="bitomancy:imagealt" content="Diagram of a prompt structure: role, task, context, format and constraints">
+<meta name="bitomancy:readtime" content="9 min read">
+
+<link rel="stylesheet" href="/styles.css">
+
+<script type="application/ld+json">
+{ "@context":"https://schema.org", "@type":"Article",
+  "headline":"AI Prompt Engineering Guide: 7 Frameworks to Get Better AI Results",
+  "description":"Learn prompt engineering with 7 proven frameworks, copy-paste examples and common mistakes to avoid. Get sharper AI output for work, content and code.",
+  "image":"https://bitomancy.in/images/ai-prompt-engineering-guide.jpg",
+  "author":{ "@type":"Organization", "name":"BITOMANCY", "url":"https://bitomancy.in/" },
+  "publisher":{ "@type":"Organization", "name":"BITOMANCY", "url":"https://bitomancy.in/" },
+  "mainEntityOfPage":{ "@type":"WebPage", "@id":"https://bitomancy.in/posts/ai-prompt-engineering-guide.html" },
+  "datePublished":"2026-10-08",
+  "dateModified":"2026-10-08" }
+</script>
+
+<script type="application/ld+json">
+{ "@context":"https://schema.org", "@type":"FAQPage",
+  "mainEntity":[
+    { "@type":"Question", "name":"What is prompt engineering?",
+      "acceptedAnswer":{ "@type":"Answer", "text":"Prompt engineering is the practice of writing clear instructions so an AI model produces accurate, useful and well-formatted output. It means telling the model its role, the task, the context and the format you want." } },
+    { "@type":"Question", "name":"Is prompt engineering still relevant as AI models improve?",
+      "acceptedAnswer":{ "@type":"Answer", "text":"Yes. Better models understand intent more easily, but clear goals, context and constraints still produce noticeably better results on every model." } },
+    { "@type":"Question", "name":"Do longer prompts work better?",
+      "acceptedAnswer":{ "@type":"Answer", "text":"Only when the extra detail is relevant. A clear, focused prompt beats a long, vague one." } },
+    { "@type":"Question", "name":"Should I save my prompts?",
+      "acceptedAnswer":{ "@type":"Answer", "text":"Yes. Keeping a personal prompt library for repeat tasks such as outlines, editing and summaries saves time and keeps quality consistent." } }
+  ] }
+</script>
+
+<script type="application/ld+json">
+{ "@context":"https://schema.org", "@type":"BreadcrumbList",
+  "itemListElement":[
+    { "@type":"ListItem", "position":1, "name":"Home", "item":"https://bitomancy.in/" },
+    { "@type":"ListItem", "position":2, "name":"AI", "item":"https://bitomancy.in/blog.html" },
+    { "@type":"ListItem", "position":3, "name":"AI Prompt Engineering Guide", "item":"https://bitomancy.in/posts/ai-prompt-engineering-guide.html" }
+  ] }
+</script>
+
+</head>
+<body>
+
+<header class="header">
+<div class="container nav">
+<a class="brand" href="/">BITOMANCY</a>
+<nav class="nav-simple"><a href="/">HOME</a> <a href="/blog.html">BLOG</a> <a href="/tools.html">TOOLS</a> <a href="/shop.html">SHOP</a></nav>
+<div class="nav-actions"><button class="icon-btn" id="themeBtn">☼</button></div>
+</div>
+</header>
+
+<main class="container section" style="max-width:900px">
+
+<div class="eyebrow">AI</div>
+
+<h1 style="font-size:clamp(40px,7vw,72px);line-height:1.02;letter-spacing:-.05em">
+AI Prompt Engineering Guide: 7 Frameworks to Get Better AI Results
+</h1>
+
+<p style="font-size:20px;color:var(--muted)">
+The same AI model can give you a vague answer or a sharp, usable one. The difference is almost always the prompt.
+</p>
+
+<figure style="margin:35px 0">
+<img src="/images/ai-prompt-engineering-guide.jpg" alt="Diagram of a prompt structure: role, task, context, format and constraints" loading="eager"
+     style="width:100%;height:auto;min-height:300px;object-fit:cover;border-radius:12px;display:block">
+</figure>
+
+<article style="font-size:18px;line-height:1.75">
+
+<p>If AI tools keep giving you generic, bloated or slightly wrong answers, the problem usually isn't the tool. It's the instruction. A prompt that is clear about the goal, the audience and the format gets dramatically better output than a one-line request.</p>
+<p>This guide gives you a simple structure, seven reusable frameworks and ready-to-copy templates you can use today for writing, research, editing and code.</p>
+
+<h2>In This Guide</h2>
+<ul>
+<li><a href="#what-is">What is prompt engineering?</a></li>
+<li><a href="#building-blocks">The 5 building blocks of a strong prompt</a></li>
+<li><a href="#weak-vs-strong">Weak vs strong prompts</a></li>
+<li><a href="#frameworks">7 frameworks you can copy</a></li>
+<li><a href="#templates">Ready-to-use prompt templates</a></li>
+<li><a href="#mistakes">Common mistakes</a></li>
+</ul>
+
+<h2 id="what-is">What Is Prompt Engineering?</h2>
+<p>Prompt engineering is the practice of writing clear instructions so an AI model produces accurate, useful and well-formatted output. It is less about magic phrases and more about clarity: telling the model who it is, what to do, what it needs to know, and what a good answer looks like.</p>
+
+<h2 id="building-blocks">The 5 Building Blocks of a Strong Prompt</h2>
+<ol>
+<li><strong>Role:</strong> who the AI should act as, such as an SEO editor or a data analyst.</li>
+<li><strong>Task:</strong> the exact job to do, stated as a clear action.</li>
+<li><strong>Context:</strong> background, audience and constraints the model cannot guess.</li>
+<li><strong>Format:</strong> the shape of the answer, such as a table, bullets, word count or tone.</li>
+<li><strong>Examples:</strong> one or two samples of what "good" looks like.</li>
+</ol>
+
+<h2 id="weak-vs-strong">Weak vs Strong Prompts</h2>
+<p><strong>Weak:</strong> "Write about SEO."</p>
+<p><strong>Strong:</strong> "Act as an SEO editor. Write a 600-word beginner's introduction to on-page SEO for Indian bloggers. Use simple English and three H2 headings, and end with a 5-point checklist."</p>
+<p>The strong version removes guesswork. The model knows the role, topic, audience, length, structure and ending, so the first draft is far closer to what you wanted.</p>
+
+<h2 id="frameworks">7 Prompt Frameworks You Can Copy</h2>
+
+<h3>1. RTCF: Role, Task, Context, Format</h3>
+<p>Your everyday default. State the role, the task, the context and the output format in that order. Most good prompts are a variation of this.</p>
+
+<h3>2. Few-Shot Prompting</h3>
+<p>Show two or three examples of the style or structure you want, then ask for a new one. Models copy patterns well, so examples often work better than long descriptions.</p>
+
+<h3>3. Step-by-Step Reasoning</h3>
+<p>For analysis, planning or math-style problems, ask the model to work through the problem in stages before giving a final answer. This tends to reduce careless mistakes.</p>
+
+<h3>4. Critique and Revise</h3>
+<p>Ask for a draft first. Then ask the model to critique that draft against your criteria, such as clarity, accuracy and tone, and produce an improved version.</p>
+
+<h3>5. Constraint-First</h3>
+<p>State the limits up front: length, banned phrases, reading level, required keywords. Constraints stop the model from drifting into generic filler.</p>
+
+<h3>6. Persona and Audience</h3>
+<p>Define both the writer and the reader, for example "explain this as a teacher speaking to a Class 10 student." Naming the audience changes vocabulary, depth and examples.</p>
+
+<h3>7. Prompt Chaining</h3>
+<p>Split a big job into steps: research, outline, draft, edit. Feed the output of each step into the next. This is the foundation of any <a href="/posts/ai-workflow.html">AI-powered workflow</a>, and it is also how <a href="/posts/ai-agents.html">AI agents</a> break complex goals into manageable actions.</p>
+
+<!-- Optional: keep or delete this affiliate/product block -->
+<div class="shop-section" style="margin:40px 0">
+<div class="shop-copy">
+<div class="eyebrow">BITOMANCY PICK</div>
+<h2>Smart Copy PRO</h2>
+<p>Turn copied text into summaries, professional emails and LinkedIn-ready content in seconds.</p>
+<a class="button" href="https://bitomancer6.gumroad.com/l/nfleiu" target="_blank" rel="noopener">Get Smart Copy PRO →</a>
+</div>
+</div>
+
+<!-- AD SLOT: once your AdSense account is approved, paste your
+     <ins class="adsbygoogle"> unit here -->
+
+<h2 id="templates">Ready-to-Use Prompt Templates</h2>
+<p>Copy these, replace the brackets and adjust to your needs.</p>
+<ul>
+<li><strong>Blog outline:</strong> "Act as a content strategist. Create an outline for an article on [topic] for [audience]. Include H2 and H3 headings, the search intent, and 5 FAQs."</li>
+<li><strong>Editing:</strong> "Edit the text below for clarity and concision. Keep my meaning and voice. List the changes you made."</li>
+<li><strong>Code help:</strong> "Here is my code and the error message. Explain the cause first, then give the smallest fix that solves it."</li>
+<li><strong>Summary:</strong> "Summarize the text below in 5 bullet points for a busy manager. Put the most important point first."</li>
+<li><strong>Fact-check pass:</strong> "List every factual claim in this draft and mark which ones need a source."</li>
+</ul>
+
+<h2 id="mistakes">Common Prompt Mistakes</h2>
+<ul>
+<li><strong>Being vague</strong> about the audience or goal.</li>
+<li><strong>Asking for too much in one prompt.</strong> Break big jobs into steps.</li>
+<li><strong>Not providing source material</strong> when accuracy matters. Paste the facts you want used.</li>
+<li><strong>Trusting output without checking.</strong> AI models can produce confident errors, so always verify names, numbers and claims.</li>
+<li><strong>Never iterating.</strong> Treat the first answer as a draft and refine it with follow-up instructions.</li>
+</ul>
+
+<h2>Safety and Quality Tips</h2>
+<p>Do not paste passwords, private customer data or confidential documents into public AI tools. Review all AI-assisted content before publishing, and add your own experience and judgment so the final result is genuinely yours.</p>
+
+<h2>Key Takeaways</h2>
+<ul>
+<li>Clear prompts beat clever prompts. Give role, task, context and format.</li>
+<li>Examples and constraints improve results more than long descriptions.</li>
+<li>Chain simple prompts together for complex work.</li>
+<li>Always fact-check AI output before you use or publish it.</li>
+<li>Save your best prompts in a personal library for reuse.</li>
+</ul>
+
+<h2>Frequently Asked Questions</h2>
+
+<h3>What is prompt engineering?</h3>
+<p>Prompt engineering is the practice of writing clear instructions so an AI model produces accurate, useful and well-formatted output. It means telling the model its role, the task, the context and the format you want.</p>
+
+<h3>Is prompt engineering still relevant as AI models improve?</h3>
+<p>Yes. Better models understand intent more easily, but clear goals, context and constraints still produce noticeably better results on every model.</p>
+
+<h3>Do longer prompts work better?</h3>
+<p>Only when the extra detail is relevant. A clear, focused prompt beats a long, vague one.</p>
+
+<h3>Should I save my prompts?</h3>
+<p>Yes. Keeping a personal prompt library for repeat tasks such as outlines, editing and summaries saves time and keeps quality consistent.</p>
+
+<h2>Conclusion</h2>
+<p>Better results from AI don't require technical skill. They require clear thinking: know what you want, say who it's for, and show what good looks like. Start with the RTCF framework, add examples and constraints when you need more control, and chain prompts together for bigger projects.</p>
+
+<h2>Explore More on BITOMANCY</h2>
+<p>Want more practical AI and technology guides? Visit the <a href="/">BITOMANCY homepage</a> for more articles on artificial intelligence, automation, SEO and emerging technology.</p>
+
+</article>
+</main>
+
+<footer class="footer">
+<div class="container copyright">© 2026 BITOMANCY — ALL RIGHTS RESERVED</div>
+</footer>
+
+<script src="/script.js"></script>
+</body>
+</html>
