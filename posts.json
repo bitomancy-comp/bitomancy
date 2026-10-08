@@ -1,5 +1,25 @@
 [
   {
+    "title": "AI Prompt Engineering Guide: 7 Frameworks + Examples",
+    "description": "Learn prompt engineering with 7 proven frameworks, copy-paste examples and common mistakes to avoid. Get sharper AI output for work, content and code.",
+    "url": "/posts/ai-prompt-engineering-guide.html",
+    "image": "/images/ai-prompt-engineering-guide.jpg",
+    "imageAlt": "Diagram of a prompt structure: role, task, context, format and constraints",
+    "category": "AI",
+    "date": "2026-10-08",
+    "readTime": "9 min read"
+  },
+  {
+    "title": "Google AdSense Approval 2026: Step-by-Step Checklist",
+    "description": "Want AdSense approval on a new site? Follow this practical checklist: content quality, required pages, speed, policies and common rejection fixes.",
+    "url": "/posts/google-adsense-approval-checklist.html",
+    "image": "/images/adsense-approval-checklist.jpg",
+    "imageAlt": "Checklist showing website pages, content and policy steps required for Google AdSense approval",
+    "category": "SEO",
+    "date": "2026-10-08",
+    "readTime": "10 min read"
+  },
+  {
     "title": "AI in IPL: Smart Cricket, Data Analytics & Future Innovations",
     "description": "Discover how AI in IPL can transform cricket through smart data analytics, player tracking, strategy, injury prediction, broadcasting and future innovations.",
     "url": "/posts/ai-ipl-smart-cricket.html",
@@ -11,10 +31,10 @@
   },
   {
     "title": "AI in Natural Gas Industry: India's Energy Future",
-    "description": "Discover how AI can transform India",
+    "description": "Discover how AI can transform India's natural gas industry through smarter exploration, seismic analysis, predictive maintenance, pipelines and energy management.",
     "url": "/posts/ai-natural-gas-industry-india.html",
     "image": "/images/ai-natural-gas-india.jpg",
-    "imageAlt": "Artificial intelligence transforming India",
+    "imageAlt": "Artificial intelligence transforming India's natural gas industry and offshore energy exploration",
     "category": "AI",
     "date": "2026-10-06",
     "readTime": "10 min read"
