@@ -1,21 +1,280 @@
 
-<section class="contact-card">
-  <h2>Contact BITOMANCY</h2>
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <p>
-    Have a question, suggestion, or business inquiry?
-    We'd love to hear from you.
-  </p>
+  <title>Contact Us | BITOMANCY</title>
+  <meta name="description" content="Contact BITOMANCY for technology questions, feedback, corrections, support and business inquiries.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://bitomancy.in/contact.html">
 
-  <p>
-    Contact us at:
-    <a href="mailto:support.bitomancy@gmail.com">
-      support.bitomancy@gmail.com
-    </a>
-  </p>
+  <link rel="stylesheet" href="/styles.css">
 
-  <p class="muted">
-    Click the email address to open your default email application
-    and send us a message.
-  </p>
-</section>
+  <style>
+    /* Clean, white BITOMANCY contact page */
+    html,
+    body {
+      margin: 0;
+      background: #ffffff !important;
+      color: #171717 !important;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    body {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .contact-header {
+      background: #ffffff;
+      border-bottom: 1px solid #eaeaea;
+    }
+
+    .contact-nav {
+      max-width: 1120px;
+      margin: auto;
+      padding: 22px 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .contact-brand {
+      color: #111111;
+      text-decoration: none;
+      font-size: 23px;
+      font-weight: 800;
+      letter-spacing: -1px;
+    }
+
+    .contact-back {
+      color: #444444;
+      text-decoration: none;
+      font-size: 14px;
+    }
+
+    .contact-back:hover,
+    .contact-email:hover {
+      color: #2563eb;
+    }
+
+    .contact-main {
+      width: calc(100% - 40px);
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 76px 0 90px;
+      flex: 1;
+    }
+
+    .contact-label {
+      display: inline-block;
+      color: #2563eb;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      margin-bottom: 16px;
+    }
+
+    .contact-main h1 {
+      color: #111111;
+      font-size: clamp(36px, 6vw, 54px);
+      line-height: 1.12;
+      letter-spacing: -2px;
+      margin: 0 0 20px;
+    }
+
+    .contact-intro {
+      color: #555555;
+      font-size: 17px;
+      line-height: 1.8;
+      margin: 0 0 36px;
+    }
+
+    .contact-card {
+      background: #ffffff;
+      border: 1px solid #e5e7eb;
+      border-radius: 16px;
+      padding: clamp(24px, 5vw, 38px);
+      box-shadow: 0 8px 30px rgba(0, 0, 0, 0.04);
+    }
+
+    .contact-card h2 {
+      color: #111111;
+      font-size: 23px;
+      margin: 0 0 12px;
+    }
+
+    .contact-card > p {
+      color: #555555;
+      font-size: 15px;
+      line-height: 1.8;
+    }
+
+    .email-box {
+      display: flex;
+      align-items: center;
+      gap: 15px;
+      margin: 25px 0;
+      padding: 20px;
+      border: 1px solid #e5e7eb;
+      border-radius: 12px;
+      background: #f9fafb;
+    }
+
+    .email-icon {
+      width: 46px;
+      height: 46px;
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #e8efff;
+      color: #2563eb;
+      border-radius: 10px;
+      font-size: 23px;
+    }
+
+    .email-details {
+      min-width: 0;
+    }
+
+    .email-label {
+      display: block;
+      color: #666666;
+      font-size: 12px;
+      margin-bottom: 7px;
+    }
+
+    .contact-email {
+      color: #1d4ed8;
+      font-size: clamp(14px, 2.5vw, 17px);
+      font-weight: 700;
+      text-decoration: none;
+      overflow-wrap: anywhere;
+    }
+
+    .contact-button {
+      display: inline-flex;
+      justify-content: center;
+      align-items: center;
+      gap: 9px;
+      padding: 14px 22px;
+      background: #111827;
+      color: #ffffff;
+      border: 1px solid #111827;
+      border-radius: 9px;
+      font-size: 14px;
+      font-weight: 700;
+      text-decoration: none;
+      transition: background 0.2s ease;
+    }
+
+    .contact-button:hover {
+      background: #2563eb;
+      border-color: #2563eb;
+    }
+
+    .contact-note {
+      color: #777777 !important;
+      font-size: 13px !important;
+      margin-top: 22px;
+    }
+
+    .contact-footer {
+      border-top: 1px solid #eaeaea;
+      padding: 24px 20px;
+      text-align: center;
+      background: #ffffff;
+    }
+
+    .contact-footer p {
+      margin: 0;
+      color: #777777;
+      font-size: 12px;
+      letter-spacing: 0.3px;
+    }
+
+    @media (max-width: 520px) {
+      .contact-nav {
+        padding: 18px 20px;
+      }
+
+      .contact-main {
+        padding-top: 48px;
+      }
+
+      .email-box {
+        padding: 15px;
+        gap: 12px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <header class="contact-header">
+    <nav class="contact-nav">
+      <a href="/" class="contact-brand">BITOMANCY</a>
+      <a href="/" class="contact-back">← Back to Home</a>
+    </nav>
+  </header>
+
+  <main class="contact-main">
+    <span class="contact-label">GET IN TOUCH</span>
+
+    <h1>Contact Us.</h1>
+
+    <p class="contact-intro">
+      Have a question about technology, an article, or one of our
+      products? Have feedback or a business proposal? We'd be happy
+      to hear from you.
+    </p>
+
+    <section class="contact-card">
+      <h2>Let's start a conversation.</h2>
+
+      <p>
+        For general inquiries, technical support, corrections,
+        collaborations, or advertising opportunities, contact our
+        support team by email.
+      </p>
+
+      <div class="email-box">
+        <div class="email-icon" aria-hidden="true">✉</div>
+
+        <div class="email-details">
+          <span class="email-label">CONTACT EMAIL</span>
+
+          <a
+            class="contact-email"
+            href="mailto:support.bitomancy@gmail.com">
+            support.bitomancy@gmail.com
+          </a>
+        </div>
+      </div>
+
+      <a
+        class="contact-button"
+        href="mailto:support.bitomancy@gmail.com?subject=BITOMANCY%20Inquiry">
+        ✉ Email Us
+      </a>
+
+      <p class="contact-note">
+        Clicking “Email Us” opens your default email application.
+        Response times may vary.
+      </p>
+    </section>
+  </main>
+
+  <footer class="contact-footer">
+    <p>© 2026 BITOMANCY - ALL RIGHTS RESERVED</p>
+  </footer>
+
+</body>
+</html>
