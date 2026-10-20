@@ -1,5 +1,15 @@
 [
   {
+    "title": "Developers Use AI to Strip Ads From Smart TVs",
+    "description": "Developers are pointing AI coding agents at their TVs to remove ads, trackers and bloat. Here is how it works, what it risks and safer alternatives.",
+    "url": "/posts/developers-use-ai-to-strip-ads-from-smart-tvs.html",
+    "image": "/images/ai-strip-ads-smart-tv.jpg",
+    "imageAlt": "A living room smart TV showing a clean home screen with only streaming apps and no sponsored banners",
+    "category": "AI",
+    "date": "2026-10-20",
+    "readTime": "9 min read"
+  },
+  {
     "title": "Agentic AI Frameworks: How to Choose in 2026",
     "description": "Compare agentic AI frameworks: what they do, key features, popular options, how to choose one and a simple plan to build your first AI agent.",
     "url": "/posts/agentic-ai-frameworks-guide.html",
