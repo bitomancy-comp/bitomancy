@@ -1,5 +1,15 @@
 [
   {
+    "title": "Python and AI for SEO: Automate Audits and Keyword Clusters",
+    "description": "Learn how to use Python and AI for SEO: audit pages, cluster keywords with embeddings, draft meta tags and alt text, and keep a human in charge.",
+    "url": "/posts/python-ai-seo-automation.html",
+    "image": "/images/python-ai-seo-automation.jpg",
+    "imageAlt": "Pipeline showing Python crawling pages, AI analysing keywords, drafting meta tags and a human reviewing the result",
+    "category": "SEO",
+    "date": "2026-11-01",
+    "readTime": "9 min read"
+  },
+  {
     "title": "Best Free AI Coding Tools in 2026: Build Websites Without Coding",
     "description": "Compare free AI coding tools and website builders, learn how to create websites using AI, and understand free-plan limitations.",
     "url": "/posts/best-free-ai-coding-tools-2026.html",
