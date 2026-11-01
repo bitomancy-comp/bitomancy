@@ -1,0 +1,252 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+<title>Python and AI for SEO: Automate Audits and Keyword Clusters | BITOMANCY</title>
+<meta name="description" content="Learn how to use Python and AI for SEO: audit pages, cluster keywords with embeddings, draft meta tags and alt text, and keep a human in charge.">
+<meta name="keywords" content="python for seo, ai for seo, seo automation, keyword clustering python, meta description ai, image alt text">
+<link rel="canonical" href="https://bitomancy.in/posts/python-ai-seo-automation.html">
+
+<meta property="og:type" content="article">
+<meta property="og:title" content="Python and AI for SEO: Automate Audits and Keyword Clusters">
+<meta property="og:description" content="Learn how to use Python and AI for SEO: audit pages, cluster keywords with embeddings, draft meta tags and alt text, and keep a human in charge.">
+<meta property="og:url" content="https://bitomancy.in/posts/python-ai-seo-automation.html">
+<meta property="og:image" content="https://bitomancy.in/images/python-ai-seo-automation.jpg">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Python and AI for SEO: Automate Audits and Keyword Clusters">
+<meta name="twitter:description" content="Learn how to use Python and AI for SEO: audit pages, cluster keywords with embeddings, draft meta tags and alt text, and keep a human in charge.">
+
+<!-- Used by the index builder -->
+<meta name="bitomancy:date" content="2026-11-01">
+<meta name="bitomancy:category" content="SEO">
+<meta name="bitomancy:image" content="/images/python-ai-seo-automation.jpg">
+<meta name="bitomancy:imagealt" content="Pipeline showing Python crawling pages, AI analysing keywords, drafting meta tags and a human reviewing the result">
+<meta name="bitomancy:readtime" content="9 min read">
+
+<link rel="stylesheet" href="/styles.css">
+
+<script type="application/ld+json">
+{ "@context":"https://schema.org", "@type":"Article",
+  "headline":"Python and AI for SEO: Automate Audits and Keyword Clusters",
+  "description":"Learn how to use Python and AI for SEO: audit pages, cluster keywords with embeddings, draft meta tags and alt text, and keep a human in charge.",
+  "image":"https://bitomancy.in/images/python-ai-seo-automation.jpg",
+  "author":{ "@type":"Organization", "name":"BITOMANCY", "url":"https://bitomancy.in/" },
+  "publisher":{ "@type":"Organization", "name":"BITOMANCY", "url":"https://bitomancy.in/" },
+  "mainEntityOfPage":{ "@type":"WebPage", "@id":"https://bitomancy.in/posts/python-ai-seo-automation.html" },
+  "datePublished":"2026-11-01",
+  "dateModified":"2026-11-01" }
+</script>
+
+<script type="application/ld+json">
+{ "@context":"https://schema.org", "@type":"FAQPage",
+  "mainEntity":[
+    { "@type":"Question", "name":"Do I need to be a programmer to use Python for SEO?",
+      "acceptedAnswer":{ "@type":"Answer", "text":"No. If you can run a script and read a CSV file, you can follow along. Start with the audit script and change one line at a time." } },
+    { "@type":"Question", "name":"Is using AI for SEO against Google's rules?",
+      "acceptedAnswer":{ "@type":"Answer", "text":"Search engines focus on whether content is useful and original, not on the tool used to make it. Mass-produced, low-quality pages are the problem. Reviewed, original and helpful content is fine." } },
+    { "@type":"Question", "name":"Which AI model should I use for SEO tasks?",
+      "acceptedAnswer":{ "@type":"Answer", "text":"Any capable language model works for first drafts. For keyword clustering, a free local embedding model such as all-MiniLM-L6-v2 is enough." } },
+    { "@type":"Question", "name":"How often should I audit my website?",
+      "acceptedAnswer":{ "@type":"Answer", "text":"Monthly is plenty for most sites. Run an audit straight away after any big change to templates, URLs or navigation." } }
+  ] }
+</script>
+
+</head>
+<body>
+
+<header class="header">
+<div class="container nav">
+<a class="brand" href="/">BITOMANCY</a>
+<nav class="nav-simple"><a href="/">HOME</a> <a href="/blog.html">BLOG</a> <a href="/tools.html">TOOLS</a> <a href="/shop.html">SHOP</a></nav>
+<div class="nav-actions"><button class="icon-btn" id="themeBtn">☼</button></div>
+</div>
+</header>
+
+<main class="container section" style="max-width:900px">
+
+<div class="eyebrow">SEO</div>
+
+<h1 style="font-size:clamp(40px,7vw,72px);line-height:1.02;letter-spacing:-.05em">
+Python and AI for SEO: Automate Audits and Keyword Clusters
+</h1>
+
+<p style="font-size:20px;color:var(--muted)">
+Most SEO work isn't hard, it's repetitive. Here's how a few small Python scripts and an AI model can take over the dull parts while you keep the final say.
+</p>
+
+<figure style="margin:35px 0">
+<img src="/images/python-ai-seo-automation.jpg" alt="Pipeline showing Python crawling pages, AI analysing keywords, drafting meta tags and a human reviewing the result" width="1200" height="630" loading="eager"
+     style="width:100%;height:auto;min-height:300px;object-fit:cover;border-radius:12px;display:block">
+</figure>
+
+<article style="font-size:18px;line-height:1.75">
+
+<p>Check the title tag. Check the meta description. Check the images. Then do it all again for the next page, and the one after that. That's what a lot of SEO work really looks like.</p>
+<p>I used to handle it in spreadsheets. It was fine for 20 pages. At 200 pages it swallowed entire weekends. That's when Python stopped feeling like a "developer thing" and started feeling like a basic tool for anyone who runs a website. This guide covers three jobs where Python and AI together save real time, plus the places where AI should not be left alone.</p>
+
+<h2>Why Python fits SEO work so well</h2>
+<p>SEO is mostly patterns in text and data, and Python is good at both. It can fetch a page, read the HTML, compare thousands of keywords and write the results to a CSV in a handful of lines.</p>
+<p>AI adds the part a plain script can't do: judging meaning. A script can tell you a title is 80 characters long. A language model can tell you it's vague. The split is simple:</p>
+<ul>
+<li><strong>Python</strong> fetches, counts and organises.</li>
+<li><strong>AI</strong> helps with meaning, grouping and first drafts.</li>
+<li><strong>You</strong> decide what actually gets published.</li>
+</ul>
+<p>If you want the bigger picture first, read our guides on building an <a href="/posts/seo-system.html">SEO system</a> and an <a href="/posts/ai-workflow.html">AI-powered workflow</a>.</p>
+
+<h2>Setup in five minutes</h2>
+<p>You need Python 3.9 or newer. Create a virtual environment and install three packages:</p>
+<pre style="background:rgba(127,127,127,.14);padding:16px 18px;border-radius:10px;overflow-x:auto;font-size:15px;line-height:1.6"><code>python -m venv venv
+source venv/bin/activate        # Windows: venv\Scripts\activate
+pip install requests beautifulsoup4 pandas</code></pre>
+<p>Later we'll add <code>sentence-transformers</code> and <code>scikit-learn</code> for keyword clustering.</p>
+
+<h2>Job 1: A quick on-page audit</h2>
+<p>Get the basics right before touching any AI. This script checks the things search engines read first: the title, the meta description, H1 headings and image alt text.</p>
+<pre style="background:rgba(127,127,127,.14);padding:16px 18px;border-radius:10px;overflow-x:auto;font-size:15px;line-height:1.6"><code>import requests
+from bs4 import BeautifulSoup
+
+def audit_page(url):
+    resp = requests.get(url, timeout=15,
+                        headers={"User-Agent": "my-seo-audit/1.0"})
+    soup = BeautifulSoup(resp.text, "html.parser")
+
+    title = soup.title.string.strip() if soup.title and soup.title.string else ""
+    meta = soup.find("meta", attrs={"name": "description"})
+    description = meta["content"].strip() if meta and meta.get("content") else ""
+    h1s = [h.get_text(strip=True) for h in soup.find_all("h1")]
+    images = soup.find_all("img")
+    no_alt = [img.get("src") for img in images if not (img.get("alt") or "").strip()]
+
+    return {
+        "url": url,
+        "status": resp.status_code,
+        "title": title,
+        "title_length": len(title),
+        "description_length": len(description),
+        "h1_count": len(h1s),
+        "images": len(images),
+        "images_missing_alt": len(no_alt),
+    }
+
+print(audit_page("https://example.com"))</code></pre>
+<p>Loop this over the URLs in your sitemap, drop the results into a pandas DataFrame and save it with <code>df.to_csv("audit.csv")</code>. You now have a site-wide health check you can rerun every month.</p>
+<p>Look for titles that are blank, duplicated or too long, meta descriptions that are missing, pages with no H1 or more than one, and images without alt text. Only crawl your own site (or sites you have permission to crawl) and add a short pause between requests so you don't strain the server.</p>
+
+<h2>Job 2: Group keywords by meaning, not spelling</h2>
+<p>Say a research tool hands you 300 keywords. Sorting them by hand is slow, and sorting by shared words is misleading. "Python SEO script" and "automate audits with code" share no words, yet they belong together.</p>
+<p>Embeddings solve this. They turn each phrase into a list of numbers that reflects its meaning, so similar phrases land close together. A clustering algorithm then groups them.</p>
+<pre style="background:rgba(127,127,127,.14);padding:16px 18px;border-radius:10px;overflow-x:auto;font-size:15px;line-height:1.6"><code>import pandas as pd
+from sentence_transformers import SentenceTransformer
+from sklearn.cluster import KMeans
+
+keywords = [
+    "python seo script", "automate seo audit", "seo automation with code",
+    "ai meta description generator", "write meta tags with ai",
+    "image alt text best practice", "alt text for seo", "how to write alt text",
+    "keyword clustering python", "group keywords by intent",
+]
+
+model = SentenceTransformer("all-MiniLM-L6-v2")
+vectors = model.encode(keywords)
+
+kmeans = KMeans(n_clusters=3, n_init=10, random_state=42)
+labels = kmeans.fit_predict(vectors)
+
+df = pd.DataFrame({"keyword": keywords, "cluster": labels})
+print(df.sort_values("cluster"))</code></pre>
+<p>Each cluster is a candidate for one article or one section of a page. If five keywords land together, one well-written page can target all of them, instead of five thin pages competing with each other.</p>
+<p>Choose the number of clusters by trial. Make a guess, read the groups, then adjust. If two clusters feel like the same topic, lower the number. If one cluster is a messy mix, raise it. The model downloads on the first run; after that it works offline and costs nothing per query.</p>
+
+<!-- Optional: keep or delete this affiliate/product block -->
+<div class="shop-section" style="margin:40px 0">
+<div class="shop-copy">
+<div class="eyebrow">BITOMANCY PICK</div>
+<h2>Smart Copy PRO</h2>
+<p>Turn copied text into summaries, professional emails and LinkedIn-ready content in seconds.</p>
+<a class="button" href="https://bitomancer6.gumroad.com/l/nfleiu" target="_blank" rel="noopener">Get Smart Copy PRO →</a>
+</div>
+</div>
+
+<!-- AD SLOT: once your AdSense account is approved, paste your
+     <ins class="adsbygoogle"> unit here -->
+
+<h2>Job 3: Draft meta tags and alt text, then edit them</h2>
+<p>Writing 200 meta descriptions is nobody's idea of fun. An AI model can produce first drafts quickly if your instructions are clear. A prompt that works well looks like this:</p>
+<blockquote style="margin:20px 0;padding:6px 20px;border-left:4px solid rgba(127,127,127,.5);color:var(--muted)">
+<p>Write a meta description for this page. Max 155 characters. Include the main keyword naturally. Describe what the reader will get. No hype words, no quotation marks. Page title: {title}. Page summary: {summary}.</p>
+</blockquote>
+<p>Send that prompt through whichever AI provider you use, loop it over your pages in Python and save the results in a CSV column called <code>draft_description</code>.</p>
+<p>Alt text works the same way with a vision-capable model. Give it the image and ask for one plain sentence describing what is shown and why it's on the page. Good alt text describes the image for someone who can't see it; it is not a place to stuff keywords.</p>
+<p><strong>My rule: AI drafts, I edit.</strong> Every generated line gets read before it goes live. Models sometimes invent details, repeat the same phrasing across pages or describe an image wrongly. A site full of near-identical descriptions looks lazy to readers and adds nothing for search.</p>
+
+<h2>Where AI should stay out of the driver's seat</h2>
+<ul>
+<li><strong>Whole articles on autopilot.</strong> Search engines say they care about helpful content, not how it was produced, but thin, copy-paste-sounding pages don't help anyone. Use AI for outlines, research questions and editing help, and write the real experience yourself.</li>
+<li><strong>Facts and numbers.</strong> Models can state wrong figures with total confidence. Verify anything you publish.</li>
+<li><strong>Link-building shortcuts.</strong> Automated spammy outreach or comments will hurt you, not help.</li>
+<li><strong>Your voice.</strong> If every page sounds the same, readers notice, even if they can't say why.</li>
+</ul>
+
+<h2>A simple weekly routine</h2>
+<p>This loop fits into about an hour:</p>
+<ol>
+<li>Run the audit script and open the CSV.</li>
+<li>Fix the worst five problems: missing titles, missing alt text, duplicates.</li>
+<li>Cluster any new keywords and pick the cluster for your next post.</li>
+<li>Draft meta tags with AI, then edit each one by hand.</li>
+<li>Re-run the audit next week and compare.</li>
+</ol>
+<p>Small, steady passes beat one giant cleanup you never repeat.</p>
+
+<h2>Image SEO checklist</h2>
+<ul>
+<li><strong>File name:</strong> descriptive, lowercase and hyphenated (<code>python-ai-seo-automation.jpg</code>, not <code>IMG_4021.jpg</code>).</li>
+<li><strong>Alt text:</strong> one clear sentence describing the image.</li>
+<li><strong>Size:</strong> compress before uploading, because heavy images slow pages down.</li>
+<li><strong>Dimensions:</strong> set <code>width</code> and <code>height</code> so the layout doesn't jump while loading.</li>
+<li><strong>Lazy loading:</strong> add <code>loading="lazy"</code> to images below the fold.</li>
+<li><strong>Social preview:</strong> use a 1200×630 image for your Open Graph tag so shared links look good.</li>
+</ul>
+
+<h2>Key Takeaways</h2>
+<ul>
+<li>Python handles the repetitive checking; AI helps with meaning and first drafts.</li>
+<li>Embeddings plus clustering group keywords by intent, so you can plan one strong page per topic instead of many weak ones.</li>
+<li>Treat AI output as a draft. Read, verify and edit before publishing.</li>
+<li>A small weekly audit routine beats an occasional big cleanup.</li>
+</ul>
+
+<h2>Frequently Asked Questions</h2>
+
+<h3>Do I need to be a programmer to use Python for SEO?</h3>
+<p>No. If you can run a script and read a CSV file, you can follow along. Start with the audit script and change one line at a time.</p>
+
+<h3>Is using AI for SEO against Google's rules?</h3>
+<p>Search engines focus on whether content is useful and original, not on the tool used to make it. Mass-produced, low-quality pages are the problem. Reviewed, original and helpful content is fine.</p>
+
+<h3>Which AI model should I use for SEO tasks?</h3>
+<p>Any capable language model works for first drafts. For keyword clustering, a free local embedding model such as the one above is enough.</p>
+
+<h3>How often should I audit my website?</h3>
+<p>Monthly is plenty for most sites. Run an audit straight away after any big change to templates, URLs or navigation.</p>
+
+<h2>Conclusion</h2>
+<p>Python and AI don't replace SEO judgement. They remove the dull parts so you have time for the work that matters: understanding what your readers want and writing something worth reading. Run the audit script this week, fix what it finds, and add clustering next time. In a month you'll have a repeatable system instead of a pile of spreadsheets.</p>
+
+<h2>Explore More on BITOMANCY</h2>
+<p>Want more practical AI and technology guides? Visit the <a href="/">BITOMANCY homepage</a> for more articles on artificial intelligence, automation, SEO and emerging technology.</p>
+
+</article>
+</main>
+
+<footer class="footer">
+<div class="container copyright">© 2026 BITOMANCY — ALL RIGHTS RESERVED</div>
+</footer>
+
+<script src="/script.js"></script>
+</body>
+</html>
