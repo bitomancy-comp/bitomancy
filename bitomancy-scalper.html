@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en" data-theme="dark"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Bitomancy Scalper: NIFTY & BANK NIFTY Signal Tool for Windows | BITOMANCY</title><meta name="description" content="Educational technical analysis tool for NIFTY and BANK NIFTY on 1-minute and 3-minute charts. Try the signal demo, then buy once on Gumroad."><link rel="canonical" href="https://bitomancy.in/bitomancy-scalper.html"><meta property="og:title" content="Bitomancy Scalper: NIFTY & BANK NIFTY Signal Tool for Windows | BITOMANCY"><meta property="og:description" content="Educational technical analysis tool for NIFTY and BANK NIFTY on 1-minute and 3-minute charts. Try the signal demo, then buy once on Gumroad."><meta property="og:url" content="https://bitomancy.in/bitomancy-scalper.html"><meta property="og:type" content="website"><link rel="stylesheet" href="/styles.css"><style>
+html[data-theme=dark]{--bx-bg:#0e1116;--bx-panel:#161b22;--bx-line:#2a313c;--bx-text:#e6e9ee;--bx-mut:#9aa4b2;--bx-up:#2ecc8f;--bx-dn:#ff5d6c;--bx-acc:#f5b942}
+html[data-theme=light]{--bx-bg:#f6f7f9;--bx-panel:#fff;--bx-line:#d9dde3;--bx-text:#14181f;--bx-mut:#5b6573;--bx-up:#0f9d63;--bx-dn:#d6283a;--bx-acc:#a86f00}
+.bx{max-width:1040px;margin:0 auto;padding:40px 20px 70px}
+.bx h1{font-size:clamp(30px,5vw,48px);line-height:1.1;margin:8px 0 14px}
+.bx h2{margin:48px 0 14px;font-size:26px}
+.bx .lead{font-size:19px;color:var(--bx-mut);max-width:680px}
+.bx-badge{display:inline-block;padding:4px 10px;border:1px solid var(--bx-line);border-radius:6px;font-size:13px;color:var(--bx-acc)}
+.bx-cta{display:flex;gap:14px;align-items:center;flex-wrap:wrap;margin:22px 0}
+.bx-btn{display:inline-block;padding:13px 22px;border-radius:8px;background:var(--bx-acc);color:#111;font-weight:700;text-decoration:none}
+.bx-price{font-size:15px;color:var(--bx-mut)}.bx-price b{font-size:26px;color:var(--bx-text)}
+.bx-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(290px,1fr));gap:18px}
+.bx-card{background:var(--bx-panel);border:1px solid var(--bx-line);border-radius:10px;padding:20px;display:flex;flex-direction:column;gap:8px}
+.bx-card h3{margin:0;font-size:20px}.bx-card p{margin:0;color:var(--bx-mut)}
+.bx-card .bx-row{margin-top:auto;display:flex;justify-content:space-between;align-items:center;padding-top:12px;gap:10px;flex-wrap:wrap}
+.bx-tag{font-size:12px;color:var(--bx-acc)}
+.bx-demo{background:var(--bx-panel);border:1px solid var(--bx-line);border-radius:12px;padding:16px;margin-top:16px}
+.bx-demo canvas{width:100%;height:340px;display:block;background:var(--bx-bg);border-radius:8px}
+.bx-bar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:12px}
+.bx-bar button{background:transparent;color:var(--bx-text);border:1px solid var(--bx-line);border-radius:6px;padding:8px 14px;cursor:pointer;font:inherit}
+.bx-bar button:hover,.bx-bar button.on{border-color:var(--bx-acc);color:var(--bx-acc)}
+.bx-sim{margin-left:auto;font-size:12px;color:var(--bx-dn)}
+.bx-sig{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin-top:12px}
+.bx-sig div{background:var(--bx-bg);border:1px solid var(--bx-line);border-radius:8px;padding:10px 12px}
+.bx-sig span{display:block;font-size:12px;color:var(--bx-mut)}.bx-sig strong{font-size:20px}
+.bx-up{color:var(--bx-up)}.bx-dn{color:var(--bx-dn)}.bx-wait{color:var(--bx-mut)}
+.bx-log{margin-top:12px;max-height:150px;overflow:auto;font-size:14px;color:var(--bx-mut)}
+.bx-log div{padding:5px 0;border-bottom:1px solid var(--bx-line)}
+.bx table{width:100%;border-collapse:collapse;font-size:15px}.bx th,.bx td{padding:10px;border-bottom:1px solid var(--bx-line);text-align:left}
+.bx ul{padding-left:20px}.bx li{margin:7px 0}
+.bx-warn{border:1px solid var(--bx-dn);border-radius:10px;padding:16px;margin-top:40px;font-size:14px;color:var(--bx-mut)}
+.bx-warn b{color:var(--bx-text)}
+.bx-faq p{margin:4px 0 16px;color:var(--bx-mut)}
+.bx-crumb{font-size:14px;color:var(--bx-mut)}.bx-crumb a{color:var(--bx-mut)}
+@media(max-width:600px){.bx-demo canvas{height:260px}.bx-sim{margin-left:0}}
+</style></head><body><header class="header"><div class="container nav"><a class="brand" href="/">BITO<span>MANCY</span></a><nav class="nav-simple"><a href="/">HOME</a><a href="/blog.html">BLOG</a><a href="/tools.html">TOOLS</a><a href="/products.html">BITOMANCY PRODUCTS</a><a href="/about.html">ABOUT</a></nav><div class="nav-actions"><button class="icon-btn" id="themeBtn" aria-label="Toggle theme">&#9788;</button></div></div></header><main class="bx"><div class="bx-crumb"><a href="/products.html">Bitomancy Products</a> / Bitomancy Scalper</div>
+<span class="bx-badge">Educational trading tool &middot; Windows 10/11</span>
+<h1>Bitomancy Scalper</h1>
+<p class="lead">A desktop tool that reads NIFTY and BANK NIFTY price action on 1-minute and 3-minute charts and shows a clear buy-call, buy-put or wait signal, with entry, stop-loss and target levels.</p>
+<div class="bx-cta"><a class="bx-btn" href="https://bitomancer6.gumroad.com/l/gwkqhf" target="_blank" rel="noopener">Buy on Gumroad</a><span class="bx-price"><b>&#8377;2,999</b> one-time &middot; no subscription</span></div>
+<h2>Try the signal demo</h2>
+<p class="muted">This is a simulated chart to show how a signal appears and resolves. The rule here is simple: a 9/21 EMA crossover confirmed by RSI, with stop-loss and target set from recent candle range. The desktop tool shows the same style of output on real index charts.</p>
+<div class="bx-demo" id="demo"><div class="bx-bar"><button id="dNext">Next candle</button><button id="dPlay">Auto-play</button><button id="dNew">New sample</button><span class="bx-sim">SIMULATED DATA &mdash; not live market</span></div><canvas id="dCv" aria-label="Simulated candlestick chart with buy and sell signals"></canvas><div class="bx-sig"><div><span>Signal</span><strong id="sSig" class="bx-wait">WAIT</strong></div><div><span>Entry (index)</span><strong id="sEn">&ndash;</strong></div><div><span>Stop-loss</span><strong id="sSl">&ndash;</strong></div><div><span>Target</span><strong id="sTg">&ndash;</strong></div><div><span>RSI (14)</span><strong id="sRsi">&ndash;</strong></div><div><span>Trend</span><strong id="sTr">&ndash;</strong></div></div><div class="bx-log" id="dLog"><div>Press <b>Next candle</b> or <b>Auto-play</b> to watch signals form.</div></div></div>
+<script>
+(function(){
+var cv=document.getElementById('dCv'),cx=cv.getContext('2d'),C=[],seed=7,timer=null,sigs=[],mid=null;
+function rnd(){seed=(seed*16807)%2147483647;return(seed-1)/2147483646}
+function cand(prev){var o=prev?prev.c:22500,d=(rnd()-0.5)*18+Math.sin(C.length/9)*3.2,c=o+d,h=Math.max(o,c)+rnd()*7,l=Math.min(o,c)-rnd()*7;return{o:o,h:h,l:l,c:c}}
+function ema(a,n,k){var m=2/(n+1),r=[],p=a[0];for(var i=0;i<a.length;i++){p=i?a[i]*m+p*(1-m):a[0];r.push(p)}return r}
+function rsi(cl,n){if(cl.length<=n)return null;var g=0,l=0;for(var i=cl.length-n;i<cl.length;i++){var d=cl[i]-cl[i-1];if(d>0)g+=d;else l-=d}return l===0?100:100-100/(1+g/l)}
+function fmt(x){return x.toFixed(1)}
+function evalSig(){var cl=C.map(function(x){return x.c}),n=C.length;if(n<25)return;var e9=ema(cl,9),e21=ema(cl,21),r=rsi(cl,14);
+ document.getElementById('sRsi').textContent=r?r.toFixed(0):'–';
+ var up=e9[n-1]>e21[n-1];var t=document.getElementById('sTr');t.textContent=up?'Up':'Down';t.className=up?'bx-up':'bx-dn';
+ var cu=e9[n-2]<=e21[n-2]&&e9[n-1]>e21[n-1],cd=e9[n-2]>=e21[n-2]&&e9[n-1]<e21[n-1],s=null,last=C[n-1];
+ if(cu&&r>50)s='CALL';if(cd&&r<50)s='PUT';
+ if(s){var atr=0;for(var i=n-10;i<n;i++)atr+=C[i].h-C[i].l;atr/=10;var sl=s==='CALL'?last.c-atr*1.5:last.c+atr*1.5,tg=s==='CALL'?last.c+atr*3:last.c-atr*3;
+  sigs.push({i:n-1,s:s});mid={s:s,en:last.c,sl:sl,tg:tg};
+  var el=document.getElementById('sSig');el.textContent=s==='CALL'?'BUY CALL':'BUY PUT';el.className=s==='CALL'?'bx-up':'bx-dn';
+  document.getElementById('sEn').textContent=fmt(last.c);document.getElementById('sSl').textContent=fmt(sl);document.getElementById('sTg').textContent=fmt(tg);
+  var lg=document.getElementById('dLog'),d=document.createElement('div');d.textContent='Candle '+n+': EMA 9/21 crossover '+(s==='CALL'?'up':'down')+', RSI '+r.toFixed(0)+' confirms. Entry '+fmt(last.c)+', stop '+fmt(sl)+', target '+fmt(tg)+'.';
+  if(lg.firstChild&&lg.firstChild.querySelector&&lg.firstChild.querySelector('b'))lg.innerHTML='';lg.insertBefore(d,lg.firstChild)}
+ else if(mid){if(mid.s==='CALL'?(last.l<=mid.sl||last.h>=mid.tg):(last.h>=mid.sl||last.l<=mid.tg)){var hit=(mid.s==='CALL'?last.h>=mid.tg:last.l<=mid.tg)?'target reached':'stop-loss hit';
+  var lg2=document.getElementById('dLog'),d2=document.createElement('div');d2.textContent='Candle '+n+': '+hit+' on the '+(mid.s==='CALL'?'call':'put')+' signal. Back to waiting.';lg2.insertBefore(d2,lg2.firstChild);mid=null;
+  var e=document.getElementById('sSig');e.textContent='WAIT';e.className='bx-wait';['sEn','sSl','sTg'].forEach(function(k){document.getElementById(k).innerHTML='&ndash;'})}}}
+function draw(){var dpr=window.devicePixelRatio||1,w=cv.clientWidth,h=cv.clientHeight;cv.width=w*dpr;cv.height=h*dpr;cx.setTransform(dpr,0,0,dpr,0,0);cx.clearRect(0,0,w,h);
+ var st=getComputedStyle(document.documentElement),up=st.getPropertyValue('--bx-up'),dn=st.getPropertyValue('--bx-dn'),ln=st.getPropertyValue('--bx-line'),mu=st.getPropertyValue('--bx-mut'),ac=st.getPropertyValue('--bx-acc');
+ var V=Math.max(20,Math.floor(w/11)),s0=Math.max(0,C.length-V),vis=C.slice(s0);if(!vis.length)return;
+ var hi=-1e9,lo=1e9;vis.forEach(function(x){hi=Math.max(hi,x.h);lo=Math.min(lo,x.l)});var pad=(hi-lo)*0.12;hi+=pad;lo-=pad;
+ function Y(v){return 8+(hi-v)/(hi-lo)*(h-16)}var cw=w/V;
+ cx.strokeStyle=ln;cx.lineWidth=1;cx.fillStyle=mu;cx.font='11px sans-serif';for(var g=0;g<5;g++){var yy=8+g*(h-16)/4;cx.beginPath();cx.moveTo(0,yy);cx.lineTo(w,yy);cx.stroke();cx.fillText((hi-(hi-lo)*g/4).toFixed(0),w-38,yy-3)}
+ vis.forEach(function(x,i){var X=i*cw+cw/2,col=x.c>=x.o?up:dn;cx.strokeStyle=col;cx.fillStyle=col;cx.beginPath();cx.moveTo(X,Y(x.h));cx.lineTo(X,Y(x.l));cx.stroke();var t=Y(Math.max(x.o,x.c)),b=Y(Math.min(x.o,x.c));cx.fillRect(X-cw*0.32,t,cw*0.64,Math.max(1.5,b-t))});
+ var cl=C.map(function(x){return x.c});[[ema(cl,9),ac],[ema(cl,21),mu]].forEach(function(p){cx.strokeStyle=p[1];cx.lineWidth=1.6;cx.beginPath();vis.forEach(function(x,i){var v=p[0][s0+i],X=i*cw+cw/2;i?cx.lineTo(X,Y(v)):cx.moveTo(X,Y(v))});cx.stroke()});
+ sigs.forEach(function(g){var i=g.i-s0;if(i<0)return;var X=i*cw+cw/2,c=C[g.i],isC=g.s==='CALL',y=isC?Y(c.l)+16:Y(c.h)-16;cx.fillStyle=isC?up:dn;cx.beginPath();if(isC){cx.moveTo(X,y-12);cx.lineTo(X-8,y+2);cx.lineTo(X+8,y+2)}else{cx.moveTo(X,y+12);cx.lineTo(X-8,y-2);cx.lineTo(X+8,y-2)}cx.fill()});
+ if(mid){[['sl',dn],['tg',up],['en',ac]].forEach(function(p){var y=Y(mid[p[0]]);if(y<0||y>h)return;cx.strokeStyle=p[1];cx.setLineDash([5,4]);cx.beginPath();cx.moveTo(0,y);cx.lineTo(w,y);cx.stroke();cx.setLineDash([])})}}
+function step(){C.push(cand(C[C.length-1]));evalSig();draw()}
+function reset(){seed=Math.floor(Math.random()*9000)+11;C=[];sigs=[];mid=null;for(var i=0;i<45;i++)C.push(cand(C[C.length-1]));document.getElementById('dLog').innerHTML='<div>New simulated sample. Press <b>Next candle</b> or <b>Auto-play</b>.</div>';var e=document.getElementById('sSig');e.textContent='WAIT';e.className='bx-wait';draw();evalSig()}
+document.getElementById('dNext').onclick=step;document.getElementById('dNew').onclick=reset;
+var pb=document.getElementById('dPlay');pb.onclick=function(){if(timer){clearInterval(timer);timer=null;pb.classList.remove('on');pb.textContent='Auto-play'}else{timer=setInterval(step,550);pb.classList.add('on');pb.textContent='Pause'}};
+window.addEventListener('resize',draw);new MutationObserver(draw).observe(document.documentElement,{attributes:true,attributeFilter:['data-theme']});reset();
+})();
+</script>
+<h2>What you get</h2>
+<div class="bx-grid">
+<div class="bx-card"><h3>Clear signals</h3><p>Buy call, buy put or wait, shown with entry, stop-loss and target so you always see the plan before acting.</p></div>
+<div class="bx-card"><h3>1-min and 3-min charts</h3><p>Switch timeframe to match how fast you trade.</p></div>
+<div class="bx-card"><h3>Index option strikes</h3><p>Choose option strikes of the index to view option prices alongside the chart.</p></div>
+<div class="bx-card"><h3>Built-in risk notice</h3><p>A market-risk disclaimer is part of the app, because no tool removes risk.</p></div>
+<div class="bx-card"><h3>One computer licence</h3><p>Activated with a Machine ID, like InvoiceKit. One purchase covers one computer.</p></div>
+<div class="bx-card"><h3>Windows desktop app</h3><p>Runs on Windows 10 and 11. No monthly fee.</p></div></div>
+<h2>How it works</h2>
+<ol><li>Buy on Gumroad and download the file.</li><li>Install and open the app on your Windows computer.</li><li>Email your Machine ID and Gumroad receipt to <a href="mailto:support.bitomancy@gmail.com">support.bitomancy@gmail.com</a> and enter the activation code you receive.</li><li>Pick NIFTY or BANK NIFTY and a timeframe, then follow the signals as a learning aid.</li></ol>
+<h2>Need more markets?</h2>
+<p>Bitomancy Multi-Market Scalper adds crypto, Sensex and Indian stocks. <a href="/bitomancy-multi-scalper.html">See the Pro version</a>.</p>
+<h2>Questions</h2>
+<div class="bx-faq"><h3>Is it a subscription?</h3><p>No. It is a one-time purchase on Gumroad.</p><h3>Does it guarantee profit?</h3><p>No. Signals follow fixed technical rules and can be wrong. It is an educational tool, not investment advice.</p><h3>Can I use it on two computers?</h3><p>One licence covers one computer. Email support to move it to a new one.</p><h3>How do I get support?</h3><p>Email support.bitomancy@gmail.com with your Gumroad receipt.</p></div>
+<div class="bx-warn"><b>Risk disclaimer.</b> Investments in securities markets, derivatives and crypto assets are subject to market risk. Read all related documents carefully. Bitomancy is an educational software tool, not investment advice, and the seller is not registered with SEBI as an investment adviser or research analyst. Signals shown are generated by fixed technical rules; they can be wrong, and you can lose money. Demo charts on this page use simulated data. Past or simulated performance does not indicate future results. Trade only with money you can afford to lose.</div></main><footer class="footer"><div class="container footer-grid"><div><a class="brand" href="/">BITOMANCY</a><p>AI &bull; TECH &bull; DIGITAL GROWTH</p><p class="muted">Technology explained simply. Tools that actually help.</p></div><div><h4>Explore</h4><a href="/blog.html">Articles</a> <a href="/tools.html">Free Tools</a> <a href="/products.html">Bitomancy Products</a></div><div><h4>Company</h4><a href="/about.html">About</a> <a href="/contact.html">Contact</a></div><div><h4>Legal</h4><a href="/privacy.html">Privacy</a> <a href="/terms.html">Terms</a> <a href="/disclaimer.html">Disclaimer</a> <a href="/affiliate-disclosure.html">Affiliate Disclosure</a></div></div><div class="container copyright">&copy; 2026 BITOMANCY &mdash; ALL RIGHTS RESERVED</div></footer><script src="/script.js"></script></body></html>
