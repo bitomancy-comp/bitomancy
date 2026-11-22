@@ -24,7 +24,7 @@ const idx = path.join(R, 'index.html'); let home = read(idx);
 const list = posts.map(p => `<li><a href="${p.url}"><span class="doc-cat">${esc(p.cat)}</span><span class="doc-title">${esc(p.title)}</span><small>${fmt(p.date)}</small></a></li>`).join('');
 home = home.replace(/<!--POSTS:all-->[\s\S]*?<!--\/POSTS:all-->/, `<!--POSTS:all-->${list}<!--/POSTS:all-->`); fs.writeFileSync(idx, home);
 // 2. sitemap
-const pages = [['', 1.0], ['blog.html', .9], ['bitomancy-scalper.html', .9], ['tools.html', .9], ['tools-plus.html', .9], ['products.html', .7], ['shop.html', .7], ['about.html', .5], ['contact.html', .4], ['privacy.html', .2], ['terms.html', .2], ['disclaimer.html', .2], ['affiliate-disclosure.html', .2]]
+const pages = [['', 1.0], ['blog.html', .9], ['bitomancy-scalper.html', .9], ['tools.html', .9], ['products.html', .7], ['shop.html', .7], ['about.html', .5], ['contact.html', .4], ['privacy.html', .2], ['terms.html', .2], ['disclaimer.html', .2], ['affiliate-disclosure.html', .2]]
   .filter(([f]) => !f || fs.existsSync(path.join(R, f)));
 const today = new Date().toISOString().slice(0, 10);
 const u = (loc, lm, cf, pr) => `<url><loc>${SITE}/${loc}</loc><lastmod>${lm}</lastmod><changefreq>${cf}</changefreq><priority>${pr.toFixed(1)}</priority></url>`;
